@@ -1,0 +1,2021 @@
+﻿OBSR_NO.,DAY,Location,No. Empl,Customer Sat,Application Used,Loan/Lease,Approved/Dis,Amount,Approval Time,Wait for Info,Wait - Discrete,Cycle Time,Log10 Cycle Time,Cycle Time - Discrete
+1,1,New York,6,5,2,Lease,Approved,31,4,0,No,8,0.90309,Pass
+2,1,Sydney,11,5,2,Lease,Approved,52,5,0,No,9,0.95424,Fail
+3,1,New York,15,5,3,Loan,Disapproved,43,4,0,No,7,0.8451,Pass
+4,1,Sydney,5,5,1,Lease,Approved,64,10,4,Yes,20,1.30103,Fail
+5,1,New York,11,5,1,Loan,Approved,35,4,0,No,8,0.90309,Pass
+6,1,Sydney,7,4,1,Lease,Approved,49,7,2,Yes,13,1.11394,Fail
+7,1,Paris,8,5,1,Lease,Approved,38,2,0,No,4,0.60206,Pass
+8,1,Sydney,8,3,2,Lease,Approved,30,6,3,Yes,11,1.04139,Fail
+9,1,Sydney,9,3,1,Loan,Approved,26,8,6,Yes,15,1.17609,Fail
+10,1,New York,9,5,2,Lease,Approved,25,7,5,Yes,13,1.11394,Fail
+11,1,Paris,15,3,1,Lease,Disapproved,51,5,0,No,9,0.95424,Fail
+12,1,Sydney,9,5,1,Lease,Approved,62,7,3,Yes,14,1.14613,Fail
+13,1,Paris,5,4,1,Loan,Approved,23,4,1,Yes,6,0.77815,Pass
+14,1,Sydney,8,4,1,Lease,Approved,44,8,6,Yes,15,1.17609,Fail
+15,1,New York,9,5,2,Loan,Approved,75,5,2,Yes,10,1,Fail
+16,1,New York,11,5,2,Lease,Approved,39,6,3,Yes,11,1.04139,Fail
+17,1,New York,9,3,1,Loan,Approved,58,4,0,No,6,0.77815,Pass
+18,1,New York,17,3,1,Lease,Disapproved,40,5,0,No,10,1,Fail
+19,1,Paris,8,5,2,Lease,Approved,46,3,1,Yes,5,0.69897,Pass
+20,1,New York,5,2,2,Lease,Approved,35,7,2,Yes,13,1.11394,Fail
+21,1,Sydney,3,4,1,Lease,Approved,31,7,2,Yes,13,1.11394,Fail
+22,1,New York,8,4,3,Lease,Approved,32,7,3,Yes,14,1.14613,Fail
+23,1,New York,2,3,1,Lease,Approved,63,6,1,Yes,11,1.04139,Fail
+24,1,Sydney,6,4,3,Loan,Approved,64,7,2,Yes,13,1.11394,Fail
+25,1,Sydney,8,4,2,Lease,Approved,65,11,4,Yes,21,1.32222,Fail
+26,1,Paris,16,4,3,Loan,Disapproved,49,3,1,Yes,5,0.69897,Pass
+27,1,New York,7,4,3,Lease,Approved,68,5,0,No,9,0.95424,Fail
+28,1,New York,6,5,3,Lease,Approved,57,4,1,Yes,6,0.77815,Pass
+29,1,Paris,13,4,1,Lease,Disapproved,36,3,0,No,5,0.69897,Pass
+30,1,New York,13,4,2,Loan,Disapproved,75,5,2,Yes,10,1,Fail
+31,1,New York,5,4,3,Lease,Approved,31,6,1,Yes,11,1.04139,Fail
+32,1,New York,7,4,2,Lease,Approved,52,4,0,No,8,0.90309,Pass
+33,1,New York,9,3,2,Lease,Approved,43,5,0,No,9,0.95424,Fail
+34,1,New York,6,4,3,Lease,Approved,64,5,0,No,9,0.95424,Fail
+35,1,Sydney,15,4,3,Lease,Disapproved,75,5,0,No,10,1,Fail
+36,1,Paris,13,5,1,Loan,Disapproved,84,2,0,No,4,0.60206,Pass
+37,1,New York,7,4,3,Lease,Approved,48,4,0,No,6,0.77815,Pass
+38,1,Paris,11,4,3,Lease,Approved,37,2,0,No,4,0.60206,Pass
+39,1,New York,6,3,1,Lease,Approved,60,5,0,No,9,0.95424,Fail
+40,1,New York,9,3,2,Lease,Approved,65,4,0,No,8,0.90309,Pass
+41,1,New York,14,3,1,Lease,Disapproved,71,6,1,Yes,11,1.04139,Fail
+42,1,Paris,5,5,1,Lease,Approved,52,2,0,No,4,0.60206,Pass
+43,1,Paris,12,4,3,Lease,Approved,53,2,0,No,4,0.60206,Pass
+44,1,Paris,14,4,1,Lease,Disapproved,24,2,0,No,4,0.60206,Pass
+45,1,Paris,13,3,1,Lease,Disapproved,35,4,0,No,8,0.90309,Pass
+46,1,New York,3,4,1,Lease,Approved,39,4,1,Yes,7,0.8451,Pass
+47,1,Paris,4,4,2,Loan,Approved,28,3,0,No,5,0.69897,Pass
+48,1,Sydney,10,2,3,Lease,Approved,67,11,6,Yes,23,1.36173,Fail
+49,1,Paris,5,4,1,Lease,Approved,26,4,2,Yes,7,0.8451,Pass
+50,1,New York,11,2,2,Lease,Approved,85,6,1,Yes,11,1.04139,Fail
+51,1,Sydney,12,3,3,Lease,Approved,71,8,4,Yes,17,1.23045,Fail
+52,1,New York,12,5,2,Lease,Approved,92,5,0,No,10,1,Fail
+53,1,Paris,9,5,3,Lease,Approved,43,4,1,Yes,7,0.8451,Pass
+54,1,New York,4,3,1,Loan,Approved,54,5,0,No,10,1,Fail
+55,1,Sydney,9,1,1,Lease,Approved,65,7,3,Yes,14,1.14613,Fail
+56,1,Sydney,16,2,2,Lease,Disapproved,49,6,1,Yes,11,1.04139,Fail
+57,1,Sydney,14,2,2,Lease,Disapproved,58,7,2,Yes,13,1.11394,Fail
+58,1,New York,5,4,2,Lease,Approved,60,6,1,Yes,11,1.04139,Fail
+59,1,Sydney,10,2,3,Lease,Approved,66,8,3,Yes,16,1.20412,Fail
+60,1,New York,12,5,3,Lease,Approved,55,4,0,No,8,0.90309,Pass
+61,1,Paris,8,5,1,Lease,Approved,51,4,1,Yes,6,0.77815,Pass
+62,1,Sydney,13,1,1,Lease,Disapproved,62,5,0,No,9,0.95424,Fail
+63,1,Paris,9,5,3,Lease,Approved,63,4,0,No,6,0.77815,Pass
+64,1,New York,15,1,2,Loan,Disapproved,64,6,2,Yes,11,1.04139,Fail
+65,1,New York,8,5,1,Lease,Approved,55,4,0,No,7,0.8451,Pass
+66,1,Paris,11,5,1,Lease,Approved,59,5,0,No,10,1,Fail
+67,1,New York,9,5,2,Lease,Approved,48,4,0,No,7,0.8451,Pass
+68,1,New York,13,1,2,Lease,Disapproved,107,6,1,Yes,12,1.07918,Fail
+69,1,New York,9,5,1,Lease,Approved,66,5,0,No,9,0.95424,Fail
+70,1,Sydney,11,2,3,Lease,Approved,25,8,3,Yes,16,1.20412,Fail
+71,1,New York,5,5,2,Loan,Approved,51,5,0,No,9,0.95424,Fail
+72,1,New York,11,5,3,Lease,Approved,42,4,0,No,7,0.8451,Pass
+73,1,Paris,13,3,2,Lease,Disapproved,53,5,0,No,9,0.95424,Fail
+74,1,New York,2,5,3,Lease,Approved,84,4,0,No,8,0.90309,Pass
+75,1,Paris,6,5,2,Lease,Approved,55,4,1,Yes,6,0.77815,Pass
+76,1,New York,7,4,3,Lease,Approved,89,5,0,No,9,0.95424,Fail
+77,1,New York,7,4,3,Lease,Approved,28,6,3,Yes,11,1.04139,Fail
+78,1,Sydney,8,4,2,Lease,Approved,30,7,3,Yes,14,1.14613,Fail
+79,1,New York,16,4,3,Lease,Disapproved,56,4,0,No,8,0.90309,Pass
+80,1,New York,15,4,2,Lease,Disapproved,45,4,0,No,8,0.90309,Pass
+81,1,New York,8,4,1,Lease,Approved,41,4,0,No,8,0.90309,Pass
+82,1,New York,12,4,2,Lease,Approved,92,7,3,Yes,14,1.14613,Fail
+83,1,Sydney,16,4,3,Lease,Disapproved,83,6,2,Yes,11,1.04139,Fail
+84,1,Sydney,12,1,1,Lease,Approved,24,8,3,Yes,17,1.23045,Fail
+85,1,New York,9,4,3,Lease,Approved,35,6,1,Yes,12,1.07918,Fail
+86,1,Sydney,9,4,3,Lease,Approved,29,6,1,Yes,12,1.07918,Fail
+87,1,New York,8,4,1,Lease,Approved,68,4,1,Yes,6,0.77815,Pass
+88,1,New York,12,4,1,Lease,Approved,37,5,0,No,9,0.95424,Fail
+89,1,New York,9,4,3,Lease,Approved,36,5,0,No,10,1,Fail
+90,1,Sydney,10,4,1,Lease,Approved,45,6,1,Yes,12,1.07918,Fail
+91,1,Paris,9,3,2,Lease,Approved,71,3,0,No,5,0.69897,Pass
+92,1,New York,11,3,3,Lease,Approved,42,5,0,No,10,1,Fail
+93,1,Paris,15,3,1,Lease,Disapproved,33,3,0,No,5,0.69897,Pass
+94,1,Sydney,10,3,3,Lease,Approved,54,8,4,Yes,17,1.23045,Fail
+95,1,Sydney,15,3,3,Lease,Disapproved,55,5,0,No,10,1,Fail
+96,1,Sydney,12,3,3,Lease,Approved,59,9,4,Yes,18,1.25527,Fail
+97,1,Sydney,5,3,2,Lease,Approved,60,6,3,Yes,11,1.04139,Fail
+98,1,New York,12,3,2,Loan,Approved,27,4,2,Yes,7,0.8451,Pass
+99,1,New York,11,3,2,Loan,Approved,46,4,0,No,8,0.90309,Pass
+100,1,New York,11,3,3,Lease,Approved,25,3,0,No,5,0.69897,Pass
+101,1,New York,11,4,2,Loan,Approved,31,4,1,Yes,7,0.8451,Pass
+102,1,New York,5,4,1,Lease,Approved,82,5,0,No,10,1,Fail
+103,1,New York,12,4,2,Lease,Approved,63,4,1,Yes,6,0.77815,Pass
+104,1,Sydney,6,2,1,Loan,Approved,34,11,4,Yes,21,1.32222,Fail
+105,1,Sydney,12,2,3,Lease,Approved,65,6,2,Yes,11,1.04139,Fail
+106,1,Sydney,8,5,2,Lease,Approved,69,10,4,Yes,20,1.30103,Fail
+107,1,New York,8,4,1,Lease,Approved,28,4,1,Yes,7,0.8451,Pass
+108,1,Sydney,14,1,1,Lease,Disapproved,67,8,3,Yes,16,1.20412,Fail
+109,1,Paris,10,5,2,Lease,Approved,56,0,0,No,3,0.47712,Pass
+110,1,Paris,18,5,1,Lease,Disapproved,45,4,0,No,8,0.90309,Pass
+111,1,Sydney,8,2,1,Loan,Approved,81,9,7,Yes,18,1.25527,Fail
+112,1,New York,14,3,3,Lease,Disapproved,42,5,0,No,10,1,Fail
+113,1,Sydney,9,1,2,Lease,Approved,63,12,2,Yes,28,1.44716,Fail
+114,1,Paris,12,5,3,Lease,Approved,24,4,1,Yes,6,0.77815,Pass
+115,1,Sydney,10,1,1,Lease,Approved,55,11,6,Yes,23,1.36173,Fail
+116,1,New York,11,5,1,Lease,Approved,80,4,1,Yes,6,0.77815,Pass
+117,1,Sydney,14,3,1,Lease,Disapproved,88,11,5,Yes,22,1.34242,Fail
+118,1,New York,11,5,2,Lease,Approved,27,4,0,No,8,0.90309,Pass
+119,1,Paris,15,4,2,Loan,Disapproved,36,2,0,No,4,0.60206,Pass
+120,1,Paris,9,5,3,Lease,Approved,65,0,0,No,4,0.60206,Pass
+121,1,Sydney,9,2,2,Loan,Approved,41,8,3,Yes,16,1.20412,Fail
+122,1,Sydney,8,3,3,Lease,Approved,72,8,4,Yes,17,1.23045,Fail
+123,1,Paris,10,5,3,Lease,Approved,43,5,0,No,10,1,Fail
+124,1,Paris,10,5,2,Lease,Approved,24,4,0,No,8,0.90309,Pass
+125,1,New York,7,5,1,Lease,Approved,45,5,0,No,9,0.95424,Fail
+126,1,New York,10,5,3,Lease,Approved,49,6,2,Yes,12,1.07918,Fail
+127,2,New York,7,5,3,Loan,Approved,78,5,0,No,10,1,Fail
+128,2,New York,13,4,1,Lease,Disapproved,77,4,1,Yes,7,0.8451,Pass
+129,2,Paris,8,5,1,Loan,Approved,56,3,0,No,5,0.69897,Pass
+130,2,Paris,11,5,3,Lease,Approved,25,5,0,No,9,0.95424,Fail
+131,2,New York,6,4,1,Lease,Approved,71,4,0,No,8,0.90309,Pass
+132,2,Paris,12,4,3,Lease,Approved,92,4,0,No,6,0.77815,Pass
+133,2,New York,18,4,1,Lease,Disapproved,43,0,0,No,3,0.47712,Pass
+134,2,New York,8,4,3,Loan,Approved,34,5,0,No,9,0.95424,Fail
+135,2,Sydney,13,4,1,Loan,Disapproved,6,7,3,Yes,14,1.14613,Fail
+136,2,Paris,9,4,2,Loan,Approved,39,2,0,No,4,0.60206,Pass
+137,2,Paris,9,4,3,Lease,Approved,18,2,0,No,4,0.60206,Pass
+138,2,New York,14,4,3,Lease,Disapproved,37,4,1,Yes,7,0.8451,Pass
+139,2,New York,11,4,1,Loan,Approved,86,4,0,No,6,0.77815,Pass
+140,2,New York,10,4,3,Loan,Approved,35,5,0,No,9,0.95424,Fail
+141,2,Paris,6,4,2,Loan,Approved,31,4,0,No,7,0.8451,Pass
+142,2,New York,14,4,1,Loan,Disapproved,92,4,1,Yes,6,0.77815,Pass
+143,2,New York,12,4,3,Lease,Approved,53,3,0,No,5,0.69897,Pass
+144,2,Sydney,9,4,1,Loan,Approved,34,5,3,Yes,10,1,Fail
+145,2,New York,7,4,2,Loan,Approved,45,4,0,No,6,0.77815,Pass
+146,2,New York,11,3,1,Lease,Approved,129,4,1,Yes,7,0.8451,Pass
+147,2,New York,12,3,3,Loan,Approved,68,4,0,No,8,0.90309,Pass
+148,2,Paris,5,3,1,Loan,Approved,47,3,1,Yes,5,0.69897,Pass
+149,2,Sydney,13,3,2,Lease,Disapproved,36,6,3,Yes,11,1.04139,Fail
+150,2,Sydney,8,3,1,Lease,Approved,65,5,0,No,9,0.95424,Fail
+151,2,New York,10,3,3,Lease,Approved,71,5,0,No,9,0.95424,Fail
+152,2,New York,12,3,1,Lease,Approved,32,4,0,No,8,0.90309,Pass
+153,2,New York,8,3,1,Loan,Approved,33,4,0,No,8,0.90309,Pass
+154,2,Paris,9,5,3,Lease,Approved,142,4,1,Yes,6,0.77815,Pass
+155,2,New York,6,3,3,Lease,Approved,90,4,1,Yes,7,0.8451,Pass
+156,2,New York,12,4,1,Loan,Approved,79,4,0,No,8,0.90309,Pass
+157,2,New York,10,4,1,Lease,Approved,38,4,0,No,7,0.8451,Pass
+158,2,New York,5,4,2,Lease,Approved,17,4,0,No,7,0.8451,Pass
+159,2,Paris,5,5,3,Lease,Approved,46,4,0,No,7,0.8451,Pass
+160,2,New York,10,5,3,Lease,Approved,95,4,1,Yes,6,0.77815,Pass
+161,2,New York,18,5,3,Lease,Disapproved,31,4,0,No,8,0.90309,Pass
+162,2,New York,10,3,3,Lease,Approved,82,4,1,Yes,7,0.8451,Pass
+163,2,Paris,11,4,2,Lease,Approved,53,3,2,Yes,5,0.69897,Pass
+164,2,New York,7,5,1,Loan,Approved,84,4,1,Yes,6,0.77815,Pass
+165,2,Paris,12,5,3,Loan,Approved,55,0,0,No,3,0.47712,Pass
+166,2,New York,10,5,1,Lease,Approved,79,5,0,No,9,0.95424,Fail
+167,2,New York,8,5,2,Loan,Approved,8,5,0,No,10,1,Fail
+168,2,Paris,6,5,3,Lease,Approved,67,4,2,Yes,7,0.8451,Pass
+169,2,Sydney,14,3,2,Lease,Disapproved,36,8,8,Yes,17,1.23045,Fail
+170,2,New York,10,5,2,Lease,Approved,25,4,1,Yes,7,0.8451,Pass
+171,2,New York,6,5,2,Lease,Approved,81,2,1,Yes,4,0.60206,Pass
+172,2,New York,8,5,1,Loan,Approved,12,6,3,Yes,11,1.04139,Fail
+173,2,New York,15,4,1,Lease,Disapproved,60,4,2,Yes,7,0.8451,Pass
+174,2,New York,13,3,2,Lease,Disapproved,44,3,1,Yes,5,0.69897,Pass
+175,2,Paris,11,5,3,Loan,Approved,35,4,1,Yes,7,0.8451,Pass
+176,2,New York,6,5,3,Lease,Approved,69,5,0,No,9,0.95424,Fail
+177,2,New York,15,5,3,Lease,Disapproved,38,4,0,No,8,0.90309,Pass
+178,2,Paris,5,5,1,Loan,Approved,27,4,1,Yes,6,0.77815,Pass
+179,2,Paris,12,5,2,Lease,Approved,16,3,1,Yes,5,0.69897,Pass
+180,2,New York,11,5,3,Lease,Approved,35,4,1,Yes,6,0.77815,Pass
+181,2,Paris,12,5,2,Loan,Approved,21,4,0,No,8,0.90309,Pass
+182,2,New York,8,5,3,Lease,Approved,82,5,0,No,10,1,Fail
+183,2,New York,6,5,1,Lease,Approved,103,4,0,No,8,0.90309,Pass
+184,2,Sydney,12,3,3,Lease,Approved,84,7,3,Yes,14,1.14613,Fail
+185,2,New York,8,5,2,Loan,Approved,85,4,0,No,6,0.77815,Pass
+186,2,Paris,14,4,1,Lease,Disapproved,69,4,1,Yes,6,0.77815,Pass
+187,2,Sydney,8,4,1,Loan,Approved,68,6,2,Yes,11,1.04139,Fail
+188,2,Sydney,13,4,1,Lease,Disapproved,37,6,2,Yes,11,1.04139,Fail
+189,2,New York,16,4,1,Lease,Disapproved,66,6,2,Yes,11,1.04139,Fail
+190,2,New York,4,4,3,Lease,Approved,15,5,0,No,9,0.95424,Fail
+191,2,Sydney,12,4,3,Lease,Approved,71,7,3,Yes,14,1.14613,Fail
+192,2,Paris,7,4,3,Lease,Approved,30,2,0,No,4,0.60206,Pass
+193,2,New York,12,4,1,Lease,Approved,23,5,0,No,9,0.95424,Fail
+194,2,New York,9,4,3,Lease,Approved,34,4,0,No,8,0.90309,Pass
+195,2,Paris,13,5,2,Lease,Disapproved,95,0,0,No,3,0.47712,Pass
+196,2,New York,8,4,1,Lease,Approved,39,4,2,Yes,7,0.8451,Pass
+197,2,Paris,12,4,3,Loan,Approved,28,2,0,No,4,0.60206,Pass
+198,2,Sydney,7,4,2,Lease,Approved,67,7,3,Yes,14,1.14613,Fail
+199,2,Paris,12,4,3,Loan,Approved,46,5,0,No,9,0.95424,Fail
+200,2,New York,11,4,1,Loan,Approved,35,5,0,No,9,0.95424,Fail
+201,2,New York,8,4,2,Loan,Approved,41,3,0,No,5,0.69897,Pass
+202,2,Paris,16,3,3,Lease,Disapproved,72,0,0,No,3,0.47712,Pass
+203,2,Paris,14,5,2,Lease,Disapproved,53,3,2,Yes,5,0.69897,Pass
+204,2,Sydney,11,3,2,Loan,Approved,44,7,4,Yes,13,1.11394,Fail
+205,2,New York,14,3,2,Lease,Disapproved,45,5,0,No,10,1,Fail
+206,2,Paris,8,4,1,Lease,Approved,59,4,1,Yes,6,0.77815,Pass
+207,2,New York,10,3,2,Lease,Approved,28,6,1,Yes,11,1.04139,Fail
+208,2,Sydney,8,3,3,Lease,Approved,57,9,7,Yes,18,1.25527,Fail
+209,2,New York,13,3,1,Lease,Approved,66,3,1,Yes,5,0.69897,Pass
+210,2,New York,10,3,2,Loan,Approved,25,4,0,No,8,0.90309,Pass
+211,2,New York,10,4,1,Lease,Approved,50,4,0,No,8,0.90309,Pass
+212,2,Sydney,14,2,3,Loan,Disapproved,52,5,0,No,9,0.95424,Fail
+213,2,Paris,14,4,3,Lease,Disapproved,23,4,1,Yes,6,0.77815,Pass
+214,2,Sydney,7,2,2,Lease,Approved,84,6,5,Yes,12,1.07918,Fail
+215,3,New York,13,4,3,Loan,Approved,65,4,1,Yes,6,0.77815,Pass
+216,3,New York,13,4,1,Lease,Approved,74,4,1,Yes,7,0.8451,Pass
+217,3,New York,9,5,1,Lease,Approved,28,5,0,No,9,0.95424,Fail
+218,3,Paris,7,5,2,Lease,Approved,27,4,0,No,8,0.90309,Pass
+219,3,New York,7,5,2,Lease,Approved,36,2,0,No,4,0.60206,Pass
+220,3,New York,17,1,3,Lease,Disapproved,25,5,0,No,9,0.95424,Fail
+221,3,Paris,14,5,3,Loan,Disapproved,41,0,0,No,3,0.47712,Pass
+222,3,Paris,13,5,3,Loan,Approved,62,4,1,Yes,6,0.77815,Pass
+223,3,New York,8,5,3,Lease,Approved,53,3,0,No,5,0.69897,Pass
+224,3,Paris,9,5,2,Lease,Approved,44,4,2,Yes,7,0.8451,Pass
+225,3,Paris,10,5,3,Lease,Approved,45,4,1,Yes,7,0.8451,Pass
+226,3,New York,13,5,2,Lease,Approved,29,4,0,No,8,0.90309,Pass
+227,3,Paris,14,5,2,Lease,Disapproved,18,0,0,No,3,0.47712,Pass
+228,3,New York,11,5,3,Lease,Approved,72,6,1,Yes,11,1.04139,Fail
+229,3,Paris,13,5,2,Lease,Approved,36,4,1,Yes,6,0.77815,Pass
+230,3,Sydney,14,1,2,Lease,Disapproved,20,7,4,Yes,13,1.11394,Fail
+231,3,New York,8,4,3,Loan,Approved,71,3,0,No,5,0.69897,Pass
+232,3,New York,14,4,2,Lease,Disapproved,32,3,0,No,5,0.69897,Pass
+233,3,New York,5,5,1,Loan,Approved,63,4,1,Yes,7,0.8451,Pass
+234,3,New York,8,5,1,Lease,Approved,54,5,2,Yes,10,1,Fail
+235,3,Sydney,8,5,2,Loan,Approved,55,5,0,No,9,0.95424,Fail
+236,3,Sydney,8,5,3,Loan,Approved,19,6,1,Yes,11,1.04139,Fail
+237,3,Paris,5,5,2,Lease,Approved,18,3,0,No,5,0.69897,Pass
+238,3,New York,7,5,1,Lease,Approved,67,5,0,No,9,0.95424,Fail
+239,3,New York,14,4,1,Lease,Disapproved,86,5,0,No,10,1,Fail
+240,3,Paris,9,5,3,Lease,Approved,105,2,0,No,4,0.60206,Pass
+241,3,Paris,6,4,1,Lease,Approved,51,4,1,Yes,6,0.77815,Pass
+242,3,New York,14,4,2,Lease,Disapproved,62,4,2,Yes,7,0.8451,Pass
+243,3,New York,10,4,3,Lease,Approved,78,4,0,No,8,0.90309,Pass
+244,3,Sydney,8,4,1,Loan,Approved,54,8,6,Yes,15,1.17609,Fail
+245,3,New York,12,4,2,Lease,Approved,65,3,0,No,5,0.69897,Pass
+246,3,Sydney,11,4,3,Lease,Approved,59,10,4,Yes,19,1.27875,Fail
+247,3,New York,8,4,1,Loan,Approved,48,4,0,No,8,0.90309,Pass
+248,3,New York,12,4,1,Lease,Approved,77,6,1,Yes,11,1.04139,Fail
+249,3,New York,7,4,2,Lease,Approved,70,4,0,No,8,0.90309,Pass
+250,3,Sydney,10,2,2,Lease,Approved,25,8,3,Yes,15,1.17609,Fail
+251,3,New York,9,4,3,Lease,Approved,71,5,2,Yes,10,1,Fail
+252,3,Paris,15,4,3,Lease,Disapproved,62,3,0,No,5,0.69897,Pass
+253,3,New York,4,4,1,Loan,Approved,53,5,2,Yes,10,1,Fail
+254,3,Paris,8,4,1,Lease,Approved,64,2,0,No,4,0.60206,Pass
+255,3,Paris,8,4,3,Loan,Approved,45,4,1,Yes,6,0.77815,Pass
+256,3,Paris,13,3,2,Lease,Approved,59,4,0,No,7,0.8451,Pass
+257,3,Paris,11,5,3,Loan,Approved,18,3,0,No,5,0.69897,Pass
+258,3,New York,10,3,1,Loan,Approved,37,5,2,Yes,10,1,Fail
+259,3,New York,11,3,3,Lease,Approved,66,4,0,No,8,0.90309,Pass
+260,3,New York,9,3,3,Lease,Approved,45,3,0,No,5,0.69897,Pass
+261,3,Paris,13,5,3,Lease,Disapproved,51,3,0,No,5,0.69897,Pass
+262,3,New York,12,3,3,Lease,Approved,52,2,1,Yes,4,0.60206,Pass
+263,3,New York,8,3,3,Lease,Approved,63,4,0,No,7,0.8451,Pass
+264,3,Paris,12,5,3,Lease,Approved,64,2,1,Yes,4,0.60206,Pass
+265,3,Paris,5,3,1,Lease,Approved,45,4,0,No,7,0.8451,Pass
+266,3,New York,9,5,3,Loan,Approved,59,4,0,No,6,0.77815,Pass
+267,3,New York,7,4,3,Lease,Approved,68,4,1,Yes,6,0.77815,Pass
+268,3,Sydney,7,2,3,Lease,Approved,40,7,5,Yes,13,1.11394,Fail
+269,3,New York,15,1,2,Loan,Disapproved,46,8,3,Yes,15,1.17609,Fail
+270,3,Paris,16,4,3,Lease,Disapproved,35,3,0,No,5,0.69897,Pass
+271,3,New York,5,4,3,Lease,Approved,81,4,0,No,7,0.8451,Pass
+272,3,Paris,8,4,2,Loan,Approved,32,4,0,No,7,0.8451,Pass
+273,3,New York,10,3,3,Lease,Approved,33,5,0,No,9,0.95424,Fail
+274,3,New York,6,5,2,Lease,Approved,64,4,0,No,6,0.77815,Pass
+275,3,New York,8,5,3,Loan,Approved,35,4,0,No,6,0.77815,Pass
+276,3,New York,12,5,2,Lease,Approved,59,5,0,No,9,0.95424,Fail
+277,3,New York,10,5,1,Lease,Approved,68,2,0,No,4,0.60206,Pass
+278,3,Paris,8,5,1,Lease,Approved,37,3,0,No,5,0.69897,Pass
+279,3,New York,9,5,3,Lease,Approved,46,4,1,Yes,6,0.77815,Pass
+280,3,New York,8,5,3,Lease,Approved,45,4,0,No,6,0.77815,Pass
+281,3,New York,11,5,2,Loan,Approved,91,4,0,No,6,0.77815,Pass
+282,3,Paris,5,5,3,Lease,Approved,42,3,1,Yes,5,0.69897,Pass
+283,3,New York,11,5,1,Loan,Approved,23,3,0,No,5,0.69897,Pass
+284,3,Paris,8,5,3,Lease,Approved,54,4,1,Yes,6,0.77815,Pass
+285,3,New York,3,5,2,Lease,Approved,35,5,0,No,9,0.95424,Fail
+286,3,Paris,9,5,2,Lease,Approved,70,3,1,Yes,5,0.69897,Pass
+287,3,Paris,8,5,1,Lease,Approved,68,4,0,No,7,0.8451,Pass
+288,3,Sydney,9,4,1,Lease,Approved,27,7,3,Yes,14,1.14613,Fail
+289,3,Sydney,10,5,1,Lease,Approved,16,5,2,Yes,10,1,Fail
+290,4,New York,8,5,3,Lease,Approved,65,4,0,No,8,0.90309,Pass
+291,4,Sydney,9,5,1,Loan,Approved,91,5,0,No,9,0.95424,Fail
+292,4,Paris,7,5,2,Lease,Approved,42,2,0,No,4,0.60206,Pass
+293,4,Paris,12,5,2,Loan,Approved,83,4,0,No,7,0.8451,Pass
+294,4,New York,9,5,2,Lease,Approved,64,4,0,No,8,0.90309,Pass
+295,4,Paris,9,5,3,Lease,Approved,55,0,0,No,4,0.60206,Pass
+296,4,Sydney,10,4,2,Lease,Approved,39,5,0,No,9,0.95424,Fail
+297,4,Paris,15,4,1,Lease,Disapproved,38,4,1,Yes,6,0.77815,Pass
+298,4,Paris,9,4,3,Loan,Approved,37,4,1,Yes,6,0.77815,Pass
+299,4,New York,9,4,1,Lease,Approved,36,7,2,Yes,12,1.07918,Fail
+300,4,Paris,7,4,1,Lease,Approved,45,2,1,Yes,4,0.60206,Pass
+301,4,New York,5,4,3,Lease,Approved,51,4,0,No,8,0.90309,Pass
+302,4,New York,12,4,3,Lease,Approved,52,7,5,Yes,12,1.07918,Fail
+303,4,Sydney,15,4,1,Loan,Disapproved,13,7,3,Yes,14,1.14613,Fail
+304,4,New York,8,4,2,Lease,Approved,104,3,0,No,5,0.69897,Pass
+305,4,Paris,11,4,2,Lease,Approved,70,2,1,Yes,4,0.60206,Pass
+306,4,Paris,10,4,1,Lease,Approved,39,4,1,Yes,6,0.77815,Pass
+307,4,New York,8,4,3,Loan,Approved,38,5,0,No,10,1,Fail
+308,4,Paris,7,4,2,Lease,Approved,17,3,1,Yes,5,0.69897,Pass
+309,4,Sydney,8,4,1,Lease,Approved,36,7,5,Yes,13,1.11394,Fail
+310,4,New York,9,4,2,Lease,Approved,65,2,0,No,4,0.60206,Pass
+311,4,New York,9,3,2,Lease,Approved,91,4,0,No,8,0.90309,Pass
+312,4,Paris,9,5,1,Lease,Approved,52,3,0,No,5,0.69897,Pass
+313,4,Paris,14,5,1,Loan,Disapproved,63,4,1,Yes,6,0.77815,Pass
+314,4,New York,16,3,1,Lease,Disapproved,54,4,1,Yes,7,0.8451,Pass
+315,4,New York,6,4,3,Lease,Approved,45,4,1,Yes,6,0.77815,Pass
+316,4,Paris,10,5,3,Lease,Approved,59,4,1,Yes,6,0.77815,Pass
+317,4,New York,9,5,1,Loan,Approved,28,4,1,Yes,6,0.77815,Pass
+318,4,New York,4,4,2,Lease,Approved,57,4,0,No,6,0.77815,Pass
+319,4,Paris,12,3,1,Lease,Approved,56,2,0,No,4,0.60206,Pass
+320,4,New York,11,3,3,Lease,Approved,35,5,0,No,10,1,Fail
+321,4,Paris,10,5,3,Lease,Approved,31,0,0,No,3,0.47712,Pass
+322,4,New York,13,4,2,Lease,Disapproved,87,4,1,Yes,6,0.77815,Pass
+323,4,New York,12,4,2,Lease,Approved,23,4,1,Yes,7,0.8451,Pass
+324,4,New York,6,2,2,Lease,Approved,70,5,0,No,9,0.95424,Fail
+325,4,Sydney,5,2,3,Loan,Approved,25,6,2,Yes,12,1.07918,Fail
+326,4,Sydney,9,5,2,Lease,Approved,29,6,2,Yes,11,1.04139,Fail
+327,4,Paris,22,4,1,Loan,Disapproved,78,2,0,No,4,0.60206,Pass
+328,4,Sydney,10,2,1,Lease,Approved,67,9,7,Yes,18,1.25527,Fail
+329,4,New York,8,4,3,Lease,Approved,46,5,0,No,9,0.95424,Fail
+330,4,New York,10,3,1,Lease,Approved,25,5,2,Yes,10,1,Fail
+331,4,New York,12,5,2,Loan,Approved,51,4,0,No,7,0.8451,Pass
+332,4,New York,12,5,2,Loan,Approved,62,3,1,Yes,5,0.69897,Pass
+333,4,New York,12,5,2,Lease,Approved,83,5,0,No,9,0.95424,Fail
+334,4,New York,10,5,2,Lease,Approved,94,4,1,Yes,6,0.77815,Pass
+335,4,New York,18,5,1,Lease,Disapproved,65,4,0,No,8,0.90309,Pass
+336,4,New York,8,5,1,Lease,Approved,59,4,0,No,8,0.90309,Pass
+337,4,New York,6,5,1,Lease,Approved,18,5,0,No,9,0.95424,Fail
+338,4,Paris,10,5,1,Lease,Approved,27,4,1,Yes,6,0.77815,Pass
+339,4,Sydney,11,5,1,Loan,Approved,46,5,2,Yes,10,1,Fail
+340,4,Sydney,12,4,3,Lease,Approved,65,7,2,Yes,13,1.11394,Fail
+341,4,Sydney,14,1,2,Lease,Disapproved,81,8,3,Yes,16,1.20412,Fail
+342,4,Paris,9,5,2,Loan,Approved,72,3,1,Yes,5,0.69897,Pass
+343,4,Paris,15,4,3,Lease,Disapproved,70,4,0,No,8,0.90309,Pass
+344,4,New York,8,5,2,Loan,Approved,54,6,2,Yes,11,1.04139,Fail
+345,4,Sydney,8,5,3,Lease,Approved,25,7,5,Yes,13,1.11394,Fail
+346,4,New York,9,5,2,Lease,Approved,29,4,0,No,7,0.8451,Pass
+347,4,New York,11,5,1,Lease,Approved,48,5,0,No,10,1,Fail
+348,4,Paris,5,5,1,Lease,Approved,47,3,0,No,5,0.69897,Pass
+349,4,Sydney,10,3,2,Loan,Approved,66,8,4,Yes,17,1.23045,Fail
+350,4,New York,12,5,3,Lease,Approved,25,4,1,Yes,6,0.77815,Pass
+351,4,Sydney,8,4,1,Lease,Approved,41,7,3,Yes,14,1.14613,Fail
+352,4,Paris,9,4,2,Loan,Approved,72,3,0,No,5,0.69897,Pass
+353,4,New York,11,4,1,Loan,Approved,13,3,0,No,5,0.69897,Pass
+354,4,New York,12,4,3,Lease,Approved,24,4,0,No,6,0.77815,Pass
+355,4,Paris,16,4,1,Loan,Disapproved,55,4,0,No,6,0.77815,Pass
+356,4,Paris,14,4,1,Lease,Disapproved,74,4,0,No,6,0.77815,Pass
+357,4,New York,10,4,3,Lease,Approved,58,5,0,No,10,1,Fail
+358,4,Paris,9,4,1,Loan,Approved,87,4,0,No,6,0.77815,Pass
+359,4,Sydney,11,1,3,Lease,Approved,26,8,4,Yes,17,1.23045,Fail
+360,4,Paris,6,4,3,Lease,Approved,15,4,0,No,6,0.77815,Pass
+361,4,Sydney,14,4,1,Lease,Disapproved,61,7,3,Yes,14,1.14613,Fail
+362,4,Paris,6,4,1,Loan,Approved,60,4,0,No,6,0.77815,Pass
+363,4,New York,10,4,1,Lease,Approved,63,5,0,No,10,1,Fail
+364,4,New York,13,4,2,Lease,Disapproved,24,4,0,No,8,0.90309,Pass
+365,4,New York,10,4,2,Lease,Approved,45,5,0,No,9,0.95424,Fail
+366,4,New York,7,3,3,Loan,Approved,59,2,0,No,4,0.60206,Pass
+367,4,New York,11,3,2,Lease,Approved,18,5,0,No,9,0.95424,Fail
+368,4,New York,12,3,3,Lease,Approved,47,5,0,No,9,0.95424,Fail
+369,4,New York,3,3,1,Loan,Approved,36,5,2,Yes,10,1,Fail
+370,4,New York,12,3,3,Lease,Approved,55,4,1,Yes,6,0.77815,Pass
+371,5,Paris,10,3,3,Loan,Approved,41,4,0,No,7,0.8451,Pass
+372,5,Sydney,14,3,2,Lease,Disapproved,52,7,4,Yes,13,1.11394,Fail
+373,5,Sydney,9,3,3,Lease,Approved,43,10,4,Yes,19,1.27875,Fail
+374,5,New York,11,3,2,Loan,Approved,74,6,5,Yes,12,1.07918,Fail
+375,5,Paris,9,3,2,Lease,Approved,35,4,0,No,7,0.8451,Pass
+376,5,Sydney,5,2,1,Lease,Approved,19,9,4,Yes,17,1.23045,Fail
+377,5,New York,14,4,3,Lease,Disapproved,68,5,0,No,10,1,Fail
+378,5,Sydney,10,1,2,Lease,Approved,37,8,3,Yes,16,1.20412,Fail
+379,5,Sydney,9,2,2,Lease,Approved,46,7,4,Yes,13,1.11394,Fail
+380,5,New York,13,2,3,Loan,Disapproved,55,6,2,Yes,11,1.04139,Fail
+381,5,Sydney,4,3,1,Lease,Approved,80,9,4,Yes,18,1.25527,Fail
+382,5,Sydney,8,3,3,Lease,Approved,32,9,6,Yes,18,1.25527,Fail
+383,5,New York,9,3,3,Lease,Approved,43,5,0,No,9,0.95424,Fail
+384,5,Paris,9,5,3,Lease,Approved,24,4,0,No,7,0.8451,Pass
+385,5,Sydney,9,2,2,Loan,Approved,45,7,3,Yes,14,1.14613,Fail
+386,5,New York,5,5,2,Lease,Approved,79,5,0,No,9,0.95424,Fail
+387,5,Paris,10,5,2,Loan,Approved,48,4,0,No,7,0.8451,Pass
+388,5,Sydney,16,1,3,Lease,Disapproved,67,11,5,Yes,22,1.34242,Fail
+389,5,Sydney,10,4,3,Lease,Approved,36,7,4,Yes,13,1.11394,Fail
+390,5,Sydney,8,2,1,Loan,Approved,15,10,4,Yes,19,1.27875,Fail
+391,5,Sydney,4,5,1,Lease,Approved,71,6,2,Yes,12,1.07918,Fail
+392,5,Sydney,10,1,3,Loan,Approved,82,13,2,Yes,27,1.43136,Fail
+393,5,New York,14,3,1,Lease,Disapproved,33,4,1,Yes,7,0.8451,Pass
+394,5,Sydney,11,5,1,Lease,Approved,24,5,2,Yes,10,1,Fail
+395,5,New York,16,4,3,Lease,Disapproved,85,4,0,No,6,0.77815,Pass
+396,5,New York,13,1,2,Lease,Disapproved,29,7,5,Yes,13,1.11394,Fail
+397,5,Sydney,10,4,1,Lease,Approved,78,7,5,Yes,13,1.11394,Fail
+398,5,Sydney,13,1,1,Lease,Approved,67,12,8,Yes,24,1.38021,Fail
+399,5,New York,11,5,3,Lease,Approved,56,4,0,No,8,0.90309,Pass
+400,5,Sydney,6,3,1,Lease,Approved,40,9,7,Yes,18,1.25527,Fail
+401,5,New York,12,5,1,Lease,Approved,31,4,0,No,8,0.90309,Pass
+402,5,New York,14,5,3,Loan,Disapproved,22,4,0,No,8,0.90309,Pass
+403,5,Paris,10,5,1,Lease,Approved,73,4,0,No,7,0.8451,Pass
+404,5,New York,8,5,1,Loan,Approved,34,4,0,No,8,0.90309,Pass
+405,5,New York,13,5,3,Lease,Approved,55,5,0,No,9,0.95424,Fail
+406,5,Sydney,9,4,2,Loan,Approved,49,6,5,Yes,12,1.07918,Fail
+407,5,New York,5,4,2,Lease,Approved,38,7,4,Yes,13,1.11394,Fail
+408,5,Paris,8,4,3,Loan,Approved,17,3,1,Yes,5,0.69897,Pass
+409,5,Sydney,9,2,1,Lease,Approved,36,12,2,Yes,26,1.41497,Fail
+410,5,New York,7,4,1,Lease,Approved,25,4,1,Yes,6,0.77815,Pass
+411,5,Sydney,7,4,1,Lease,Approved,91,7,5,Yes,13,1.11394,Fail
+412,5,New York,7,4,1,Lease,Approved,32,0,0,No,3,0.47712,Pass
+413,5,New York,6,4,3,Lease,Approved,43,4,1,Yes,7,0.8451,Pass
+414,5,New York,6,4,1,Lease,Approved,79,5,0,No,10,1,Fail
+415,5,Sydney,9,4,1,Lease,Approved,55,9,4,Yes,17,1.23045,Fail
+416,5,Sydney,9,4,3,Loan,Approved,39,10,4,Yes,19,1.27875,Fail
+417,5,New York,9,4,1,Lease,Approved,38,7,3,Yes,14,1.14613,Fail
+418,5,Sydney,5,4,2,Lease,Approved,27,7,5,Yes,13,1.11394,Fail
+419,5,Paris,8,4,2,Lease,Approved,60,4,0,No,6,0.77815,Pass
+420,5,New York,8,4,2,Lease,Approved,55,4,1,Yes,7,0.8451,Pass
+421,5,New York,13,3,2,Lease,Approved,41,5,0,No,10,1,Fail
+422,5,Sydney,7,3,3,Loan,Approved,82,8,4,Yes,17,1.23045,Fail
+423,5,New York,11,5,3,Lease,Approved,33,4,1,Yes,6,0.77815,Pass
+424,5,Sydney,11,3,2,Lease,Approved,74,11,5,Yes,23,1.36173,Fail
+425,5,Sydney,5,3,2,Lease,Approved,65,10,4,Yes,19,1.27875,Fail
+426,5,Sydney,11,3,3,Loan,Approved,94,5,0,No,10,1,Fail
+427,5,Sydney,16,3,1,Lease,Disapproved,48,7,4,Yes,13,1.11394,Fail
+428,5,New York,16,3,3,Lease,Disapproved,47,4,0,No,8,0.90309,Pass
+429,5,Sydney,14,3,2,Lease,Disapproved,66,9,7,Yes,18,1.25527,Fail
+430,5,Sydney,7,3,2,Loan,Approved,25,9,7,Yes,17,1.23045,Fail
+431,5,Sydney,11,1,1,Lease,Approved,41,8,6,Yes,15,1.17609,Fail
+432,5,Sydney,10,2,1,Lease,Approved,72,9,6,Yes,17,1.23045,Fail
+433,5,Sydney,9,2,1,Loan,Approved,53,5,0,No,10,1,Fail
+434,5,New York,9,2,2,Loan,Approved,44,6,5,Yes,12,1.07918,Fail
+435,5,New York,9,4,3,Lease,Approved,85,3,0,No,5,0.69897,Pass
+436,5,Sydney,10,1,2,Lease,Approved,39,11,4,Yes,21,1.32222,Fail
+437,5,Paris,10,4,2,Loan,Approved,48,3,1,Yes,5,0.69897,Pass
+438,5,Sydney,8,4,3,Loan,Approved,10,8,6,Yes,15,1.17609,Fail
+439,5,New York,9,4,1,Lease,Approved,26,6,2,Yes,11,1.04139,Fail
+440,5,Paris,10,5,3,Lease,Approved,55,2,0,No,4,0.60206,Pass
+441,5,Paris,16,5,1,Lease,Disapproved,71,0,0,No,3,0.47712,Pass
+442,5,New York,7,5,1,Loan,Approved,62,5,0,No,10,1,Fail
+443,5,New York,8,5,2,Loan,Approved,43,4,1,Yes,6,0.77815,Pass
+444,5,New York,6,5,3,Lease,Approved,64,4,2,Yes,7,0.8451,Pass
+445,5,New York,6,5,3,Lease,Approved,75,4,1,Yes,7,0.8451,Pass
+446,5,Paris,13,5,3,Lease,Approved,39,2,1,Yes,4,0.60206,Pass
+447,5,Sydney,15,1,1,Lease,Disapproved,98,8,3,Yes,15,1.17609,Fail
+448,5,New York,6,5,2,Lease,Approved,107,5,0,No,9,0.95424,Fail
+449,5,New York,17,3,1,Loan,Disapproved,46,4,0,No,8,0.90309,Pass
+450,5,New York,12,5,1,Lease,Approved,115,5,0,No,9,0.95424,Fail
+451,5,Sydney,9,1,1,Lease,Approved,81,13,3,Yes,29,1.4624,Fail
+452,5,New York,5,5,1,Lease,Approved,72,4,0,No,6,0.77815,Pass
+453,5,New York,7,5,1,Lease,Approved,23,5,0,No,10,1,Fail
+454,5,New York,7,5,2,Lease,Approved,54,4,0,No,8,0.90309,Pass
+455,5,Sydney,9,1,2,Loan,Approved,25,9,7,Yes,18,1.25527,Fail
+456,5,Sydney,12,3,3,Loan,Approved,19,8,4,Yes,17,1.23045,Fail
+457,5,Sydney,11,2,1,Lease,Approved,40,8,4,Yes,17,1.23045,Fail
+458,5,New York,10,5,1,Lease,Approved,77,4,0,No,7,0.8451,Pass
+459,5,New York,12,5,2,Lease,Approved,36,3,1,Yes,5,0.69897,Pass
+460,5,Sydney,10,1,1,Lease,Approved,65,11,8,Yes,23,1.36173,Fail
+461,5,Paris,11,5,2,Lease,Approved,41,0,0,No,3,0.47712,Pass
+462,5,Sydney,3,3,3,Loan,Approved,72,8,3,Yes,16,1.20412,Fail
+463,5,Paris,13,4,2,Lease,Approved,53,3,0,No,5,0.69897,Pass
+464,5,New York,9,4,2,Lease,Approved,104,4,0,No,8,0.90309,Pass
+465,5,New York,11,4,1,Lease,Approved,55,4,1,Yes,7,0.8451,Pass
+466,5,New York,15,4,3,Lease,Disapproved,49,4,0,No,6,0.77815,Pass
+467,5,Sydney,7,4,2,Lease,Approved,28,6,2,Yes,11,1.04139,Fail
+468,5,Sydney,8,4,1,Lease,Approved,57,9,7,Yes,18,1.25527,Fail
+469,5,Sydney,9,4,2,Loan,Approved,46,10,4,Yes,19,1.27875,Fail
+470,5,Sydney,4,2,1,Loan,Approved,55,8,3,Yes,16,1.20412,Fail
+471,5,Paris,4,4,2,Lease,Approved,61,2,0,No,4,0.60206,Pass
+472,5,New York,8,4,1,Lease,Approved,52,7,2,Yes,13,1.11394,Fail
+473,5,New York,3,4,3,Lease,Approved,93,3,1,Yes,5,0.69897,Pass
+474,5,New York,9,1,1,Loan,Approved,94,8,4,Yes,17,1.23045,Fail
+475,5,New York,10,1,1,Lease,Approved,55,8,3,Yes,16,1.20412,Fail
+476,5,New York,8,3,1,Lease,Approved,50,7,2,Yes,13,1.11394,Fail
+477,5,New York,11,3,3,Loan,Approved,88,6,3,Yes,11,1.04139,Fail
+478,5,New York,11,3,1,Lease,Approved,67,5,0,No,9,0.95424,Fail
+479,5,Sydney,11,3,2,Lease,Approved,76,6,3,Yes,11,1.04139,Fail
+480,5,Sydney,11,3,2,Lease,Approved,35,7,3,Yes,14,1.14613,Fail
+481,5,Sydney,12,3,3,Lease,Approved,41,7,3,Yes,14,1.14613,Fail
+482,5,Sydney,7,3,3,Lease,Approved,32,7,2,Yes,13,1.11394,Fail
+483,5,Sydney,11,3,3,Lease,Approved,33,7,3,Yes,14,1.14613,Fail
+484,5,Sydney,11,3,2,Lease,Approved,54,8,4,Yes,17,1.23045,Fail
+485,5,Paris,12,3,2,Lease,Approved,55,4,1,Yes,7,0.8451,Pass
+486,5,Sydney,6,2,2,Lease,Approved,69,8,3,Yes,16,1.20412,Fail
+487,5,Sydney,9,2,3,Lease,Approved,73,6,2,Yes,12,1.07918,Fail
+488,5,New York,10,4,1,Lease,Approved,72,5,3,Yes,10,1,Fail
+489,5,New York,9,2,2,Lease,Approved,46,6,2,Yes,11,1.04139,Fail
+490,5,New York,11,4,3,Loan,Approved,45,5,3,Yes,10,1,Fail
+491,5,New York,16,1,3,Loan,Disapproved,61,6,2,Yes,12,1.07918,Fail
+492,5,Sydney,15,1,2,Lease,Disapproved,62,6,3,Yes,11,1.04139,Fail
+493,5,New York,7,4,1,Loan,Approved,43,6,2,Yes,11,1.04139,Fail
+494,5,Paris,6,4,3,Lease,Approved,84,4,1,Yes,6,0.77815,Pass
+495,5,Paris,15,4,1,Lease,Disapproved,40,4,1,Yes,6,0.77815,Pass
+496,5,Sydney,4,5,1,Lease,Approved,50,11,4,Yes,21,1.32222,Fail
+497,5,Paris,14,5,3,Lease,Disapproved,48,4,2,Yes,7,0.8451,Pass
+498,5,New York,8,5,1,Lease,Approved,37,3,0,No,5,0.69897,Pass
+499,5,Sydney,14,2,2,Lease,Disapproved,56,11,4,Yes,21,1.32222,Fail
+500,5,New York,15,1,2,Loan,Disapproved,45,8,3,Yes,15,1.17609,Fail
+501,5,New York,12,5,1,Lease,Approved,61,3,1,Yes,5,0.69897,Pass
+502,5,New York,13,5,2,Loan,Approved,72,4,0,No,7,0.8451,Pass
+503,5,Sydney,13,1,1,Lease,Disapproved,88,12,3,Yes,26,1.41497,Fail
+504,5,Sydney,9,1,2,Lease,Approved,24,13,8,Yes,25,1.39794,Fail
+505,5,New York,8,5,1,Lease,Approved,45,5,0,No,10,1,Fail
+506,5,New York,7,5,1,Lease,Approved,69,5,0,No,10,1,Fail
+507,5,Sydney,11,4,2,Loan,Approved,78,8,6,Yes,15,1.17609,Fail
+508,5,New York,13,2,3,Lease,Disapproved,47,5,0,No,9,0.95424,Fail
+509,5,New York,10,5,3,Lease,Approved,71,4,0,No,6,0.77815,Pass
+510,5,New York,11,5,1,Loan,Approved,15,6,2,Yes,12,1.07918,Fail
+511,5,New York,8,2,1,Lease,Approved,41,7,3,Yes,14,1.14613,Fail
+512,5,Sydney,12,5,2,Lease,Approved,32,11,4,Yes,21,1.32222,Fail
+513,5,Paris,10,5,1,Loan,Approved,43,0,0,No,3,0.47712,Pass
+514,5,Sydney,14,2,2,Loan,Disapproved,24,11,4,Yes,21,1.32222,Fail
+515,5,New York,4,5,1,Lease,Approved,30,4,0,No,8,0.90309,Pass
+516,5,New York,12,4,1,Lease,Approved,39,0,0,No,3,0.47712,Pass
+517,5,Sydney,5,1,2,Lease,Approved,48,8,4,Yes,17,1.23045,Fail
+518,6,Paris,8,4,2,Loan,Approved,47,5,0,No,9,0.95424,Fail
+519,6,New York,16,4,3,Lease,Disapproved,36,4,0,No,8,0.90309,Pass
+520,6,Sydney,12,4,3,Lease,Approved,55,7,3,Yes,14,1.14613,Fail
+521,6,Paris,14,4,2,Lease,Disapproved,51,3,0,No,5,0.69897,Pass
+522,6,New York,4,4,3,Lease,Approved,52,6,1,Yes,11,1.04139,Fail
+523,6,New York,7,4,1,Loan,Approved,43,4,0,No,7,0.8451,Pass
+524,6,Paris,12,4,2,Loan,Approved,54,3,0,No,5,0.69897,Pass
+525,6,Paris,6,4,2,Loan,Approved,45,2,0,No,4,0.60206,Pass
+526,6,New York,9,4,1,Loan,Approved,69,5,0,No,9,0.95424,Fail
+527,6,New York,10,4,1,Lease,Approved,78,4,0,No,7,0.8451,Pass
+528,6,New York,10,4,2,Lease,Approved,27,4,0,No,8,0.90309,Pass
+529,6,New York,13,4,3,Lease,Disapproved,26,4,0,No,8,0.90309,Pass
+530,6,Paris,13,4,1,Lease,Disapproved,25,4,0,No,7,0.8451,Pass
+531,6,Sydney,5,3,2,Lease,Approved,41,6,2,Yes,11,1.04139,Fail
+532,6,Paris,10,5,1,Lease,Approved,52,3,0,No,5,0.69897,Pass
+533,6,New York,11,3,2,Loan,Approved,43,5,0,No,9,0.95424,Fail
+534,6,Sydney,10,3,2,Lease,Approved,50,7,2,Yes,13,1.11394,Fail
+535,6,Sydney,9,3,2,Lease,Approved,145,10,4,Yes,20,1.30103,Fail
+536,6,Sydney,7,3,1,Loan,Approved,19,7,2,Yes,13,1.11394,Fail
+537,6,Sydney,11,4,3,Lease,Approved,38,4,1,Yes,6,0.77815,Pass
+538,6,Paris,15,5,1,Loan,Disapproved,27,0,0,No,3,0.47712,Pass
+539,6,Sydney,13,3,3,Lease,Disapproved,26,7,3,Yes,14,1.14613,Fail
+540,6,New York,14,3,3,Lease,Disapproved,35,3,1,Yes,5,0.69897,Pass
+541,6,New York,11,4,3,Loan,Approved,51,4,0,No,7,0.8451,Pass
+542,6,New York,8,2,3,Loan,Approved,72,5,0,No,10,1,Fail
+543,6,Sydney,12,2,2,Lease,Approved,83,7,2,Yes,13,1.11394,Fail
+544,6,Sydney,13,2,1,Loan,Approved,74,7,2,Yes,13,1.11394,Fail
+545,6,Sydney,11,2,2,Lease,Approved,85,13,3,Yes,27,1.43136,Fail
+546,6,New York,10,5,3,Lease,Approved,79,4,1,Yes,7,0.8451,Pass
+547,6,New York,11,4,1,Lease,Approved,73,4,2,Yes,7,0.8451,Pass
+548,6,Sydney,7,5,1,Lease,Approved,77,5,0,No,10,1,Fail
+549,6,New York,10,3,2,Lease,Approved,16,4,1,Yes,7,0.8451,Pass
+550,6,Paris,11,5,1,Loan,Approved,35,4,1,Yes,7,0.8451,Pass
+551,6,Sydney,10,4,2,Lease,Approved,91,8,4,Yes,17,1.23045,Fail
+552,6,New York,9,5,2,Lease,Approved,52,6,3,Yes,12,1.07918,Fail
+553,6,New York,10,5,1,Lease,Approved,85,4,0,No,8,0.90309,Pass
+554,6,Sydney,9,5,1,Lease,Approved,44,6,1,Yes,11,1.04139,Fail
+555,6,New York,10,5,1,Lease,Approved,95,4,1,Yes,7,0.8451,Pass
+556,6,Sydney,6,4,1,Lease,Approved,29,7,3,Yes,14,1.14613,Fail
+557,6,New York,9,5,1,Lease,Approved,38,5,0,No,9,0.95424,Fail
+558,6,New York,12,5,2,Lease,Approved,67,4,0,No,8,0.90309,Pass
+559,6,New York,6,5,3,Loan,Approved,46,5,0,No,9,0.95424,Fail
+560,6,New York,10,5,3,Lease,Approved,65,5,0,No,9,0.95424,Fail
+561,6,New York,14,4,2,Loan,Disapproved,96,3,1,Yes,5,0.69897,Pass
+562,6,New York,6,5,2,Lease,Approved,32,6,2,Yes,11,1.04139,Fail
+563,6,New York,14,5,2,Loan,Disapproved,53,4,2,Yes,7,0.8451,Pass
+564,6,New York,13,5,1,Lease,Approved,54,5,0,No,9,0.95424,Fail
+565,6,New York,7,5,1,Lease,Approved,55,5,0,No,9,0.95424,Fail
+566,6,New York,7,5,2,Lease,Approved,69,4,0,No,8,0.90309,Pass
+567,6,New York,13,5,2,Lease,Approved,18,3,1,Yes,5,0.69897,Pass
+568,6,Sydney,8,5,2,Loan,Approved,7,6,1,Yes,11,1.04139,Fail
+569,6,New York,13,5,3,Lease,Approved,16,4,0,No,6,0.77815,Pass
+570,6,New York,10,5,3,Lease,Approved,70,4,0,No,8,0.90309,Pass
+571,6,Sydney,3,3,2,Loan,Approved,41,8,3,Yes,15,1.17609,Fail
+572,6,New York,14,3,3,Lease,Disapproved,80,6,1,Yes,12,1.07918,Fail
+573,6,New York,7,4,3,Loan,Approved,23,4,0,No,8,0.90309,Pass
+574,6,New York,12,4,3,Lease,Approved,44,4,0,No,8,0.90309,Pass
+575,6,New York,11,4,3,Loan,Approved,45,2,0,No,4,0.60206,Pass
+576,6,New York,5,4,3,Lease,Approved,109,5,0,No,9,0.95424,Fail
+577,6,New York,15,4,1,Loan,Disapproved,58,4,1,Yes,6,0.77815,Pass
+578,6,New York,11,4,2,Loan,Approved,17,4,0,No,8,0.90309,Pass
+579,6,Sydney,8,4,3,Lease,Approved,66,6,2,Yes,11,1.04139,Fail
+580,6,New York,10,4,3,Lease,Approved,15,5,0,No,9,0.95424,Fail
+581,6,New York,14,4,3,Loan,Disapproved,61,5,2,Yes,10,1,Fail
+582,6,New York,6,4,3,Loan,Approved,72,4,0,No,6,0.77815,Pass
+583,6,Sydney,9,4,1,Loan,Approved,33,7,5,Yes,13,1.11394,Fail
+584,6,New York,6,4,2,Loan,Approved,94,5,0,No,10,1,Fail
+585,6,Sydney,12,4,1,Lease,Approved,55,7,3,Yes,14,1.14613,Fail
+586,6,New York,12,3,3,Lease,Approved,39,5,0,No,9,0.95424,Fail
+587,6,New York,6,3,2,Lease,Approved,83,4,0,No,7,0.8451,Pass
+588,6,Paris,9,4,1,Lease,Approved,37,3,1,Yes,5,0.69897,Pass
+589,6,New York,16,4,3,Lease,Disapproved,36,4,1,Yes,6,0.77815,Pass
+590,6,Sydney,12,3,1,Lease,Approved,50,6,2,Yes,11,1.04139,Fail
+591,6,Paris,14,5,2,Loan,Disapproved,31,4,1,Yes,6,0.77815,Pass
+592,6,New York,6,3,2,Loan,Approved,82,5,0,No,9,0.95424,Fail
+593,6,New York,10,3,1,Lease,Approved,63,4,0,No,8,0.90309,Pass
+594,6,New York,16,2,3,Loan,Disapproved,14,5,0,No,9,0.95424,Fail
+595,6,Sydney,8,3,1,Lease,Approved,65,6,3,Yes,11,1.04139,Fail
+596,6,Sydney,13,5,2,Loan,Disapproved,19,5,0,No,10,1,Fail
+597,6,Sydney,13,2,2,Lease,Disapproved,38,8,3,Yes,16,1.20412,Fail
+598,6,Paris,15,5,1,Loan,Disapproved,17,4,0,No,6,0.77815,Pass
+599,6,New York,2,5,3,Loan,Approved,36,4,1,Yes,6,0.77815,Pass
+600,6,Sydney,8,2,3,Lease,Approved,35,9,7,Yes,18,1.25527,Fail
+601,6,Paris,9,5,3,Lease,Approved,61,0,0,No,4,0.60206,Pass
+602,6,Sydney,8,2,2,Lease,Approved,42,8,3,Yes,15,1.17609,Fail
+603,6,Sydney,8,2,2,Lease,Approved,43,8,3,Yes,16,1.20412,Fail
+604,6,Paris,10,5,1,Loan,Approved,44,0,0,No,3,0.47712,Pass
+605,6,New York,6,5,3,Lease,Approved,55,4,1,Yes,7,0.8451,Pass
+606,6,New York,12,5,2,Lease,Approved,39,5,2,Yes,10,1,Fail
+607,6,Sydney,12,2,2,Lease,Approved,48,8,3,Yes,16,1.20412,Fail
+608,6,Sydney,14,2,1,Loan,Disapproved,47,7,2,Yes,13,1.11394,Fail
+609,6,New York,11,5,1,Lease,Approved,90,6,2,Yes,12,1.07918,Fail
+610,6,New York,12,5,2,Loan,Approved,50,4,1,Yes,6,0.77815,Pass
+611,6,New York,15,1,1,Lease,Disapproved,91,6,2,Yes,11,1.04139,Fail
+612,6,Sydney,5,2,3,Lease,Approved,72,8,4,Yes,17,1.23045,Fail
+613,6,Sydney,12,1,2,Loan,Approved,53,12,8,Yes,24,1.38021,Fail
+614,6,Sydney,7,3,1,Loan,Approved,24,9,7,Yes,18,1.25527,Fail
+615,6,Paris,14,5,2,Lease,Disapproved,45,0,0,No,3,0.47712,Pass
+616,6,New York,9,5,1,Loan,Approved,19,5,0,No,9,0.95424,Fail
+617,6,Sydney,9,4,1,Lease,Approved,58,7,2,Yes,13,1.11394,Fail
+618,6,Paris,11,5,3,Lease,Approved,27,2,0,No,4,0.60206,Pass
+619,6,New York,9,5,3,Loan,Approved,96,4,2,Yes,6,0.77815,Pass
+620,6,New York,12,5,3,Lease,Approved,25,6,1,Yes,11,1.04139,Fail
+621,6,Sydney,8,4,1,Lease,Approved,61,7,3,Yes,14,1.14613,Fail
+622,6,Sydney,8,1,2,Loan,Approved,82,11,4,Yes,22,1.34242,Fail
+623,6,New York,8,5,2,Loan,Approved,53,5,0,No,9,0.95424,Fail
+624,6,New York,8,5,1,Loan,Approved,24,5,0,No,9,0.95424,Fail
+625,6,Sydney,15,2,3,Lease,Disapproved,35,8,3,Yes,16,1.20412,Fail
+626,6,New York,15,4,2,Loan,Disapproved,59,4,2,Yes,7,0.8451,Pass
+627,6,Sydney,10,4,2,Lease,Approved,78,7,3,Yes,14,1.14613,Fail
+628,6,Paris,6,4,1,Loan,Approved,47,2,0,No,4,0.60206,Pass
+629,6,New York,9,4,3,Loan,Approved,16,3,0,No,5,0.69897,Pass
+630,6,New York,10,4,3,Lease,Approved,55,4,0,No,8,0.90309,Pass
+631,6,Sydney,11,4,2,Lease,Approved,61,9,7,Yes,18,1.25527,Fail
+632,6,New York,9,4,1,Lease,Approved,52,5,0,No,10,1,Fail
+633,6,Paris,11,4,2,Lease,Approved,33,4,1,Yes,6,0.77815,Pass
+634,6,New York,14,4,3,Lease,Disapproved,24,5,0,No,9,0.95424,Fail
+635,6,Paris,7,4,2,Lease,Approved,65,4,1,Yes,6,0.77815,Pass
+636,6,New York,15,4,3,Lease,Disapproved,39,3,1,Yes,5,0.69897,Pass
+637,7,New York,10,4,2,Lease,Approved,68,4,1,Yes,6,0.77815,Pass
+638,7,Sydney,8,4,2,Lease,Approved,17,6,2,Yes,12,1.07918,Fail
+639,7,New York,13,4,1,Loan,Disapproved,56,4,1,Yes,6,0.77815,Pass
+640,7,New York,14,4,3,Loan,Disapproved,75,6,1,Yes,11,1.04139,Fail
+641,7,New York,12,3,3,Lease,Approved,91,3,1,Yes,5,0.69897,Pass
+642,7,New York,2,5,3,Lease,Approved,102,4,1,Yes,6,0.77815,Pass
+643,7,New York,14,3,1,Lease,Disapproved,43,2,0,No,4,0.60206,Pass
+644,7,New York,9,5,3,Lease,Approved,74,4,1,Yes,6,0.77815,Pass
+645,7,New York,12,3,2,Loan,Approved,35,4,0,No,8,0.90309,Pass
+646,7,Paris,17,3,1,Lease,Disapproved,69,4,1,Yes,7,0.8451,Pass
+647,7,New York,17,4,3,Loan,Disapproved,48,4,1,Yes,6,0.77815,Pass
+648,7,Paris,10,5,3,Lease,Approved,17,4,0,No,6,0.77815,Pass
+649,7,Paris,13,3,1,Lease,Disapproved,56,2,0,No,4,0.60206,Pass
+650,7,Paris,8,4,1,Loan,Approved,95,0,0,No,3,0.47712,Pass
+651,7,Sydney,9,1,1,Lease,Approved,31,8,3,Yes,16,1.20412,Fail
+652,7,Paris,6,5,2,Lease,Approved,52,4,1,Yes,7,0.8451,Pass
+653,7,Paris,15,5,1,Lease,Disapproved,43,3,1,Yes,5,0.69897,Pass
+654,7,New York,13,2,3,Lease,Disapproved,74,5,0,No,9,0.95424,Fail
+655,7,Paris,10,5,1,Loan,Approved,45,0,0,No,3,0.47712,Pass
+656,7,Sydney,11,3,2,Lease,Approved,89,8,6,Yes,15,1.17609,Fail
+657,7,New York,11,5,2,Lease,Approved,58,4,1,Yes,6,0.77815,Pass
+658,7,Sydney,6,3,1,Lease,Approved,47,6,5,Yes,12,1.07918,Fail
+659,7,New York,6,4,1,Lease,Approved,46,4,0,No,8,0.90309,Pass
+660,7,New York,7,5,3,Loan,Approved,45,3,0,No,5,0.69897,Pass
+661,7,New York,11,4,3,Lease,Approved,61,7,2,Yes,13,1.11394,Fail
+662,7,New York,14,4,2,Lease,Disapproved,92,4,0,No,8,0.90309,Pass
+663,7,Paris,9,5,3,Lease,Approved,83,3,0,No,5,0.69897,Pass
+664,7,New York,11,5,3,Loan,Approved,64,4,0,No,8,0.90309,Pass
+665,7,Sydney,8,5,3,Lease,Approved,75,6,1,Yes,11,1.04139,Fail
+666,7,Paris,13,4,2,Lease,Disapproved,80,0,0,No,3,0.47712,Pass
+667,7,New York,10,5,2,Loan,Approved,68,5,0,No,10,1,Fail
+668,7,New York,10,5,1,Loan,Approved,50,4,0,No,8,0.90309,Pass
+669,7,Paris,9,5,1,Lease,Approved,30,2,0,No,4,0.60206,Pass
+670,7,New York,7,5,1,Loan,Approved,90,4,0,No,6,0.77815,Pass
+671,7,New York,11,5,1,Lease,Approved,30,4,0,No,8,0.90309,Pass
+672,7,Paris,11,5,3,Lease,Approved,70,2,0,No,4,0.60206,Pass
+673,7,Sydney,11,4,3,Lease,Approved,60,7,3,Yes,14,1.14613,Fail
+674,7,New York,5,5,3,Loan,Approved,70,4,0,No,7,0.8451,Pass
+675,7,New York,9,5,3,Loan,Approved,40,5,0,No,10,1,Fail
+676,7,Paris,11,5,3,Lease,Approved,50,2,0,No,4,0.60206,Pass
+677,7,New York,9,5,3,Loan,Approved,18,4,1,Yes,6,0.77815,Pass
+678,7,New York,11,5,1,Loan,Approved,17,4,0,No,8,0.90309,Pass
+679,7,Paris,9,5,1,Lease,Approved,76,4,2,Yes,6,0.77815,Pass
+680,7,Paris,13,4,1,Loan,Disapproved,75,2,0,No,4,0.60206,Pass
+681,7,New York,11,4,2,Lease,Approved,61,6,1,Yes,11,1.04139,Fail
+682,7,New York,17,4,2,Lease,Disapproved,52,4,0,No,6,0.77815,Pass
+683,7,Paris,8,4,2,Lease,Approved,23,3,0,No,5,0.69897,Pass
+684,7,New York,7,4,2,Loan,Approved,64,4,0,No,8,0.90309,Pass
+685,7,Sydney,11,4,3,Lease,Approved,65,6,1,Yes,11,1.04139,Fail
+686,7,Paris,6,4,1,Lease,Approved,79,4,2,Yes,6,0.77815,Pass
+687,7,New York,9,4,2,Loan,Approved,83,4,0,No,7,0.8451,Pass
+688,7,Paris,12,4,2,Lease,Approved,57,3,0,No,5,0.69897,Pass
+689,7,New York,4,4,2,Lease,Approved,36,4,0,No,7,0.8451,Pass
+690,7,New York,11,4,2,Lease,Approved,35,4,0,No,8,0.90309,Pass
+691,7,Paris,6,4,1,Lease,Approved,21,2,0,No,4,0.60206,Pass
+692,7,New York,11,4,1,Lease,Approved,42,5,0,No,10,1,Fail
+693,7,Sydney,9,4,3,Loan,Approved,73,5,0,No,9,0.95424,Fail
+694,7,New York,8,4,3,Lease,Approved,44,3,0,No,5,0.69897,Pass
+695,7,Sydney,7,4,1,Lease,Approved,80,7,2,Yes,13,1.11394,Fail
+696,7,Paris,4,5,3,Lease,Approved,70,2,0,No,4,0.60206,Pass
+697,7,New York,7,3,2,Lease,Approved,85,4,0,No,7,0.8451,Pass
+698,7,New York,10,3,1,Lease,Approved,30,5,0,No,10,1,Fail
+699,7,New York,10,3,2,Lease,Approved,40,4,0,No,8,0.90309,Pass
+700,7,New York,11,3,3,Lease,Approved,55,4,0,No,7,0.8451,Pass
+701,7,Paris,10,4,1,Lease,Approved,71,3,0,No,5,0.69897,Pass
+702,7,New York,13,3,2,Loan,Disapproved,52,4,0,No,8,0.90309,Pass
+703,7,Paris,10,5,2,Lease,Approved,33,2,0,No,4,0.60206,Pass
+704,7,Paris,13,5,1,Lease,Disapproved,24,3,0,No,5,0.69897,Pass
+705,7,Paris,11,3,3,Lease,Approved,45,4,0,No,8,0.90309,Pass
+706,7,Paris,8,4,2,Loan,Approved,79,3,0,No,5,0.69897,Pass
+707,7,Paris,12,5,1,Loan,Approved,38,4,2,Yes,6,0.77815,Pass
+708,7,New York,16,4,3,Loan,Disapproved,7,4,0,No,7,0.8451,Pass
+709,7,New York,9,4,1,Lease,Approved,56,4,0,No,8,0.90309,Pass
+710,7,Paris,10,4,2,Lease,Approved,55,3,0,No,5,0.69897,Pass
+711,7,Paris,12,5,1,Loan,Approved,71,2,0,No,4,0.60206,Pass
+712,7,New York,13,5,3,Loan,Approved,22,4,2,Yes,6,0.77815,Pass
+713,7,Sydney,8,4,1,Loan,Approved,63,6,1,Yes,11,1.04139,Fail
+714,7,New York,11,5,1,Lease,Approved,79,5,0,No,9,0.95424,Fail
+715,7,Sydney,7,5,1,Lease,Approved,35,6,1,Yes,11,1.04139,Fail
+716,7,New York,8,5,1,Lease,Approved,29,5,0,No,9,0.95424,Fail
+717,7,New York,10,5,3,Lease,Approved,28,3,0,No,5,0.69897,Pass
+718,7,Paris,12,5,2,Lease,Approved,27,2,0,No,4,0.60206,Pass
+719,7,New York,7,5,1,Lease,Approved,36,6,2,Yes,12,1.07918,Fail
+720,7,New York,10,5,1,Lease,Approved,80,5,0,No,10,1,Fail
+721,7,New York,9,5,1,Lease,Approved,30,5,0,No,9,0.95424,Fail
+722,8,Paris,10,5,1,Lease,Approved,60,4,2,Yes,6,0.77815,Pass
+723,8,Sydney,10,2,1,Lease,Approved,40,11,6,Yes,23,1.36173,Fail
+724,8,Paris,10,5,1,Loan,Approved,60,2,0,No,4,0.60206,Pass
+725,8,New York,9,5,2,Loan,Approved,30,3,0,No,5,0.69897,Pass
+726,8,Paris,6,5,2,Loan,Approved,49,4,0,No,7,0.8451,Pass
+727,8,Paris,8,5,2,Loan,Approved,38,4,2,Yes,6,0.77815,Pass
+728,8,Sydney,11,5,2,Lease,Approved,67,6,2,Yes,12,1.07918,Fail
+729,8,New York,7,5,2,Lease,Approved,46,3,0,No,5,0.69897,Pass
+730,8,Paris,12,5,1,Lease,Approved,25,3,1,Yes,5,0.69897,Pass
+731,8,Sydney,10,4,3,Loan,Approved,31,7,2,Yes,13,1.11394,Fail
+732,8,Sydney,9,1,2,Loan,Approved,72,10,4,Yes,19,1.27875,Fail
+733,8,New York,8,5,1,Lease,Approved,63,4,0,No,7,0.8451,Pass
+734,8,New York,9,5,3,Lease,Approved,24,4,0,No,8,0.90309,Pass
+735,8,New York,11,5,1,Lease,Approved,35,4,2,Yes,6,0.77815,Pass
+736,8,Paris,10,4,3,Loan,Approved,39,3,1,Yes,5,0.69897,Pass
+737,8,New York,7,4,3,Lease,Approved,68,4,0,No,8,0.90309,Pass
+738,8,New York,15,4,1,Lease,Disapproved,27,4,0,No,7,0.8451,Pass
+739,8,New York,13,4,1,Lease,Approved,71,4,0,No,7,0.8451,Pass
+740,8,New York,11,4,2,Lease,Approved,45,4,2,Yes,6,0.77815,Pass
+741,8,Paris,7,4,2,Lease,Approved,51,4,2,Yes,6,0.77815,Pass
+742,8,Sydney,6,4,2,Lease,Approved,32,10,4,Yes,19,1.27875,Fail
+743,8,New York,12,4,3,Lease,Approved,73,5,0,No,10,1,Fail
+744,8,Paris,12,4,3,Loan,Approved,44,4,0,No,7,0.8451,Pass
+745,8,New York,7,4,1,Lease,Approved,60,5,0,No,9,0.95424,Fail
+746,8,New York,10,4,2,Lease,Approved,70,4,0,No,8,0.90309,Pass
+747,8,Paris,10,5,1,Lease,Approved,60,0,0,No,3,0.47712,Pass
+748,8,Paris,11,4,3,Lease,Approved,20,3,1,Yes,5,0.69897,Pass
+749,8,New York,9,4,2,Loan,Approved,60,4,2,Yes,6,0.77815,Pass
+750,8,New York,10,4,3,Lease,Approved,40,5,0,No,9,0.95424,Fail
+751,8,New York,5,3,2,Lease,Approved,61,5,0,No,9,0.95424,Fail
+752,8,Paris,12,5,1,Lease,Approved,32,2,0,No,4,0.60206,Pass
+753,8,New York,9,3,1,Lease,Approved,23,5,0,No,10,1,Fail
+754,8,New York,8,3,3,Lease,Approved,84,5,0,No,10,1,Fail
+755,8,New York,11,3,1,Lease,Approved,65,5,0,No,10,1,Fail
+756,8,New York,10,3,3,Lease,Approved,39,4,0,No,7,0.8451,Pass
+757,8,New York,12,3,3,Lease,Approved,48,6,2,Yes,11,1.04139,Fail
+758,8,New York,8,3,3,Lease,Approved,37,5,0,No,10,1,Fail
+759,8,Paris,15,4,3,Loan,Disapproved,26,3,0,No,5,0.69897,Pass
+760,8,New York,5,4,2,Lease,Approved,45,4,1,Yes,6,0.77815,Pass
+761,8,Paris,12,4,2,Loan,Approved,91,4,0,No,8,0.90309,Pass
+762,8,Paris,11,4,1,Lease,Approved,72,4,1,Yes,7,0.8451,Pass
+763,8,New York,13,4,1,Lease,Approved,43,5,0,No,10,1,Fail
+764,8,New York,7,2,2,Lease,Approved,74,6,2,Yes,11,1.04139,Fail
+765,8,Sydney,8,2,3,Loan,Approved,45,12,1,Yes,26,1.41497,Fail
+766,8,Paris,12,4,3,Lease,Approved,49,3,0,No,5,0.69897,Pass
+767,8,New York,8,5,2,Loan,Approved,68,4,0,No,8,0.90309,Pass
+768,8,Paris,5,4,1,Lease,Approved,37,0,0,No,3,0.47712,Pass
+769,8,Paris,14,4,2,Lease,Disapproved,36,2,0,No,4,0.60206,Pass
+770,8,New York,6,4,3,Loan,Approved,30,4,0,No,8,0.90309,Pass
+771,8,New York,7,5,1,Lease,Approved,30,4,1,Yes,6,0.77815,Pass
+772,8,Sydney,7,2,2,Loan,Approved,10,8,6,Yes,15,1.17609,Fail
+773,8,New York,8,5,3,Lease,Approved,40,4,0,No,8,0.90309,Pass
+774,8,New York,7,5,1,Lease,Approved,50,5,0,No,9,0.95424,Fail
+775,8,Sydney,10,5,2,Loan,Approved,50,6,2,Yes,11,1.04139,Fail
+776,8,Paris,8,5,3,Lease,Approved,39,4,0,No,6,0.77815,Pass
+777,8,Paris,10,5,3,Lease,Approved,88,4,2,Yes,6,0.77815,Pass
+778,8,New York,9,5,1,Lease,Approved,37,4,1,Yes,7,0.8451,Pass
+779,8,Paris,6,5,3,Lease,Approved,66,4,2,Yes,6,0.77815,Pass
+780,8,New York,11,5,3,Lease,Approved,130,5,0,No,10,1,Fail
+781,8,Sydney,4,4,2,Loan,Approved,51,7,1,Yes,13,1.11394,Fail
+782,8,New York,8,5,2,Loan,Approved,82,6,2,Yes,11,1.04139,Fail
+783,8,Paris,9,5,1,Loan,Approved,73,3,0,No,5,0.69897,Pass
+784,8,Paris,9,5,1,Loan,Approved,64,3,0,No,5,0.69897,Pass
+785,8,New York,10,5,2,Lease,Approved,95,4,2,Yes,7,0.8451,Pass
+786,8,New York,5,5,1,Loan,Approved,69,4,1,Yes,7,0.8451,Pass
+787,8,New York,11,5,3,Lease,Approved,58,5,0,No,9,0.95424,Fail
+788,8,Paris,7,5,2,Lease,Approved,47,4,1,Yes,6,0.77815,Pass
+789,8,New York,10,5,2,Lease,Approved,76,4,0,No,8,0.90309,Pass
+790,8,Paris,7,5,2,Lease,Approved,45,0,0,No,3,0.47712,Pass
+791,8,Paris,12,4,2,Lease,Approved,51,4,0,No,8,0.90309,Pass
+792,8,Paris,12,4,3,Lease,Approved,42,4,1,Yes,6,0.77815,Pass
+793,8,New York,6,4,1,Lease,Approved,63,6,2,Yes,11,1.04139,Fail
+794,8,New York,13,4,1,Lease,Approved,54,4,0,No,8,0.90309,Pass
+795,8,Sydney,5,4,2,Lease,Approved,25,6,3,Yes,11,1.04139,Fail
+796,8,New York,8,4,1,Lease,Approved,59,4,2,Yes,7,0.8451,Pass
+797,8,Paris,7,4,3,Loan,Approved,93,4,1,Yes,6,0.77815,Pass
+798,9,New York,18,4,2,Lease,Disapproved,37,2,0,No,4,0.60206,Pass
+799,9,Paris,10,4,2,Lease,Approved,66,0,0,No,3,0.47712,Pass
+800,9,Paris,13,4,2,Lease,Approved,55,4,2,Yes,6,0.77815,Pass
+801,9,New York,7,4,3,Loan,Approved,51,3,0,No,5,0.69897,Pass
+802,9,Paris,10,4,1,Loan,Approved,52,2,0,No,4,0.60206,Pass
+803,9,Sydney,11,4,1,Lease,Approved,63,11,5,Yes,22,1.34242,Fail
+804,9,Paris,8,4,1,Lease,Approved,74,4,2,Yes,7,0.8451,Pass
+805,9,New York,9,4,2,Lease,Approved,65,5,0,No,9,0.95424,Fail
+806,9,Sydney,12,3,2,Loan,Approved,49,7,2,Yes,13,1.11394,Fail
+807,9,Paris,12,3,2,Loan,Approved,8,0,0,No,3,0.47712,Pass
+808,9,New York,14,3,3,Lease,Disapproved,37,6,2,Yes,11,1.04139,Fail
+809,9,New York,11,3,1,Lease,Approved,36,3,1,Yes,5,0.69897,Pass
+810,9,Paris,15,4,2,Lease,Disapproved,45,3,0,No,5,0.69897,Pass
+811,9,Paris,7,4,1,Loan,Approved,51,3,0,No,5,0.69897,Pass
+812,9,New York,7,5,1,Lease,Approved,72,4,0,No,6,0.77815,Pass
+813,9,Paris,6,5,1,Lease,Approved,23,4,1,Yes,6,0.77815,Pass
+814,9,New York,8,3,3,Lease,Approved,74,4,2,Yes,7,0.8451,Pass
+815,9,Sydney,14,3,2,Loan,Disapproved,35,7,2,Yes,13,1.11394,Fail
+816,9,Paris,9,5,3,Lease,Approved,79,4,1,Yes,7,0.8451,Pass
+817,9,Paris,7,5,1,Loan,Approved,38,5,0,No,10,1,Fail
+818,9,New York,10,1,2,Lease,Approved,17,7,3,Yes,14,1.14613,Fail
+819,9,Paris,11,5,2,Lease,Approved,46,3,0,No,5,0.69897,Pass
+820,9,New York,14,2,1,Loan,Disapproved,25,5,0,No,9,0.95424,Fail
+821,9,Paris,19,4,3,Loan,Disapproved,31,4,1,Yes,6,0.77815,Pass
+822,9,New York,10,4,3,Lease,Approved,42,4,1,Yes,7,0.8451,Pass
+823,9,New York,11,5,3,Loan,Approved,43,3,0,No,5,0.69897,Pass
+824,9,New York,7,3,1,Lease,Approved,54,4,1,Yes,7,0.8451,Pass
+825,9,New York,7,3,1,Loan,Approved,35,4,1,Yes,6,0.77815,Pass
+826,9,Paris,6,5,2,Lease,Approved,29,0,0,No,3,0.47712,Pass
+827,9,New York,7,5,3,Loan,Approved,38,4,0,No,8,0.90309,Pass
+828,9,New York,12,5,2,Lease,Approved,37,5,0,No,10,1,Fail
+829,9,New York,9,5,2,Lease,Approved,66,3,0,No,5,0.69897,Pass
+830,9,Paris,11,5,3,Lease,Approved,85,3,0,No,5,0.69897,Pass
+831,9,Sydney,19,5,2,Lease,Disapproved,76,5,0,No,10,1,Fail
+832,9,New York,5,5,3,Loan,Approved,62,4,2,Yes,7,0.8451,Pass
+833,9,New York,8,5,1,Lease,Approved,53,4,1,Yes,7,0.8451,Pass
+834,9,New York,6,5,2,Lease,Approved,54,4,1,Yes,7,0.8451,Pass
+835,9,Paris,7,5,3,Lease,Approved,105,3,0,No,5,0.69897,Pass
+836,9,Sydney,8,2,3,Lease,Approved,69,10,4,Yes,19,1.27875,Fail
+837,9,Paris,10,5,3,Lease,Approved,28,3,1,Yes,5,0.69897,Pass
+838,9,New York,8,5,1,Lease,Approved,27,5,0,No,9,0.95424,Fail
+839,9,New York,9,5,3,Lease,Approved,36,5,0,No,10,1,Fail
+840,9,Sydney,10,5,3,Loan,Approved,5,5,0,No,10,1,Fail
+841,9,New York,11,5,2,Lease,Approved,61,4,1,Yes,6,0.77815,Pass
+842,9,Paris,8,5,1,Lease,Approved,82,2,0,No,4,0.60206,Pass
+843,9,Paris,6,5,2,Loan,Approved,43,2,0,No,4,0.60206,Pass
+844,9,Paris,4,5,3,Lease,Approved,64,3,0,No,5,0.69897,Pass
+845,9,Paris,9,5,3,Lease,Approved,85,4,0,No,7,0.8451,Pass
+846,9,New York,11,4,2,Lease,Approved,39,4,1,Yes,7,0.8451,Pass
+847,9,New York,7,4,2,Lease,Approved,78,4,1,Yes,6,0.77815,Pass
+848,9,New York,7,4,1,Loan,Approved,37,4,0,No,8,0.90309,Pass
+849,9,New York,8,4,3,Lease,Approved,118,5,0,No,9,0.95424,Fail
+850,9,Paris,11,4,1,Loan,Approved,35,2,0,No,4,0.60206,Pass
+851,9,Paris,8,4,3,Lease,Approved,71,2,0,No,4,0.60206,Pass
+852,9,Sydney,11,2,1,Lease,Approved,72,8,3,Yes,16,1.20412,Fail
+853,9,Paris,11,4,1,Loan,Approved,33,4,1,Yes,7,0.8451,Pass
+854,9,New York,10,4,1,Loan,Approved,64,4,0,No,7,0.8451,Pass
+855,9,Paris,5,4,3,Lease,Approved,80,3,0,No,5,0.69897,Pass
+856,9,New York,7,4,1,Lease,Approved,79,2,0,No,4,0.60206,Pass
+857,9,New York,9,4,2,Loan,Approved,38,4,0,No,8,0.90309,Pass
+858,9,Sydney,9,4,1,Loan,Approved,17,6,2,Yes,12,1.07918,Fail
+859,9,New York,18,4,2,Lease,Disapproved,36,4,0,No,8,0.90309,Pass
+860,9,Paris,9,5,3,Lease,Approved,35,0,0,No,3,0.47712,Pass
+861,9,New York,8,3,3,Loan,Approved,71,5,0,No,10,1,Fail
+862,9,New York,13,4,1,Lease,Approved,22,4,1,Yes,6,0.77815,Pass
+863,9,Sydney,14,3,3,Loan,Disapproved,33,6,2,Yes,12,1.07918,Fail
+864,9,Paris,9,5,1,Lease,Approved,54,2,2,Yes,4,0.60206,Pass
+865,9,New York,11,5,2,Loan,Approved,65,4,0,No,6,0.77815,Pass
+866,9,Paris,10,5,1,Lease,Approved,39,2,1,Yes,4,0.60206,Pass
+867,9,New York,11,3,2,Lease,Approved,78,4,0,No,8,0.90309,Pass
+868,9,New York,10,3,1,Lease,Approved,67,4,2,Yes,7,0.8451,Pass
+869,9,Paris,12,3,1,Lease,Approved,66,4,0,No,8,0.90309,Pass
+870,9,Paris,9,5,1,Loan,Approved,25,4,0,No,6,0.77815,Pass
+871,9,Paris,9,5,1,Lease,Approved,61,4,1,Yes,6,0.77815,Pass
+872,9,New York,4,4,2,Lease,Approved,52,5,0,No,10,1,Fail
+873,9,Paris,14,4,1,Lease,Disapproved,133,4,0,No,8,0.90309,Pass
+874,9,New York,12,4,3,Lease,Approved,64,4,2,Yes,7,0.8451,Pass
+875,9,Paris,11,4,3,Loan,Approved,65,2,0,No,4,0.60206,Pass
+876,9,Paris,12,4,1,Lease,Approved,49,4,1,Yes,6,0.77815,Pass
+877,9,Sydney,10,3,2,Loan,Approved,38,6,3,Yes,12,1.07918,Fail
+878,9,New York,9,4,3,Lease,Approved,67,4,0,No,8,0.90309,Pass
+879,9,New York,8,4,3,Lease,Approved,56,4,1,Yes,7,0.8451,Pass
+880,9,Sydney,3,2,3,Lease,Approved,25,10,4,Yes,19,1.27875,Fail
+881,9,New York,8,5,1,Lease,Approved,41,6,2,Yes,11,1.04139,Fail
+882,9,Paris,11,5,2,Lease,Approved,62,4,1,Yes,6,0.77815,Pass
+883,9,Paris,7,5,2,Loan,Approved,43,4,0,No,6,0.77815,Pass
+884,9,Paris,7,5,2,Loan,Approved,94,4,1,Yes,7,0.8451,Pass
+885,9,New York,12,5,2,Lease,Approved,65,4,0,No,7,0.8451,Pass
+886,10,New York,4,5,1,Lease,Approved,99,5,0,No,10,1,Fail
+887,10,Paris,6,5,3,Lease,Approved,118,3,0,No,5,0.69897,Pass
+888,10,New York,8,5,1,Lease,Approved,37,4,0,No,8,0.90309,Pass
+889,10,Paris,12,5,1,Loan,Approved,56,4,0,No,8,0.90309,Pass
+890,10,New York,5,5,1,Lease,Approved,25,4,1,Yes,7,0.8451,Pass
+891,10,New York,12,5,2,Lease,Approved,61,5,0,No,9,0.95424,Fail
+892,10,Sydney,12,2,3,Lease,Approved,42,7,3,Yes,14,1.14613,Fail
+893,10,Sydney,10,5,1,Lease,Approved,53,6,2,Yes,11,1.04139,Fail
+894,10,Paris,8,5,1,Lease,Approved,34,4,2,Yes,7,0.8451,Pass
+895,10,Paris,8,5,3,Lease,Approved,85,0,0,No,3,0.47712,Pass
+896,10,Paris,7,5,3,Lease,Approved,29,3,0,No,5,0.69897,Pass
+897,10,Sydney,7,5,1,Loan,Approved,48,8,3,Yes,15,1.17609,Fail
+898,10,New York,14,5,1,Lease,Disapproved,57,4,0,No,8,0.90309,Pass
+899,10,Paris,3,5,2,Lease,Approved,56,2,0,No,4,0.60206,Pass
+900,10,Sydney,8,1,1,Lease,Approved,55,8,3,Yes,16,1.20412,Fail
+901,10,New York,13,4,1,Lease,Disapproved,31,4,0,No,8,0.90309,Pass
+902,10,New York,10,4,1,Loan,Approved,82,5,0,No,9,0.95424,Fail
+903,10,Sydney,13,4,2,Loan,Disapproved,23,9,7,Yes,18,1.25527,Fail
+904,10,Sydney,8,2,2,Lease,Approved,34,8,3,Yes,16,1.20412,Fail
+905,10,Sydney,12,4,2,Lease,Approved,35,7,5,Yes,13,1.11394,Fail
+906,10,New York,18,4,1,Loan,Disapproved,49,5,0,No,10,1,Fail
+907,10,Sydney,12,4,3,Lease,Approved,38,7,5,Yes,13,1.11394,Fail
+908,10,New York,12,4,2,Loan,Approved,37,4,1,Yes,7,0.8451,Pass
+909,10,New York,7,4,3,Lease,Approved,46,6,3,Yes,11,1.04139,Fail
+910,10,New York,11,4,2,Loan,Approved,25,5,0,No,9,0.95424,Fail
+911,10,New York,7,4,3,Loan,Approved,51,6,2,Yes,11,1.04139,Fail
+912,10,New York,11,4,1,Lease,Approved,62,4,0,No,8,0.90309,Pass
+913,10,Sydney,10,4,2,Lease,Approved,53,5,0,No,10,1,Fail
+914,10,Paris,12,4,2,Lease,Approved,44,3,0,No,5,0.69897,Pass
+915,10,New York,16,4,3,Lease,Disapproved,55,2,0,No,4,0.60206,Pass
+916,10,New York,10,3,1,Loan,Approved,59,6,5,Yes,12,1.07918,Fail
+917,10,New York,13,3,1,Loan,Disapproved,18,6,3,Yes,12,1.07918,Fail
+918,10,New York,5,3,1,Lease,Approved,37,4,0,No,8,0.90309,Pass
+919,10,New York,11,3,3,Loan,Approved,26,5,0,No,10,1,Fail
+920,10,New York,5,3,2,Loan,Approved,45,5,0,No,10,1,Fail
+921,10,New York,12,3,1,Loan,Approved,61,5,0,No,9,0.95424,Fail
+922,10,Paris,12,3,3,Lease,Approved,82,4,1,Yes,7,0.8451,Pass
+923,10,Sydney,8,3,2,Lease,Approved,53,11,5,Yes,22,1.34242,Fail
+924,10,Paris,9,3,3,Lease,Approved,54,0,0,No,3,0.47712,Pass
+925,10,Sydney,8,3,1,Lease,Approved,45,7,5,Yes,13,1.11394,Fail
+926,10,Sydney,9,2,2,Lease,Approved,49,7,4,Yes,13,1.11394,Fail
+927,10,New York,8,4,3,Loan,Approved,18,4,2,Yes,7,0.8451,Pass
+928,10,Paris,13,5,2,Lease,Disapproved,37,4,0,No,8,0.90309,Pass
+929,10,New York,9,2,2,Lease,Approved,76,5,0,No,9,0.95424,Fail
+930,10,New York,4,4,1,Loan,Approved,25,4,1,Yes,6,0.77815,Pass
+931,10,Sydney,5,2,1,Lease,Approved,31,11,4,Yes,21,1.32222,Fail
+932,10,New York,15,5,2,Lease,Disapproved,42,4,0,No,8,0.90309,Pass
+933,10,New York,8,5,2,Lease,Approved,123,3,0,No,5,0.69897,Pass
+934,10,Paris,5,5,2,Loan,Approved,24,3,0,No,5,0.69897,Pass
+935,10,New York,13,1,1,Loan,Disapproved,65,5,0,No,9,0.95424,Fail
+936,10,New York,10,5,3,Loan,Approved,39,4,2,Yes,6,0.77815,Pass
+937,10,New York,16,3,2,Lease,Disapproved,68,6,2,Yes,12,1.07918,Fail
+938,10,Sydney,14,4,1,Lease,Disapproved,47,7,5,Yes,13,1.11394,Fail
+939,10,New York,8,5,1,Lease,Approved,46,4,0,No,8,0.90309,Pass
+940,10,Sydney,5,2,3,Loan,Approved,55,10,4,Yes,19,1.27875,Fail
+941,10,New York,10,5,2,Loan,Approved,31,6,2,Yes,12,1.07918,Fail
+942,10,New York,7,5,3,Lease,Approved,52,5,0,No,9,0.95424,Fail
+943,10,New York,8,5,2,Loan,Approved,63,6,2,Yes,12,1.07918,Fail
+944,10,New York,6,5,3,Lease,Approved,151,4,0,No,7,0.8451,Pass
+945,10,New York,6,5,2,Lease,Approved,35,3,1,Yes,5,0.69897,Pass
+946,10,New York,7,5,3,Loan,Approved,69,7,2,Yes,12,1.07918,Fail
+947,10,Paris,8,5,3,Lease,Approved,117,4,0,No,8,0.90309,Pass
+948,10,New York,8,5,2,Lease,Approved,27,3,1,Yes,5,0.69897,Pass
+949,10,New York,9,5,2,Lease,Approved,46,5,0,No,10,1,Fail
+950,10,Paris,8,5,3,Loan,Approved,90,4,2,Yes,6,0.77815,Pass
+951,10,Sydney,14,2,2,Loan,Disapproved,40,8,3,Yes,16,1.20412,Fail
+952,10,Paris,12,5,3,Loan,Approved,20,3,0,No,5,0.69897,Pass
+953,10,New York,12,5,3,Loan,Approved,40,5,0,No,9,0.95424,Fail
+954,10,New York,10,5,3,Loan,Approved,50,5,0,No,9,0.95424,Fail
+955,10,Paris,10,5,2,Lease,Approved,50,0,0,No,3,0.47712,Pass
+956,10,Paris,11,4,1,Loan,Approved,49,3,0,No,5,0.69897,Pass
+957,10,Sydney,6,4,1,Loan,Approved,58,9,6,Yes,18,1.25527,Fail
+958,10,Sydney,9,4,3,Lease,Approved,77,12,1,Yes,26,1.41497,Fail
+959,10,New York,6,4,2,Lease,Approved,96,4,1,Yes,7,0.8451,Pass
+960,10,Paris,13,4,2,Lease,Disapproved,55,4,1,Yes,6,0.77815,Pass
+961,10,Sydney,12,4,3,Loan,Approved,41,7,5,Yes,13,1.11394,Fail
+962,10,New York,9,4,2,Loan,Approved,52,0,0,No,3,0.47712,Pass
+963,10,New York,12,4,2,Loan,Approved,63,4,0,No,8,0.90309,Pass
+964,10,Paris,10,4,2,Lease,Approved,44,4,1,Yes,7,0.8451,Pass
+965,10,Sydney,8,4,1,Lease,Approved,65,9,7,Yes,18,1.25527,Fail
+966,10,Paris,8,4,3,Lease,Approved,29,4,1,Yes,7,0.8451,Pass
+967,10,New York,9,4,3,Lease,Approved,98,4,1,Yes,7,0.8451,Pass
+968,10,New York,17,4,1,Lease,Disapproved,87,4,0,No,8,0.90309,Pass
+969,10,New York,17,4,1,Loan,Disapproved,4,6,1,Yes,12,1.07918,Fail
+970,10,Sydney,12,3,1,Lease,Approved,35,12,5,Yes,24,1.38021,Fail
+971,10,Sydney,8,3,2,Lease,Approved,41,6,3,Yes,12,1.07918,Fail
+972,10,New York,6,3,3,Lease,Approved,32,5,0,No,10,1,Fail
+973,10,New York,10,3,2,Loan,Approved,63,6,1,Yes,12,1.07918,Fail
+974,10,Sydney,8,3,3,Loan,Approved,34,13,7,Yes,25,1.39794,Fail
+975,10,Sydney,12,3,1,Lease,Approved,35,7,3,Yes,14,1.14613,Fail
+976,10,New York,11,3,2,Lease,Approved,59,4,0,No,7,0.8451,Pass
+977,10,Sydney,16,3,1,Lease,Disapproved,28,7,3,Yes,14,1.14613,Fail
+978,10,Sydney,10,3,3,Loan,Approved,87,8,6,Yes,15,1.17609,Fail
+979,10,New York,10,3,3,Lease,Approved,56,4,0,No,7,0.8451,Pass
+980,10,New York,11,3,3,Lease,Approved,35,7,2,Yes,12,1.07918,Fail
+981,10,Sydney,8,2,3,Loan,Approved,21,10,4,Yes,19,1.27875,Fail
+982,10,Sydney,7,2,1,Loan,Approved,72,10,4,Yes,19,1.27875,Fail
+983,10,Sydney,10,2,3,Lease,Approved,43,13,5,Yes,25,1.39794,Fail
+984,10,Paris,10,5,1,Lease,Approved,64,4,0,No,7,0.8451,Pass
+985,10,Sydney,10,2,2,Lease,Approved,35,9,7,Yes,18,1.25527,Fail
+986,10,Sydney,7,3,3,Lease,Approved,29,7,3,Yes,14,1.14613,Fail
+987,10,Sydney,10,4,2,Lease,Approved,98,11,4,Yes,21,1.32222,Fail
+988,10,Sydney,10,4,3,Lease,Approved,57,11,4,Yes,21,1.32222,Fail
+989,10,Sydney,17,1,1,Lease,Disapproved,56,10,4,Yes,19,1.27875,Fail
+990,10,Sydney,6,1,2,Lease,Approved,25,8,3,Yes,15,1.17609,Fail
+991,10,New York,12,5,3,Lease,Approved,61,5,0,No,10,1,Fail
+992,10,Paris,16,2,3,Lease,Disapproved,72,3,0,No,5,0.69897,Pass
+993,10,New York,5,5,3,Loan,Approved,23,4,0,No,8,0.90309,Pass
+994,10,Sydney,13,1,3,Lease,Disapproved,64,10,4,Yes,19,1.27875,Fail
+995,10,New York,13,5,1,Lease,Disapproved,20,5,0,No,10,1,Fail
+996,10,Paris,11,5,1,Lease,Approved,60,4,1,Yes,6,0.77815,Pass
+997,10,New York,11,5,1,Loan,Approved,80,5,0,No,10,1,Fail
+998,10,Sydney,13,3,1,Lease,Disapproved,20,6,1,Yes,11,1.04139,Fail
+999,10,Paris,11,5,2,Lease,Approved,50,4,1,Yes,6,0.77815,Pass
+1000,10,New York,9,5,3,Lease,Approved,45,5,0,No,9,0.95424,Fail
+1001,10,New York,10,5,3,Lease,Approved,51,4,0,No,8,0.90309,Pass
+1002,10,New York,10,5,2,Lease,Approved,32,4,0,No,8,0.90309,Pass
+1003,10,Paris,6,5,3,Lease,Approved,93,0,0,No,3,0.47712,Pass
+1004,10,Sydney,13,1,3,Lease,Disapproved,34,13,2,Yes,27,1.43136,Fail
+1005,10,Sydney,8,5,2,Lease,Approved,35,6,5,Yes,12,1.07918,Fail
+1006,10,New York,9,5,3,Lease,Approved,84,3,1,Yes,5,0.69897,Pass
+1007,10,Sydney,10,1,3,Lease,Approved,108,10,4,Yes,19,1.27875,Fail
+1008,10,Paris,9,5,1,Lease,Approved,77,3,0,No,5,0.69897,Pass
+1009,10,Sydney,8,3,3,Loan,Approved,66,13,5,Yes,25,1.39794,Fail
+1010,10,Paris,7,5,1,Lease,Approved,45,4,0,No,6,0.77815,Pass
+1011,10,New York,7,4,2,Loan,Approved,41,4,0,No,7,0.8451,Pass
+1012,10,New York,17,4,1,Lease,Disapproved,52,4,0,No,8,0.90309,Pass
+1013,10,New York,8,4,3,Loan,Approved,53,3,0,No,5,0.69897,Pass
+1014,10,Sydney,6,1,2,Lease,Approved,24,8,3,Yes,16,1.20412,Fail
+1015,10,Sydney,12,4,3,Lease,Approved,35,13,6,Yes,25,1.39794,Fail
+1016,10,Paris,12,4,1,Loan,Approved,29,4,0,No,6,0.77815,Pass
+1017,10,Sydney,13,4,2,Lease,Disapproved,48,11,5,Yes,22,1.34242,Fail
+1018,10,Paris,5,4,1,Lease,Approved,60,4,1,Yes,6,0.77815,Pass
+1019,10,New York,5,4,2,Lease,Approved,60,4,2,Yes,6,0.77815,Pass
+1020,10,Paris,7,4,1,Loan,Approved,60,2,1,Yes,4,0.60206,Pass
+1021,10,New York,4,4,2,Loan,Approved,71,6,1,Yes,11,1.04139,Fail
+1022,10,New York,5,4,1,Lease,Approved,72,6,3,Yes,12,1.07918,Fail
+1023,10,Sydney,12,4,3,Loan,Approved,43,13,5,Yes,25,1.39794,Fail
+1024,10,Paris,13,4,1,Lease,Disapproved,44,2,1,Yes,4,0.60206,Pass
+1025,10,Paris,6,4,2,Lease,Approved,25,4,2,Yes,7,0.8451,Pass
+1026,10,New York,12,3,3,Loan,Approved,59,4,2,Yes,7,0.8451,Pass
+1027,10,New York,10,3,1,Lease,Approved,58,4,0,No,8,0.90309,Pass
+1028,10,New York,5,3,3,Lease,Approved,47,4,2,Yes,7,0.8451,Pass
+1029,10,Sydney,14,3,3,Lease,Disapproved,16,4,0,No,8,0.90309,Pass
+1030,10,New York,6,3,2,Loan,Approved,55,5,0,No,10,1,Fail
+1031,11,New York,7,3,3,Lease,Approved,101,5,0,No,9,0.95424,Fail
+1032,11,Sydney,9,3,3,Lease,Approved,62,7,5,Yes,13,1.11394,Fail
+1033,11,New York,17,3,1,Lease,Disapproved,43,5,0,No,9,0.95424,Fail
+1034,11,Sydney,8,3,2,Lease,Approved,104,5,0,No,10,1,Fail
+1035,11,Paris,12,5,2,Lease,Approved,35,0,0,No,3,0.47712,Pass
+1036,11,Sydney,12,2,3,Lease,Approved,127,8,4,Yes,17,1.23045,Fail
+1037,11,Sydney,6,2,2,Lease,Approved,88,13,5,Yes,25,1.39794,Fail
+1038,11,New York,15,2,1,Lease,Disapproved,47,6,1,Yes,11,1.04139,Fail
+1039,11,Paris,9,4,2,Lease,Approved,26,4,1,Yes,7,0.8451,Pass
+1040,11,New York,18,1,2,Loan,Disapproved,55,5,0,No,9,0.95424,Fail
+1041,11,Sydney,9,1,3,Lease,Approved,61,8,3,Yes,16,1.20412,Fail
+1042,11,Sydney,6,4,1,Lease,Approved,62,8,3,Yes,16,1.20412,Fail
+1043,11,Paris,12,5,1,Lease,Approved,23,4,2,Yes,7,0.8451,Pass
+1044,11,Sydney,9,4,2,Lease,Approved,34,7,5,Yes,13,1.11394,Fail
+1045,11,New York,8,5,1,Lease,Approved,35,6,1,Yes,11,1.04139,Fail
+1046,11,New York,4,5,3,Lease,Approved,84,4,1,Yes,6,0.77815,Pass
+1047,11,Paris,11,5,1,Lease,Approved,48,3,0,No,5,0.69897,Pass
+1048,11,New York,10,5,1,Lease,Approved,37,4,1,Yes,6,0.77815,Pass
+1049,11,Sydney,6,1,1,Lease,Approved,46,10,4,Yes,19,1.27875,Fail
+1050,11,New York,10,5,2,Lease,Approved,45,4,0,No,8,0.90309,Pass
+1051,11,Paris,10,5,1,Lease,Approved,86,4,2,Yes,7,0.8451,Pass
+1052,11,Sydney,6,5,3,Lease,Approved,52,10,4,Yes,20,1.30103,Fail
+1053,11,Sydney,6,5,3,Loan,Approved,53,10,4,Yes,20,1.30103,Fail
+1054,11,New York,3,5,1,Loan,Approved,54,4,1,Yes,7,0.8451,Pass
+1055,11,New York,10,5,2,Lease,Approved,75,4,2,Yes,7,0.8451,Pass
+1056,11,New York,10,1,2,Lease,Approved,49,8,3,Yes,16,1.20412,Fail
+1057,11,Sydney,12,2,1,Lease,Approved,88,8,3,Yes,15,1.17609,Fail
+1058,11,New York,6,5,2,Loan,Approved,37,4,0,No,8,0.90309,Pass
+1059,11,New York,16,5,1,Loan,Disapproved,6,4,1,Yes,6,0.77815,Pass
+1060,11,New York,11,5,1,Loan,Approved,30,5,2,Yes,10,1,Fail
+1061,11,New York,13,4,3,Lease,Disapproved,20,4,2,Yes,7,0.8451,Pass
+1062,11,New York,9,5,3,Lease,Approved,50,4,0,No,8,0.90309,Pass
+1063,11,New York,4,5,3,Loan,Approved,50,6,1,Yes,11,1.04139,Fail
+1064,11,Paris,6,5,3,Lease,Approved,50,5,0,No,10,1,Fail
+1065,11,Sydney,11,5,3,Lease,Approved,60,6,2,Yes,12,1.07918,Fail
+1066,11,New York,16,4,3,Loan,Disapproved,50,4,0,No,8,0.90309,Pass
+1067,11,Paris,12,4,2,Loan,Approved,48,4,0,No,8,0.90309,Pass
+1068,11,New York,10,4,2,Loan,Approved,47,4,1,Yes,6,0.77815,Pass
+1069,11,Sydney,14,4,3,Lease,Disapproved,26,12,8,Yes,24,1.38021,Fail
+1070,11,Sydney,7,1,3,Lease,Approved,25,8,3,Yes,16,1.20412,Fail
+1071,11,New York,9,4,3,Lease,Approved,61,6,2,Yes,12,1.07918,Fail
+1072,11,New York,12,4,1,Lease,Approved,72,3,0,No,5,0.69897,Pass
+1073,11,Sydney,7,4,1,Lease,Approved,73,10,4,Yes,19,1.27875,Fail
+1074,11,New York,7,4,3,Lease,Approved,44,4,1,Yes,7,0.8451,Pass
+1075,11,New York,10,4,1,Lease,Approved,75,4,0,No,8,0.90309,Pass
+1076,11,Sydney,1,4,1,Lease,Approved,79,7,5,Yes,13,1.11394,Fail
+1077,11,New York,10,4,1,Loan,Approved,68,4,0,No,8,0.90309,Pass
+1078,11,New York,6,4,3,Loan,Approved,47,4,0,No,6,0.77815,Pass
+1079,11,New York,11,4,1,Lease,Approved,56,2,0,No,4,0.60206,Pass
+1080,11,New York,6,4,1,Lease,Approved,35,5,0,No,9,0.95424,Fail
+1081,11,Sydney,5,3,1,Lease,Approved,41,8,6,Yes,15,1.17609,Fail
+1082,11,New York,12,4,2,Lease,Approved,87,4,1,Yes,6,0.77815,Pass
+1083,11,New York,13,3,2,Lease,Disapproved,43,6,1,Yes,11,1.04139,Fail
+1084,11,New York,8,3,2,Lease,Approved,34,6,2,Yes,12,1.07918,Fail
+1085,11,Paris,16,3,3,Loan,Disapproved,100,2,0,No,4,0.60206,Pass
+1086,11,New York,9,3,2,Lease,Approved,49,4,2,Yes,7,0.8451,Pass
+1087,11,New York,10,3,1,Lease,Approved,118,4,0,No,8,0.90309,Pass
+1088,11,Paris,11,5,3,Lease,Approved,57,4,2,Yes,6,0.77815,Pass
+1089,11,New York,9,3,2,Lease,Approved,71,2,0,No,4,0.60206,Pass
+1090,11,Paris,9,5,1,Loan,Approved,55,4,1,Yes,6,0.77815,Pass
+1091,11,Paris,11,5,3,Lease,Approved,71,4,0,No,6,0.77815,Pass
+1092,11,New York,10,4,2,Lease,Approved,32,4,1,Yes,6,0.77815,Pass
+1093,11,Sydney,13,2,2,Lease,Disapproved,103,7,3,Yes,14,1.14613,Fail
+1094,11,Paris,5,5,3,Lease,Approved,64,4,0,No,6,0.77815,Pass
+1095,11,Paris,16,2,1,Lease,Disapproved,15,5,0,No,9,0.95424,Fail
+1096,11,New York,4,4,3,Loan,Approved,19,2,0,No,4,0.60206,Pass
+1097,11,Sydney,10,5,1,Lease,Approved,38,4,0,No,8,0.90309,Pass
+1098,11,New York,10,3,1,Lease,Approved,57,5,0,No,9,0.95424,Fail
+1099,11,Sydney,11,5,3,Lease,Approved,36,6,2,Yes,11,1.04139,Fail
+1100,11,New York,15,4,1,Loan,Disapproved,65,5,2,Yes,10,1,Fail
+1101,11,New York,9,5,1,Lease,Approved,41,6,3,Yes,11,1.04139,Fail
+1102,11,Paris,5,5,3,Lease,Approved,72,4,0,No,7,0.8451,Pass
+1103,11,New York,15,5,3,Lease,Disapproved,83,5,0,No,9,0.95424,Fail
+1104,11,Paris,15,5,1,Loan,Disapproved,24,4,0,No,8,0.90309,Pass
+1105,11,New York,10,5,1,Lease,Approved,65,4,1,Yes,6,0.77815,Pass
+1106,11,Sydney,7,5,1,Lease,Approved,39,5,2,Yes,10,1,Fail
+1107,11,New York,14,3,2,Lease,Disapproved,58,4,0,No,8,0.90309,Pass
+1108,11,New York,9,5,2,Loan,Approved,92,0,0,No,3,0.47712,Pass
+1109,11,Paris,7,5,3,Lease,Approved,36,4,1,Yes,6,0.77815,Pass
+1110,11,New York,8,5,2,Lease,Approved,65,5,0,No,10,1,Fail
+1111,11,Paris,12,5,3,Lease,Approved,101,3,0,No,5,0.69897,Pass
+1112,11,New York,15,5,1,Lease,Disapproved,42,4,0,No,7,0.8451,Pass
+1113,11,New York,7,5,1,Loan,Approved,63,5,0,No,10,1,Fail
+1114,11,New York,7,5,1,Lease,Approved,64,3,1,Yes,5,0.69897,Pass
+1115,11,New York,12,5,2,Lease,Approved,65,6,2,Yes,12,1.07918,Fail
+1116,11,Sydney,5,5,2,Loan,Approved,39,6,2,Yes,11,1.04139,Fail
+1117,11,Paris,13,5,2,Loan,Disapproved,28,2,0,No,4,0.60206,Pass
+1118,11,New York,3,5,1,Lease,Approved,37,3,1,Yes,5,0.69897,Pass
+1119,11,Sydney,12,2,3,Lease,Approved,71,8,6,Yes,15,1.17609,Fail
+1120,11,Paris,8,5,1,Lease,Approved,35,4,0,No,6,0.77815,Pass
+1121,11,Sydney,12,1,3,Lease,Approved,30,13,3,Yes,27,1.43136,Fail
+1122,11,New York,13,4,3,Lease,Disapproved,60,5,0,No,9,0.95424,Fail
+1123,11,Sydney,8,4,1,Loan,Approved,70,11,4,Yes,21,1.32222,Fail
+1124,11,Paris,9,4,2,Lease,Approved,80,4,1,Yes,6,0.77815,Pass
+1125,11,New York,8,4,2,Lease,Approved,50,6,2,Yes,11,1.04139,Fail
+1126,11,Sydney,17,4,2,Loan,Disapproved,29,12,8,Yes,24,1.38021,Fail
+1127,11,New York,9,4,3,Lease,Approved,28,4,2,Yes,6,0.77815,Pass
+1128,11,New York,10,4,1,Loan,Approved,27,4,1,Yes,6,0.77815,Pass
+1129,11,Paris,9,4,1,Lease,Approved,56,4,0,No,8,0.90309,Pass
+1130,11,New York,12,4,2,Lease,Approved,15,6,3,Yes,11,1.04139,Fail
+1131,11,Sydney,9,4,1,Lease,Approved,81,6,2,Yes,12,1.07918,Fail
+1132,11,Sydney,12,4,3,Lease,Approved,72,9,4,Yes,18,1.25527,Fail
+1133,11,New York,14,4,3,Lease,Disapproved,88,5,0,No,9,0.95424,Fail
+1134,11,New York,7,4,3,Lease,Approved,54,5,0,No,9,0.95424,Fail
+1135,11,Sydney,9,4,2,Lease,Approved,35,7,4,Yes,13,1.11394,Fail
+1136,11,New York,10,3,3,Loan,Approved,79,7,5,Yes,13,1.11394,Fail
+1137,11,New York,14,4,2,Lease,Disapproved,58,4,1,Yes,6,0.77815,Pass
+1138,11,Sydney,13,3,1,Lease,Disapproved,57,8,3,Yes,16,1.20412,Fail
+1139,11,New York,7,3,1,Lease,Approved,36,4,0,No,7,0.8451,Pass
+1140,11,Paris,7,5,1,Loan,Approved,55,3,1,Yes,5,0.69897,Pass
+1141,11,New York,9,3,1,Lease,Approved,41,7,5,Yes,13,1.11394,Fail
+1142,11,Paris,7,5,2,Lease,Approved,72,3,1,Yes,5,0.69897,Pass
+1143,11,New York,13,3,2,Lease,Disapproved,33,5,2,Yes,10,1,Fail
+1144,11,New York,12,4,1,Lease,Approved,54,3,0,No,5,0.69897,Pass
+1145,11,Sydney,13,3,3,Lease,Disapproved,65,7,4,Yes,13,1.11394,Fail
+1146,11,Paris,8,4,2,Lease,Approved,79,3,0,No,5,0.69897,Pass
+1147,11,New York,11,4,2,Lease,Approved,48,4,1,Yes,7,0.8451,Pass
+1148,11,Paris,11,5,3,Lease,Approved,47,4,1,Yes,6,0.77815,Pass
+1149,11,New York,9,5,3,Lease,Approved,76,4,1,Yes,6,0.77815,Pass
+1150,11,Sydney,12,2,1,Loan,Approved,55,12,6,Yes,24,1.38021,Fail
+1151,11,Sydney,10,1,2,Loan,Approved,51,7,5,Yes,13,1.11394,Fail
+1152,11,New York,7,4,2,Loan,Approved,42,5,0,No,10,1,Fail
+1153,11,New York,9,5,1,Lease,Approved,43,2,0,No,4,0.60206,Pass
+1154,11,New York,9,5,1,Lease,Approved,24,4,0,No,8,0.90309,Pass
+1155,11,Sydney,5,5,1,Lease,Approved,55,7,3,Yes,14,1.14613,Fail
+1156,11,Sydney,13,3,2,Lease,Disapproved,29,5,0,No,9,0.95424,Fail
+1157,11,New York,9,5,1,Lease,Approved,58,4,0,No,8,0.90309,Pass
+1158,11,Sydney,11,1,3,Lease,Approved,57,12,1,Yes,26,1.41497,Fail
+1159,12,New York,14,4,2,Lease,Disapproved,16,4,1,Yes,7,0.8451,Pass
+1160,12,Paris,7,5,3,Lease,Approved,35,0,0,No,3,0.47712,Pass
+1161,12,Paris,16,4,1,Lease,Disapproved,101,4,1,Yes,6,0.77815,Pass
+1162,12,Paris,8,5,3,Lease,Approved,70,2,0,No,4,0.60206,Pass
+1163,12,Paris,14,4,3,Lease,Disapproved,63,2,0,No,4,0.60206,Pass
+1164,12,Sydney,9,5,2,Lease,Approved,74,6,2,Yes,11,1.04139,Fail
+1165,12,Paris,12,5,2,Lease,Approved,75,3,0,No,5,0.69897,Pass
+1166,12,New York,5,5,2,Lease,Approved,79,4,1,Yes,6,0.77815,Pass
+1167,12,Paris,10,5,3,Loan,Approved,8,3,0,No,5,0.69897,Pass
+1168,12,New York,15,4,3,Loan,Disapproved,57,3,0,No,5,0.69897,Pass
+1169,12,New York,10,5,1,Loan,Approved,86,5,0,No,10,1,Fail
+1170,12,New York,10,5,3,Loan,Approved,45,4,0,No,7,0.8451,Pass
+1171,12,New York,8,5,3,Lease,Approved,61,4,0,No,6,0.77815,Pass
+1172,12,New York,9,5,3,Lease,Approved,102,4,0,No,8,0.90309,Pass
+1173,12,New York,5,5,2,Loan,Approved,73,5,0,No,10,1,Fail
+1174,12,Paris,5,5,1,Lease,Approved,44,2,0,No,4,0.60206,Pass
+1175,12,New York,12,5,3,Loan,Approved,35,4,2,Yes,7,0.8451,Pass
+1176,12,Sydney,10,4,2,Lease,Approved,19,7,2,Yes,13,1.11394,Fail
+1177,12,New York,11,4,1,Lease,Approved,68,4,1,Yes,6,0.77815,Pass
+1178,12,New York,9,4,1,Loan,Approved,47,6,2,Yes,12,1.07918,Fail
+1179,12,New York,4,4,3,Loan,Approved,56,6,3,Yes,11,1.04139,Fail
+1180,12,Paris,9,4,3,Lease,Approved,45,4,1,Yes,7,0.8451,Pass
+1181,12,New York,12,4,2,Lease,Approved,61,5,0,No,10,1,Fail
+1182,12,New York,10,4,2,Lease,Approved,42,6,2,Yes,12,1.07918,Fail
+1183,12,Paris,14,4,3,Lease,Disapproved,63,2,0,No,4,0.60206,Pass
+1184,12,New York,11,4,1,Loan,Approved,14,4,2,Yes,7,0.8451,Pass
+1185,12,Paris,12,4,2,Lease,Approved,40,2,0,No,4,0.60206,Pass
+1186,12,Paris,6,4,2,Lease,Approved,30,4,1,Yes,6,0.77815,Pass
+1187,12,New York,6,4,2,Lease,Approved,20,3,1,Yes,5,0.69897,Pass
+1188,12,New York,9,4,1,Lease,Approved,30,4,1,Yes,6,0.77815,Pass
+1189,12,Sydney,18,4,3,Loan,Disapproved,30,7,2,Yes,13,1.11394,Fail
+1190,12,New York,11,4,1,Lease,Approved,30,4,0,No,8,0.90309,Pass
+1191,12,New York,8,4,3,Lease,Approved,60,3,0,No,5,0.69897,Pass
+1192,12,New York,7,3,2,Lease,Approved,30,6,5,Yes,12,1.07918,Fail
+1193,12,New York,5,4,1,Lease,Approved,23,3,1,Yes,5,0.69897,Pass
+1194,12,New York,12,4,2,Loan,Approved,14,4,0,No,6,0.77815,Pass
+1195,12,New York,10,3,2,Lease,Approved,55,3,0,No,5,0.69897,Pass
+1196,12,Paris,11,4,3,Lease,Approved,49,3,0,No,5,0.69897,Pass
+1197,12,New York,10,4,2,Lease,Approved,38,4,1,Yes,6,0.77815,Pass
+1198,12,New York,8,3,2,Lease,Approved,117,4,1,Yes,7,0.8451,Pass
+1199,12,New York,15,3,3,Lease,Disapproved,46,6,3,Yes,12,1.07918,Fail
+1200,12,Sydney,9,3,3,Loan,Approved,55,7,3,Yes,14,1.14613,Fail
+1201,12,New York,8,4,1,Lease,Approved,21,4,1,Yes,7,0.8451,Pass
+1202,12,Paris,5,4,2,Lease,Approved,122,3,1,Yes,5,0.69897,Pass
+1203,12,Sydney,8,2,2,Lease,Approved,63,8,3,Yes,17,1.23045,Fail
+1204,12,Paris,13,5,2,Lease,Disapproved,34,2,0,No,4,0.60206,Pass
+1205,12,Paris,11,4,1,Loan,Approved,35,2,0,No,4,0.60206,Pass
+1206,12,Paris,14,5,2,Lease,Disapproved,79,2,0,No,4,0.60206,Pass
+1207,12,New York,8,5,2,Lease,Approved,28,5,0,No,9,0.95424,Fail
+1208,12,New York,9,4,3,Lease,Approved,57,5,0,No,9,0.95424,Fail
+1209,12,Paris,7,5,3,Lease,Approved,16,3,0,No,5,0.69897,Pass
+1210,12,New York,13,5,3,Lease,Disapproved,65,4,0,No,8,0.90309,Pass
+1211,12,New York,11,5,3,Lease,Approved,21,4,0,No,7,0.8451,Pass
+1212,12,New York,11,5,1,Loan,Approved,62,5,0,No,9,0.95424,Fail
+1213,12,New York,9,5,2,Lease,Approved,73,4,1,Yes,7,0.8451,Pass
+1214,12,Sydney,11,5,2,Lease,Approved,64,5,2,Yes,10,1,Fail
+1215,12,New York,11,5,1,Loan,Approved,85,4,1,Yes,6,0.77815,Pass
+1216,12,Paris,8,5,1,Lease,Approved,59,4,0,No,7,0.8451,Pass
+1217,12,Paris,11,5,3,Loan,Approved,38,3,0,No,5,0.69897,Pass
+1218,12,Sydney,13,2,2,Lease,Disapproved,87,5,0,No,9,0.95424,Fail
+1219,12,New York,12,5,3,Lease,Approved,36,3,0,No,5,0.69897,Pass
+1220,12,New York,5,5,2,Loan,Approved,35,4,0,No,8,0.90309,Pass
+1221,12,Paris,10,5,2,Lease,Approved,51,0,0,No,3,0.47712,Pass
+1222,12,New York,11,5,1,Lease,Approved,22,6,2,Yes,12,1.07918,Fail
+1223,12,New York,15,5,2,Lease,Disapproved,63,6,2,Yes,12,1.07918,Fail
+1224,12,Paris,8,5,3,Lease,Approved,34,4,1,Yes,6,0.77815,Pass
+1225,12,Paris,12,5,1,Loan,Approved,65,4,2,Yes,7,0.8451,Pass
+1226,12,New York,14,4,3,Lease,Disapproved,39,4,0,No,6,0.77815,Pass
+1227,12,New York,10,5,1,Lease,Approved,48,5,0,No,9,0.95424,Fail
+1228,12,New York,7,5,2,Lease,Approved,47,6,2,Yes,12,1.07918,Fail
+1229,12,Sydney,19,2,1,Lease,Disapproved,16,7,2,Yes,13,1.11394,Fail
+1230,12,Sydney,7,4,3,Lease,Approved,65,8,3,Yes,15,1.17609,Fail
+1231,12,New York,7,4,3,Loan,Approved,21,4,0,No,7,0.8451,Pass
+1232,12,New York,12,4,3,Lease,Approved,87,4,1,Yes,6,0.77815,Pass
+1233,13,New York,10,4,3,Lease,Approved,83,4,0,No,6,0.77815,Pass
+1234,13,New York,5,4,2,Lease,Approved,24,5,0,No,10,1,Fail
+1235,13,Paris,12,4,3,Lease,Approved,45,2,0,No,4,0.60206,Pass
+1236,13,Sydney,9,4,1,Lease,Approved,59,7,2,Yes,13,1.11394,Fail
+1237,13,Sydney,11,4,3,Lease,Approved,68,5,0,No,10,1,Fail
+1238,13,New York,10,4,1,Loan,Approved,27,3,0,No,5,0.69897,Pass
+1239,13,New York,12,4,2,Lease,Approved,36,5,0,No,10,1,Fail
+1240,13,New York,26,4,1,Lease,Disapproved,55,4,1,Yes,7,0.8451,Pass
+1241,13,Paris,10,4,1,Lease,Approved,81,4,2,Yes,6,0.77815,Pass
+1242,13,New York,7,4,2,Lease,Approved,72,4,2,Yes,6,0.77815,Pass
+1243,13,New York,12,4,1,Loan,Approved,63,4,0,No,8,0.90309,Pass
+1244,13,Paris,10,4,2,Lease,Approved,64,2,0,No,4,0.60206,Pass
+1245,13,New York,16,4,1,Lease,Disapproved,55,4,0,No,8,0.90309,Pass
+1246,13,New York,11,3,2,Lease,Approved,29,4,0,No,8,0.90309,Pass
+1247,13,New York,8,3,2,Lease,Approved,50,4,1,Yes,7,0.8451,Pass
+1248,13,New York,7,3,2,Loan,Approved,50,4,2,Yes,6,0.77815,Pass
+1249,13,Sydney,6,3,3,Lease,Approved,50,5,0,No,10,1,Fail
+1250,13,Sydney,13,2,1,Lease,Disapproved,50,8,3,Yes,16,1.20412,Fail
+1251,13,New York,10,3,1,Lease,Approved,60,4,1,Yes,7,0.8451,Pass
+1252,13,New York,9,3,3,Lease,Approved,60,4,1,Yes,7,0.8451,Pass
+1253,13,New York,15,3,2,Lease,Disapproved,43,4,2,Yes,7,0.8451,Pass
+1254,13,Sydney,2,3,2,Loan,Approved,84,11,4,Yes,21,1.32222,Fail
+1255,13,New York,9,3,3,Lease,Approved,65,5,0,No,9,0.95424,Fail
+1256,13,Sydney,13,4,3,Lease,Disapproved,39,5,0,No,10,1,Fail
+1257,13,New York,7,4,1,Lease,Approved,38,4,2,Yes,7,0.8451,Pass
+1258,13,New York,9,4,1,Lease,Approved,27,4,2,Yes,7,0.8451,Pass
+1259,13,Sydney,2,4,1,Lease,Approved,36,5,0,No,10,1,Fail
+1260,13,Paris,10,5,1,Lease,Approved,55,4,0,No,7,0.8451,Pass
+1261,13,Paris,14,4,2,Lease,Disapproved,41,3,1,Yes,5,0.69897,Pass
+1262,13,New York,12,3,3,Loan,Approved,52,5,0,No,9,0.95424,Fail
+1263,13,New York,7,4,2,Lease,Approved,23,5,2,Yes,10,1,Fail
+1264,13,New York,9,4,2,Loan,Approved,44,4,0,No,8,0.90309,Pass
+1265,13,Sydney,12,5,1,Loan,Approved,55,6,1,Yes,12,1.07918,Fail
+1266,13,New York,12,5,3,Lease,Approved,39,5,2,Yes,10,1,Fail
+1267,13,New York,19,2,2,Lease,Disapproved,48,5,0,No,9,0.95424,Fail
+1268,13,Sydney,13,4,2,Lease,Disapproved,17,5,2,Yes,10,1,Fail
+1269,13,Paris,12,5,3,Lease,Approved,66,3,1,Yes,5,0.69897,Pass
+1270,13,New York,8,5,3,Lease,Approved,45,4,0,No,7,0.8451,Pass
+1271,13,New York,9,5,3,Lease,Approved,40,2,1,Yes,4,0.60206,Pass
+1272,13,Paris,7,5,2,Lease,Approved,67,3,1,Yes,5,0.69897,Pass
+1273,13,Paris,10,5,1,Lease,Approved,79,4,1,Yes,6,0.77815,Pass
+1274,13,New York,15,5,2,Lease,Disapproved,64,4,0,No,8,0.90309,Pass
+1275,13,New York,14,5,2,Loan,Disapproved,75,5,2,Yes,10,1,Fail
+1276,13,New York,12,5,1,Lease,Approved,84,4,0,No,7,0.8451,Pass
+1277,13,Sydney,14,1,2,Lease,Disapproved,58,6,2,Yes,12,1.07918,Fail
+1278,13,Paris,11,5,1,Loan,Approved,37,2,2,Yes,4,0.60206,Pass
+1279,13,New York,4,5,2,Lease,Approved,76,4,1,Yes,6,0.77815,Pass
+1280,13,Sydney,8,5,1,Lease,Approved,35,6,2,Yes,11,1.04139,Fail
+1281,13,New York,7,5,3,Lease,Approved,61,4,1,Yes,6,0.77815,Pass
+1282,13,New York,12,5,3,Loan,Approved,62,4,1,Yes,6,0.77815,Pass
+1283,13,Paris,15,5,2,Lease,Disapproved,83,3,0,No,5,0.69897,Pass
+1284,13,New York,10,5,3,Lease,Approved,44,2,0,No,4,0.60206,Pass
+1285,13,New York,8,5,3,Loan,Approved,35,5,2,Yes,10,1,Fail
+1286,13,Paris,6,4,1,Lease,Approved,39,2,0,No,4,0.60206,Pass
+1287,13,New York,12,4,2,Lease,Approved,68,6,2,Yes,12,1.07918,Fail
+1288,13,New York,10,4,3,Lease,Approved,57,4,1,Yes,6,0.77815,Pass
+1289,13,New York,9,4,3,Loan,Approved,36,5,0,No,9,0.95424,Fail
+1290,13,Paris,10,4,2,Lease,Approved,55,3,0,No,5,0.69897,Pass
+1291,13,New York,19,4,3,Loan,Disapproved,71,5,0,No,9,0.95424,Fail
+1292,13,Paris,9,4,1,Lease,Approved,32,4,1,Yes,6,0.77815,Pass
+1293,13,Paris,12,5,3,Loan,Approved,43,0,0,No,3,0.47712,Pass
+1294,13,New York,17,4,2,Loan,Disapproved,34,4,0,No,7,0.8451,Pass
+1295,13,New York,10,4,1,Lease,Approved,45,5,0,No,9,0.95424,Fail
+1296,13,Paris,14,4,1,Lease,Disapproved,39,3,1,Yes,5,0.69897,Pass
+1297,13,New York,10,4,3,Lease,Approved,58,5,0,No,9,0.95424,Fail
+1298,13,New York,9,4,2,Loan,Approved,17,5,0,No,9,0.95424,Fail
+1299,13,New York,8,4,3,Lease,Approved,66,4,1,Yes,6,0.77815,Pass
+1300,13,Paris,13,4,3,Loan,Approved,55,3,1,Yes,5,0.69897,Pass
+1301,13,Paris,9,5,1,Lease,Approved,61,2,0,No,4,0.60206,Pass
+1302,13,Sydney,8,3,1,Loan,Approved,57,10,4,Yes,19,1.27875,Fail
+1303,13,Paris,11,4,3,Lease,Approved,63,2,0,No,4,0.60206,Pass
+1304,13,New York,9,3,2,Lease,Approved,34,3,1,Yes,5,0.69897,Pass
+1305,13,New York,6,3,1,Lease,Approved,45,5,0,No,10,1,Fail
+1306,13,Paris,11,5,1,Loan,Approved,79,3,0,No,5,0.69897,Pass
+1307,13,New York,11,3,1,Lease,Approved,48,6,2,Yes,11,1.04139,Fail
+1308,13,New York,10,3,3,Lease,Approved,117,5,0,No,10,1,Fail
+1309,13,Paris,10,5,2,Loan,Approved,56,3,0,No,5,0.69897,Pass
+1310,13,Paris,8,5,3,Loan,Approved,30,4,0,No,6,0.77815,Pass
+1311,13,New York,7,4,2,Loan,Approved,90,4,0,No,8,0.90309,Pass
+1312,13,New York,12,4,2,Lease,Approved,60,4,0,No,8,0.90309,Pass
+1313,13,New York,11,4,1,Loan,Approved,10,4,0,No,8,0.90309,Pass
+1314,13,Paris,12,5,3,Lease,Approved,60,2,0,No,4,0.60206,Pass
+1315,13,New York,9,5,3,Loan,Approved,40,4,2,Yes,6,0.77815,Pass
+1316,13,New York,6,4,1,Lease,Approved,60,3,1,Yes,5,0.69897,Pass
+1317,13,Paris,10,5,2,Loan,Approved,30,2,0,No,4,0.60206,Pass
+1318,14,New York,6,4,2,Lease,Approved,30,5,2,Yes,10,1,Fail
+1319,14,New York,8,4,1,Loan,Approved,76,4,0,No,7,0.8451,Pass
+1320,14,Sydney,12,4,3,Loan,Approved,85,9,3,Yes,17,1.23045,Fail
+1321,14,New York,9,5,3,Lease,Approved,51,4,1,Yes,6,0.77815,Pass
+1322,14,New York,6,5,1,Lease,Approved,102,6,2,Yes,11,1.04139,Fail
+1323,14,New York,16,3,3,Lease,Disapproved,53,3,0,No,5,0.69897,Pass
+1324,14,Paris,13,5,3,Lease,Approved,24,2,0,No,4,0.60206,Pass
+1325,14,New York,10,5,3,Loan,Approved,100,4,0,No,6,0.77815,Pass
+1326,14,Sydney,12,5,1,Loan,Approved,59,7,5,Yes,12,1.07918,Fail
+1327,14,New York,10,5,1,Loan,Approved,28,6,1,Yes,12,1.07918,Fail
+1328,14,Paris,11,5,3,Lease,Approved,17,4,0,No,8,0.90309,Pass
+1329,14,New York,9,5,2,Lease,Approved,66,4,1,Yes,6,0.77815,Pass
+1330,14,New York,6,5,2,Lease,Approved,25,5,2,Yes,10,1,Fail
+1331,14,Paris,8,5,3,Loan,Approved,81,4,1,Yes,6,0.77815,Pass
+1332,14,New York,8,5,2,Lease,Approved,22,4,2,Yes,6,0.77815,Pass
+1333,14,Paris,8,5,1,Lease,Approved,33,4,0,No,7,0.8451,Pass
+1334,14,Paris,11,5,3,Lease,Approved,54,4,2,Yes,6,0.77815,Pass
+1335,14,Paris,12,5,3,Lease,Approved,55,3,0,No,5,0.69897,Pass
+1336,14,New York,7,5,1,Loan,Approved,69,3,1,Yes,5,0.69897,Pass
+1337,14,New York,10,5,2,Lease,Approved,38,4,2,Yes,6,0.77815,Pass
+1338,14,New York,10,5,1,Lease,Approved,87,2,0,No,4,0.60206,Pass
+1339,14,New York,12,5,3,Lease,Approved,76,3,1,Yes,5,0.69897,Pass
+1340,14,Paris,11,5,3,Lease,Approved,45,4,0,No,8,0.90309,Pass
+1341,14,New York,4,4,3,Lease,Approved,51,4,2,Yes,6,0.77815,Pass
+1342,14,New York,15,4,2,Loan,Disapproved,62,5,0,No,9,0.95424,Fail
+1343,14,New York,10,4,3,Lease,Approved,33,4,0,No,8,0.90309,Pass
+1344,14,New York,13,4,1,Loan,Disapproved,14,5,0,No,9,0.95424,Fail
+1345,14,Paris,14,4,2,Lease,Disapproved,65,3,0,No,5,0.69897,Pass
+1346,14,Paris,9,5,2,Lease,Approved,49,0,0,No,3,0.47712,Pass
+1347,14,New York,12,4,2,Lease,Approved,28,5,0,No,9,0.95424,Fail
+1348,14,Paris,7,4,3,Lease,Approved,37,4,1,Yes,7,0.8451,Pass
+1349,14,Paris,8,4,2,Lease,Approved,26,4,0,No,6,0.77815,Pass
+1350,14,New York,11,4,2,Lease,Approved,45,4,0,No,8,0.90309,Pass
+1351,14,New York,12,4,2,Lease,Approved,81,4,1,Yes,6,0.77815,Pass
+1352,14,New York,10,4,3,Lease,Approved,72,6,1,Yes,11,1.04139,Fail
+1353,14,Paris,8,4,1,Lease,Approved,33,4,1,Yes,6,0.77815,Pass
+1354,14,New York,13,4,3,Loan,Disapproved,54,5,0,No,9,0.95424,Fail
+1355,14,Paris,8,4,1,Loan,Approved,100,4,0,No,8,0.90309,Pass
+1356,14,Paris,16,3,2,Lease,Disapproved,19,4,2,Yes,7,0.8451,Pass
+1357,14,New York,9,3,3,Loan,Approved,48,4,0,No,8,0.90309,Pass
+1358,14,Paris,14,4,1,Lease,Disapproved,27,4,0,No,6,0.77815,Pass
+1359,14,New York,11,3,1,Lease,Approved,26,4,0,No,8,0.90309,Pass
+1360,14,New York,8,3,2,Lease,Approved,35,4,0,No,8,0.90309,Pass
+1361,14,Paris,9,4,1,Loan,Approved,41,0,0,No,3,0.47712,Pass
+1362,14,Sydney,15,3,2,Lease,Disapproved,52,6,1,Yes,11,1.04139,Fail
+1363,14,Paris,10,3,3,Lease,Approved,43,3,0,No,5,0.69897,Pass
+1364,14,New York,9,3,2,Loan,Approved,34,4,0,No,8,0.90309,Pass
+1365,14,Sydney,11,3,1,Lease,Approved,65,7,3,Yes,14,1.14613,Fail
+1366,14,New York,11,4,1,Loan,Approved,8,4,1,Yes,7,0.8451,Pass
+1367,14,Sydney,8,2,2,Lease,Approved,28,7,3,Yes,14,1.14613,Fail
+1368,14,New York,17,4,3,Lease,Disapproved,67,4,1,Yes,7,0.8451,Pass
+1369,14,New York,9,4,1,Loan,Approved,16,4,0,No,8,0.90309,Pass
+1370,14,New York,8,2,2,Lease,Approved,55,6,5,Yes,12,1.07918,Fail
+1371,14,Paris,11,4,2,Lease,Approved,81,3,1,Yes,5,0.69897,Pass
+1372,14,New York,9,4,2,Loan,Approved,57,4,1,Yes,6,0.77815,Pass
+1373,14,New York,12,4,1,Loan,Approved,60,3,0,No,5,0.69897,Pass
+1374,14,New York,11,5,3,Lease,Approved,30,4,1,Yes,7,0.8451,Pass
+1375,14,Paris,11,4,2,Lease,Approved,50,0,0,No,4,0.60206,Pass
+1376,14,Paris,4,5,3,Lease,Approved,70,0,0,No,4,0.60206,Pass
+1377,14,New York,15,5,2,Lease,Disapproved,40,3,1,Yes,5,0.69897,Pass
+1378,14,Sydney,4,5,2,Lease,Approved,50,4,0,No,8,0.90309,Pass
+1379,14,New York,7,5,1,Loan,Approved,46,5,0,No,9,0.95424,Fail
+1380,14,New York,10,5,2,Lease,Approved,45,4,0,No,8,0.90309,Pass
+1381,14,Paris,7,5,2,Lease,Approved,41,0,0,No,3,0.47712,Pass
+1382,14,New York,9,5,2,Lease,Approved,72,4,0,No,8,0.90309,Pass
+1383,14,Sydney,13,2,3,Lease,Disapproved,53,6,3,Yes,11,1.04139,Fail
+1384,14,Paris,12,5,3,Loan,Approved,34,3,0,No,5,0.69897,Pass
+1385,14,Paris,8,5,1,Lease,Approved,45,3,0,No,5,0.69897,Pass
+1386,14,Sydney,12,5,1,Lease,Approved,39,4,0,No,7,0.8451,Pass
+1387,14,Paris,14,4,2,Lease,Disapproved,78,4,0,No,8,0.90309,Pass
+1388,14,Sydney,13,5,3,Lease,Approved,47,6,2,Yes,12,1.07918,Fail
+1389,14,New York,15,5,3,Lease,Disapproved,26,5,0,No,9,0.95424,Fail
+1390,14,New York,8,5,3,Lease,Approved,55,4,1,Yes,6,0.77815,Pass
+1391,14,New York,7,5,3,Lease,Approved,21,4,2,Yes,7,0.8451,Pass
+1392,14,New York,13,5,2,Loan,Disapproved,52,6,1,Yes,11,1.04139,Fail
+1393,14,New York,14,5,2,Loan,Disapproved,33,6,1,Yes,11,1.04139,Fail
+1394,14,Paris,11,5,3,Loan,Approved,54,4,1,Yes,7,0.8451,Pass
+1395,14,New York,11,5,1,Lease,Approved,35,4,0,No,8,0.90309,Pass
+1396,14,New York,16,4,3,Lease,Disapproved,29,4,1,Yes,6,0.77815,Pass
+1397,15,Sydney,9,4,1,Loan,Approved,28,13,6,Yes,26,1.41497,Fail
+1398,15,Sydney,11,4,1,Lease,Approved,37,8,3,Yes,15,1.17609,Fail
+1399,15,Sydney,14,4,1,Lease,Disapproved,66,7,5,Yes,13,1.11394,Fail
+1400,15,New York,10,4,1,Lease,Approved,25,5,0,No,9,0.95424,Fail
+1401,15,Sydney,8,4,1,Lease,Approved,71,7,5,Yes,13,1.11394,Fail
+1402,15,New York,11,4,1,Lease,Approved,32,6,2,Yes,12,1.07918,Fail
+1403,15,New York,13,4,2,Lease,Disapproved,23,4,2,Yes,6,0.77815,Pass
+1404,15,Sydney,11,4,1,Lease,Approved,44,8,3,Yes,16,1.20412,Fail
+1405,15,Paris,14,4,1,Lease,Disapproved,45,2,0,No,4,0.60206,Pass
+1406,15,New York,10,4,3,Lease,Approved,29,5,0,No,9,0.95424,Fail
+1407,15,New York,5,4,3,Loan,Approved,28,4,0,No,8,0.90309,Pass
+1408,15,New York,9,4,1,Loan,Approved,77,5,0,No,9,0.95424,Fail
+1409,15,Paris,10,4,1,Lease,Approved,56,2,0,No,4,0.60206,Pass
+1410,15,Sydney,8,4,3,Lease,Approved,15,11,4,Yes,21,1.32222,Fail
+1411,15,Paris,8,4,1,Loan,Approved,31,0,0,No,3,0.47712,Pass
+1412,15,Sydney,8,3,2,Loan,Approved,12,8,3,Yes,16,1.20412,Fail
+1413,15,New York,12,3,2,Lease,Approved,53,6,1,Yes,11,1.04139,Fail
+1414,15,New York,10,3,3,Lease,Approved,44,5,0,No,9,0.95424,Fail
+1415,15,New York,10,3,2,Lease,Approved,115,4,0,No,8,0.90309,Pass
+1416,15,Sydney,12,3,2,Lease,Approved,59,10,4,Yes,20,1.30103,Fail
+1417,15,Sydney,10,3,3,Lease,Approved,73,12,7,Yes,24,1.38021,Fail
+1418,15,New York,13,3,2,Lease,Disapproved,67,4,2,Yes,7,0.8451,Pass
+1419,15,Sydney,7,2,3,Lease,Approved,36,11,2,Yes,28,1.44716,Fail
+1420,15,Sydney,3,3,2,Lease,Approved,35,9,7,Yes,18,1.25527,Fail
+1421,15,Paris,9,4,3,Lease,Approved,71,2,0,No,4,0.60206,Pass
+1422,15,New York,15,4,1,Lease,Disapproved,72,4,0,No,8,0.90309,Pass
+1423,15,New York,10,4,3,Loan,Approved,43,5,0,No,10,1,Fail
+1424,15,New York,8,4,2,Lease,Approved,34,4,1,Yes,7,0.8451,Pass
+1425,15,Paris,10,4,3,Lease,Approved,55,4,1,Yes,6,0.77815,Pass
+1426,15,New York,12,5,1,Loan,Approved,69,4,0,No,6,0.77815,Pass
+1427,15,New York,9,5,2,Lease,Approved,28,4,0,No,7,0.8451,Pass
+1428,15,Sydney,7,3,2,Lease,Approved,57,7,3,Yes,14,1.14613,Fail
+1429,15,Paris,13,4,1,Lease,Approved,26,2,0,No,4,0.60206,Pass
+1430,15,Sydney,15,1,1,Loan,Disapproved,45,12,8,Yes,24,1.38021,Fail
+1431,15,Paris,10,5,3,Lease,Approved,76,4,0,No,6,0.77815,Pass
+1432,15,Sydney,12,5,3,Lease,Approved,92,7,5,Yes,13,1.11394,Fail
+1433,15,New York,7,5,3,Lease,Approved,43,6,1,Yes,11,1.04139,Fail
+1434,15,Sydney,9,1,1,Lease,Approved,64,15,3,Yes,30,1.47712,Fail
+1435,15,Paris,12,5,3,Loan,Approved,45,2,0,No,4,0.60206,Pass
+1436,15,Sydney,9,1,1,Lease,Approved,29,8,3,Yes,16,1.20412,Fail
+1437,15,Paris,12,5,3,Lease,Approved,48,4,2,Yes,7,0.8451,Pass
+1438,15,Sydney,12,5,3,Lease,Approved,37,7,5,Yes,13,1.11394,Fail
+1439,15,New York,7,5,3,Loan,Approved,56,5,3,Yes,10,1,Fail
+1440,15,New York,12,5,1,Lease,Approved,55,6,3,Yes,12,1.07918,Fail
+1441,15,New York,12,5,3,Lease,Approved,51,4,1,Yes,7,0.8451,Pass
+1442,15,Sydney,10,2,2,Lease,Approved,87,11,6,Yes,23,1.36173,Fail
+1443,15,Sydney,7,1,3,Loan,Approved,73,10,4,Yes,19,1.27875,Fail
+1444,15,New York,8,5,3,Lease,Approved,44,5,0,No,10,1,Fail
+1445,15,New York,14,4,3,Loan,Disapproved,45,5,0,No,9,0.95424,Fail
+1446,15,Paris,8,5,3,Lease,Approved,39,2,0,No,4,0.60206,Pass
+1447,15,Sydney,8,5,2,Lease,Approved,58,6,2,Yes,12,1.07918,Fail
+1448,15,Paris,14,5,3,Lease,Disapproved,57,4,0,No,8,0.90309,Pass
+1449,15,New York,12,5,3,Lease,Approved,56,6,2,Yes,11,1.04139,Fail
+1450,15,Sydney,14,2,1,Lease,Disapproved,55,7,5,Yes,13,1.11394,Fail
+1451,15,Sydney,9,4,3,Lease,Approved,91,8,3,Yes,16,1.20412,Fail
+1452,15,Sydney,8,4,1,Loan,Approved,62,9,6,Yes,18,1.25527,Fail
+1453,15,Paris,12,4,3,Lease,Approved,53,4,1,Yes,6,0.77815,Pass
+1454,15,New York,16,4,1,Lease,Disapproved,24,4,2,Yes,7,0.8451,Pass
+1455,15,Paris,11,4,2,Loan,Approved,55,4,2,Yes,7,0.8451,Pass
+1456,15,Paris,6,4,3,Lease,Approved,39,4,2,Yes,7,0.8451,Pass
+1457,15,Paris,11,4,2,Lease,Approved,48,4,0,No,6,0.77815,Pass
+1458,15,Sydney,14,4,2,Lease,Disapproved,37,5,0,No,10,1,Fail
+1459,15,New York,7,4,1,Lease,Approved,46,6,1,Yes,12,1.07918,Fail
+1460,15,Sydney,12,4,1,Lease,Approved,25,5,0,No,10,1,Fail
+1461,15,New York,10,4,3,Lease,Approved,41,4,1,Yes,6,0.77815,Pass
+1462,15,Sydney,11,4,1,Loan,Approved,52,7,3,Yes,14,1.14613,Fail
+1463,15,Sydney,7,4,2,Lease,Approved,78,8,3,Yes,17,1.23045,Fail
+1464,15,New York,8,4,1,Lease,Approved,64,5,0,No,10,1,Fail
+1465,15,New York,11,4,3,Lease,Approved,40,5,0,No,10,1,Fail
+1466,15,New York,13,3,2,Loan,Approved,40,5,0,No,9,0.95424,Fail
+1467,15,Sydney,10,2,3,Lease,Approved,90,14,3,Yes,29,1.4624,Fail
+1468,15,New York,13,3,1,Lease,Approved,70,6,1,Yes,12,1.07918,Fail
+1469,15,New York,10,3,2,Loan,Approved,50,5,0,No,9,0.95424,Fail
+1470,15,Sydney,7,3,3,Lease,Approved,60,8,3,Yes,16,1.20412,Fail
+1471,15,Sydney,12,3,1,Lease,Approved,85,7,3,Yes,14,1.14613,Fail
+1472,15,New York,8,5,2,Loan,Approved,92,4,2,Yes,6,0.77815,Pass
+1473,15,Paris,11,4,1,Lease,Approved,88,4,2,Yes,6,0.77815,Pass
+1474,15,Sydney,9,3,3,Loan,Approved,54,7,5,Yes,13,1.11394,Fail
+1475,15,Sydney,9,3,3,Loan,Approved,35,7,3,Yes,14,1.14613,Fail
+1476,15,New York,7,2,2,Lease,Approved,39,4,0,No,7,0.8451,Pass
+1477,15,New York,7,2,2,Lease,Approved,48,6,1,Yes,11,1.04139,Fail
+1478,15,Sydney,14,2,3,Lease,Disapproved,67,7,5,Yes,13,1.11394,Fail
+1479,15,Sydney,13,2,2,Loan,Disapproved,86,8,3,Yes,16,1.20412,Fail
+1480,15,New York,10,5,2,Loan,Approved,25,4,0,No,7,0.8451,Pass
+1481,15,Sydney,13,1,2,Lease,Disapproved,21,6,5,Yes,12,1.07918,Fail
+1482,15,New York,4,5,1,Lease,Approved,32,4,0,No,8,0.90309,Pass
+1483,15,New York,13,5,3,Lease,Disapproved,103,5,0,No,10,1,Fail
+1484,15,Sydney,15,1,1,Loan,Disapproved,24,10,4,Yes,19,1.27875,Fail
+1485,15,New York,7,5,1,Loan,Approved,65,4,0,No,8,0.90309,Pass
+1486,15,New York,11,5,3,Lease,Approved,39,5,0,No,9,0.95424,Fail
+1487,15,Sydney,9,2,1,Lease,Approved,78,11,7,Yes,23,1.36173,Fail
+1488,15,New York,9,5,3,Lease,Approved,57,5,0,No,9,0.95424,Fail
+1489,15,Sydney,18,1,1,Lease,Disapproved,36,7,4,Yes,13,1.11394,Fail
+1490,15,Sydney,8,1,2,Lease,Approved,55,13,7,Yes,25,1.39794,Fail
+1491,15,New York,11,5,2,Lease,Approved,81,5,0,No,9,0.95424,Fail
+1492,15,Sydney,12,5,1,Lease,Approved,82,10,4,Yes,20,1.30103,Fail
+1493,15,New York,10,5,1,Lease,Approved,53,5,0,No,10,1,Fail
+1494,15,New York,11,5,1,Lease,Approved,84,6,2,Yes,11,1.04139,Fail
+1495,15,Sydney,14,1,3,Lease,Disapproved,85,7,3,Yes,14,1.14613,Fail
+1496,15,New York,16,1,1,Lease,Disapproved,29,6,2,Yes,12,1.07918,Fail
+1497,15,New York,14,3,1,Lease,Disapproved,58,3,0,No,5,0.69897,Pass
+1498,15,Sydney,4,2,3,Lease,Approved,82,8,3,Yes,16,1.20412,Fail
+1499,15,Sydney,10,5,1,Lease,Approved,36,6,2,Yes,11,1.04139,Fail
+1500,15,New York,10,5,1,Loan,Approved,65,6,2,Yes,12,1.07918,Fail
+1501,15,Sydney,14,2,3,Loan,Disapproved,31,12,8,Yes,24,1.38021,Fail
+1502,15,Sydney,10,3,1,Lease,Approved,42,8,3,Yes,15,1.17609,Fail
+1503,15,Sydney,14,1,1,Loan,Disapproved,63,7,3,Yes,14,1.14613,Fail
+1504,15,Sydney,17,2,1,Loan,Disapproved,74,6,2,Yes,12,1.07918,Fail
+1505,15,New York,15,2,3,Lease,Disapproved,65,5,0,No,9,0.95424,Fail
+1506,15,Paris,14,4,2,Loan,Disapproved,59,2,1,Yes,4,0.60206,Pass
+1507,15,New York,7,4,1,Lease,Approved,38,5,0,No,9,0.95424,Fail
+1508,15,Paris,6,4,1,Lease,Approved,37,3,2,Yes,5,0.69897,Pass
+1509,15,Sydney,12,4,3,Loan,Approved,26,11,7,Yes,23,1.36173,Fail
+1510,15,New York,14,4,1,Lease,Disapproved,35,4,0,No,7,0.8451,Pass
+1511,15,Sydney,9,4,2,Lease,Approved,81,7,4,Yes,13,1.11394,Fail
+1512,15,Sydney,5,4,3,Lease,Approved,62,7,4,Yes,13,1.11394,Fail
+1513,15,Sydney,9,4,3,Lease,Approved,33,12,3,Yes,26,1.41497,Fail
+1514,15,Sydney,12,2,3,Loan,Approved,84,13,2,Yes,27,1.43136,Fail
+1515,15,Sydney,12,4,1,Lease,Approved,85,13,8,Yes,25,1.39794,Fail
+1516,15,Sydney,10,4,2,Lease,Approved,84,13,6,Yes,25,1.39794,Fail
+1517,15,Sydney,15,4,2,Lease,Disapproved,38,4,0,No,8,0.90309,Pass
+1518,15,New York,10,4,1,Lease,Approved,87,5,0,No,9,0.95424,Fail
+1519,15,New York,6,4,3,Lease,Approved,56,4,0,No,7,0.8451,Pass
+1520,15,Sydney,10,4,2,Loan,Approved,35,13,6,Yes,26,1.41497,Fail
+1521,15,Paris,13,4,3,Lease,Disapproved,51,0,0,No,3,0.47712,Pass
+1522,15,Paris,13,5,3,Loan,Disapproved,27,4,1,Yes,6,0.77815,Pass
+1523,15,Sydney,15,3,1,Lease,Disapproved,63,9,7,Yes,18,1.25527,Fail
+1524,15,Sydney,13,3,1,Lease,Disapproved,74,9,4,Yes,18,1.25527,Fail
+1525,15,Sydney,11,3,1,Lease,Approved,95,8,6,Yes,15,1.17609,Fail
+1526,15,New York,8,5,1,Loan,Approved,49,4,1,Yes,6,0.77815,Pass
+1527,15,New York,11,3,3,Lease,Approved,28,6,3,Yes,11,1.04139,Fail
+1528,15,Sydney,12,3,3,Lease,Approved,47,7,4,Yes,13,1.11394,Fail
+1529,15,Sydney,9,3,1,Lease,Approved,46,11,6,Yes,23,1.36173,Fail
+1530,15,Sydney,9,3,3,Lease,Approved,15,11,5,Yes,22,1.34242,Fail
+1531,15,New York,8,4,1,Lease,Approved,41,4,0,No,8,0.90309,Pass
+1532,15,Paris,9,5,1,Loan,Approved,72,0,0,No,3,0.47712,Pass
+1533,15,New York,7,4,2,Loan,Approved,53,4,0,No,8,0.90309,Pass
+1534,15,New York,8,2,1,Lease,Approved,64,6,2,Yes,11,1.04139,Fail
+1535,16,Sydney,9,2,1,Lease,Approved,95,10,4,Yes,20,1.30103,Fail
+1536,16,Paris,11,4,3,Lease,Approved,39,4,0,No,7,0.8451,Pass
+1537,16,Sydney,9,5,3,Lease,Approved,38,5,0,No,10,1,Fail
+1538,16,New York,12,4,1,Lease,Approved,37,4,0,No,8,0.90309,Pass
+1539,16,Paris,15,5,3,Lease,Disapproved,66,4,1,Yes,7,0.8451,Pass
+1540,16,Sydney,9,5,1,Lease,Approved,65,6,1,Yes,12,1.07918,Fail
+1541,16,New York,11,5,3,Lease,Approved,41,4,0,No,8,0.90309,Pass
+1542,16,New York,5,5,2,Loan,Approved,52,4,0,No,6,0.77815,Pass
+1543,16,New York,7,5,1,Lease,Approved,53,2,0,No,4,0.60206,Pass
+1544,16,New York,15,5,3,Lease,Disapproved,50,5,0,No,10,1,Fail
+1545,16,Paris,9,5,3,Lease,Approved,70,4,1,Yes,6,0.77815,Pass
+1546,16,New York,9,5,1,Lease,Approved,90,5,0,No,10,1,Fail
+1547,16,New York,7,5,2,Loan,Approved,30,4,1,Yes,7,0.8451,Pass
+1548,16,Sydney,10,5,3,Lease,Approved,47,5,0,No,10,1,Fail
+1549,16,Paris,11,5,3,Lease,Approved,36,0,0,No,3,0.47712,Pass
+1550,16,New York,9,5,2,Loan,Approved,25,7,5,Yes,13,1.11394,Fail
+1551,16,Paris,11,5,2,Lease,Approved,31,2,0,No,4,0.60206,Pass
+1552,16,New York,10,5,2,Loan,Approved,92,6,1,Yes,12,1.07918,Fail
+1553,16,Sydney,9,2,3,Lease,Approved,33,10,4,Yes,19,1.27875,Fail
+1554,16,New York,10,5,2,Loan,Approved,64,4,2,Yes,6,0.77815,Pass
+1555,16,Sydney,7,5,2,Lease,Approved,55,6,3,Yes,11,1.04139,Fail
+1556,16,Paris,12,5,3,Lease,Approved,39,4,0,No,7,0.8451,Pass
+1557,16,Paris,17,4,1,Lease,Disapproved,48,3,2,Yes,5,0.69897,Pass
+1558,16,Sydney,11,4,1,Loan,Approved,27,7,3,Yes,14,1.14613,Fail
+1559,16,New York,7,5,3,Lease,Approved,36,4,0,No,8,0.90309,Pass
+1560,16,Paris,10,5,3,Loan,Approved,55,4,0,No,6,0.77815,Pass
+1561,16,Sydney,13,4,3,Lease,Approved,86,6,2,Yes,11,1.04139,Fail
+1562,16,Sydney,10,4,3,Loan,Approved,52,6,2,Yes,12,1.07918,Fail
+1563,16,New York,12,4,1,Loan,Approved,93,5,0,No,9,0.95424,Fail
+1564,16,New York,12,4,3,Lease,Approved,44,4,0,No,7,0.8451,Pass
+1565,16,Sydney,11,4,3,Loan,Approved,65,6,2,Yes,11,1.04139,Fail
+1566,16,New York,6,4,2,Loan,Approved,39,6,2,Yes,12,1.07918,Fail
+1567,16,New York,4,4,2,Lease,Approved,68,5,0,No,10,1,Fail
+1568,16,Paris,5,4,1,Lease,Approved,57,4,1,Yes,6,0.77815,Pass
+1569,16,Paris,9,4,2,Lease,Approved,36,4,2,Yes,6,0.77815,Pass
+1570,16,Sydney,12,1,3,Loan,Approved,45,8,4,Yes,17,1.23045,Fail
+1571,16,New York,13,4,3,Lease,Disapproved,41,5,0,No,9,0.95424,Fail
+1572,16,Paris,8,4,3,Lease,Approved,72,3,1,Yes,5,0.69897,Pass
+1573,16,Sydney,8,4,1,Lease,Approved,23,8,3,Yes,15,1.17609,Fail
+1574,16,New York,12,4,2,Loan,Approved,74,6,2,Yes,11,1.04139,Fail
+1575,16,Sydney,9,1,3,Lease,Approved,55,11,8,Yes,23,1.36173,Fail
+1576,16,New York,10,3,1,Lease,Approved,49,5,0,No,9,0.95424,Fail
+1577,16,New York,8,3,3,Lease,Approved,68,0,0,No,3,0.47712,Pass
+1578,16,New York,12,3,1,Loan,Approved,57,5,0,No,9,0.95424,Fail
+1579,16,New York,9,3,1,Lease,Approved,16,4,0,No,8,0.90309,Pass
+1580,16,Sydney,7,3,2,Lease,Approved,65,7,5,Yes,13,1.11394,Fail
+1581,16,Paris,9,5,1,Lease,Approved,31,4,2,Yes,6,0.77815,Pass
+1582,16,New York,7,3,1,Lease,Approved,22,5,0,No,10,1,Fail
+1583,16,Sydney,9,3,3,Loan,Approved,23,12,6,Yes,24,1.38021,Fail
+1584,16,New York,16,3,3,Lease,Disapproved,34,3,2,Yes,5,0.69897,Pass
+1585,16,New York,13,3,1,Loan,Disapproved,35,5,0,No,9,0.95424,Fail
+1586,16,Sydney,10,2,2,Loan,Approved,29,6,2,Yes,12,1.07918,Fail
+1587,16,New York,12,4,3,Lease,Approved,18,5,0,No,10,1,Fail
+1588,16,New York,6,4,2,Loan,Approved,47,4,0,No,8,0.90309,Pass
+1589,16,New York,12,2,1,Lease,Approved,66,6,2,Yes,12,1.07918,Fail
+1590,16,New York,13,2,1,Loan,Disapproved,65,6,2,Yes,11,1.04139,Fail
+1591,16,New York,16,5,1,Loan,Disapproved,61,4,0,No,8,0.90309,Pass
+1592,16,Sydney,9,4,3,Lease,Approved,42,10,4,Yes,20,1.30103,Fail
+1593,16,Sydney,12,4,1,Lease,Approved,53,6,2,Yes,11,1.04139,Fail
+1594,16,New York,7,4,2,Loan,Approved,84,2,0,No,4,0.60206,Pass
+1595,16,Paris,10,5,3,Lease,Approved,35,2,0,No,4,0.60206,Pass
+1596,16,New York,7,5,2,Lease,Approved,69,4,0,No,7,0.8451,Pass
+1597,16,Paris,11,5,1,Loan,Approved,48,2,0,No,4,0.60206,Pass
+1598,16,Paris,8,5,1,Lease,Approved,27,4,2,Yes,6,0.77815,Pass
+1599,16,Sydney,13,2,3,Lease,Disapproved,36,7,3,Yes,14,1.14613,Fail
+1600,16,Sydney,8,5,1,Lease,Approved,45,8,6,Yes,15,1.17609,Fail
+1601,16,Paris,12,5,2,Lease,Approved,31,4,0,No,8,0.90309,Pass
+1602,16,New York,8,5,2,Lease,Approved,72,5,0,No,10,1,Fail
+1603,16,Paris,15,5,1,Loan,Disapproved,53,3,1,Yes,5,0.69897,Pass
+1604,16,Sydney,8,4,2,Lease,Approved,74,8,4,Yes,17,1.23045,Fail
+1605,16,New York,9,5,2,Lease,Approved,45,4,0,No,8,0.90309,Pass
+1606,16,Sydney,14,3,2,Lease,Disapproved,49,6,3,Yes,11,1.04139,Fail
+1607,16,New York,12,5,3,Lease,Approved,78,4,0,No,8,0.90309,Pass
+1608,16,Sydney,12,5,1,Lease,Approved,67,5,0,No,10,1,Fail
+1609,16,New York,10,5,3,Lease,Approved,26,4,2,Yes,7,0.8451,Pass
+1610,16,New York,9,5,1,Lease,Approved,65,4,1,Yes,6,0.77815,Pass
+1611,16,Sydney,8,5,2,Lease,Approved,41,6,5,Yes,12,1.07918,Fail
+1612,16,Sydney,9,2,1,Lease,Approved,42,7,3,Yes,14,1.14613,Fail
+1613,16,Sydney,11,2,3,Lease,Approved,73,7,3,Yes,14,1.14613,Fail
+1614,16,Paris,6,5,1,Loan,Approved,34,2,0,No,4,0.60206,Pass
+1615,16,Sydney,10,5,2,Loan,Approved,65,6,2,Yes,11,1.04139,Fail
+1616,16,Sydney,10,4,2,Loan,Approved,29,7,3,Yes,14,1.14613,Fail
+1617,16,New York,13,4,1,Loan,Disapproved,68,5,0,No,10,1,Fail
+1618,16,New York,11,4,2,Loan,Approved,17,4,0,No,8,0.90309,Pass
+1619,16,Paris,9,4,1,Lease,Approved,36,4,1,Yes,6,0.77815,Pass
+1620,16,Sydney,8,4,1,Lease,Approved,55,8,3,Yes,16,1.20412,Fail
+1621,16,Paris,13,4,2,Lease,Disapproved,11,2,1,Yes,4,0.60206,Pass
+1622,16,Paris,2,4,3,Loan,Approved,22,3,2,Yes,5,0.69897,Pass
+1623,16,Paris,13,5,2,Lease,Disapproved,33,0,0,No,3,0.47712,Pass
+1624,16,Sydney,8,4,3,Lease,Approved,44,9,4,Yes,18,1.25527,Fail
+1625,16,Paris,8,4,3,Lease,Approved,55,4,1,Yes,6,0.77815,Pass
+1626,16,New York,12,4,1,Lease,Approved,59,5,0,No,9,0.95424,Fail
+1627,16,New York,5,4,1,Lease,Approved,58,7,5,Yes,13,1.11394,Fail
+1628,16,Paris,9,4,3,Loan,Approved,47,3,0,No,5,0.69897,Pass
+1629,16,New York,6,4,3,Lease,Approved,136,4,1,Yes,7,0.8451,Pass
+1630,16,Sydney,12,3,2,Loan,Approved,45,8,6,Yes,15,1.17609,Fail
+1631,16,Paris,12,5,2,Lease,Approved,41,4,2,Yes,6,0.77815,Pass
+1632,16,New York,7,3,2,Loan,Approved,32,4,0,No,8,0.90309,Pass
+1633,16,Sydney,11,3,3,Lease,Approved,33,7,3,Yes,12,1.07918,Fail
+1634,16,Sydney,9,1,3,Lease,Approved,74,7,3,Yes,14,1.14613,Fail
+1635,16,New York,11,3,2,Lease,Approved,75,4,1,Yes,7,0.8451,Pass
+1636,16,Sydney,16,3,1,Lease,Disapproved,79,7,3,Yes,14,1.14613,Fail
+1637,16,Sydney,10,2,1,Lease,Approved,38,8,3,Yes,16,1.20412,Fail
+1638,16,New York,7,4,3,Loan,Approved,37,4,2,Yes,6,0.77815,Pass
+1639,16,Sydney,17,3,3,Lease,Disapproved,96,7,5,Yes,13,1.11394,Fail
+1640,16,New York,8,4,2,Loan,Approved,5,4,1,Yes,6,0.77815,Pass
+1641,16,Sydney,12,4,1,Lease,Approved,41,5,0,No,10,1,Fail
+1642,16,New York,10,4,2,Loan,Approved,42,2,1,Yes,4,0.60206,Pass
+1643,16,New York,12,2,3,Loan,Approved,93,4,2,Yes,6,0.77815,Pass
+1644,16,New York,8,4,3,Loan,Approved,54,5,0,No,10,1,Fail
+1645,16,Paris,6,5,3,Lease,Approved,85,4,0,No,7,0.8451,Pass
+1646,16,Sydney,9,1,3,Lease,Approved,89,10,4,Yes,19,1.27875,Fail
+1647,16,New York,16,4,1,Lease,Disapproved,28,4,2,Yes,6,0.77815,Pass
+1648,16,Paris,11,4,2,Lease,Approved,67,3,1,Yes,5,0.69897,Pass
+1649,16,Sydney,10,2,1,Loan,Approved,46,11,4,Yes,21,1.32222,Fail
+1650,16,New York,8,5,3,Lease,Approved,35,4,1,Yes,7,0.8451,Pass
+1651,16,New York,12,5,1,Lease,Approved,61,3,1,Yes,5,0.69897,Pass
+1652,16,Sydney,10,5,1,Lease,Approved,72,7,4,Yes,13,1.11394,Fail
+1653,16,Paris,11,5,1,Lease,Approved,43,3,1,Yes,5,0.69897,Pass
+1654,16,New York,13,4,1,Lease,Disapproved,64,4,0,No,8,0.90309,Pass
+1655,16,Sydney,12,3,1,Lease,Approved,45,7,3,Yes,14,1.14613,Fail
+1656,16,New York,13,4,1,Lease,Disapproved,60,4,2,Yes,6,0.77815,Pass
+1657,16,New York,11,5,1,Lease,Approved,78,5,0,No,9,0.95424,Fail
+1658,16,Paris,14,4,2,Lease,Disapproved,57,3,1,Yes,5,0.69897,Pass
+1659,16,New York,14,3,1,Lease,Disapproved,26,3,2,Yes,5,0.69897,Pass
+1660,16,Sydney,10,5,1,Lease,Approved,45,5,0,No,9,0.95424,Fail
+1661,16,New York,7,5,3,Lease,Approved,41,6,3,Yes,11,1.04139,Fail
+1662,16,New York,7,2,3,Lease,Approved,42,7,3,Yes,14,1.14613,Fail
+1663,16,New York,12,5,1,Loan,Approved,53,4,0,No,8,0.90309,Pass
+1664,17,New York,8,5,1,Lease,Approved,74,5,0,No,10,1,Fail
+1665,17,New York,5,5,2,Loan,Approved,25,4,1,Yes,6,0.77815,Pass
+1666,17,Sydney,11,5,3,Loan,Approved,29,7,3,Yes,14,1.14613,Fail
+1667,17,New York,17,5,2,Lease,Disapproved,58,4,2,Yes,7,0.8451,Pass
+1668,17,Paris,4,5,1,Loan,Approved,27,3,1,Yes,5,0.69897,Pass
+1669,17,Sydney,8,5,3,Lease,Approved,16,7,3,Yes,12,1.07918,Fail
+1670,17,Sydney,13,3,1,Lease,Disapproved,45,8,3,Yes,15,1.17609,Fail
+1671,17,New York,9,4,3,Lease,Approved,71,7,3,Yes,14,1.14613,Fail
+1672,17,New York,7,4,2,Lease,Approved,72,6,1,Yes,12,1.07918,Fail
+1673,17,New York,11,4,2,Lease,Approved,33,4,1,Yes,6,0.77815,Pass
+1674,17,New York,13,4,3,Loan,Disapproved,64,4,0,No,7,0.8451,Pass
+1675,17,New York,8,4,1,Loan,Approved,55,4,1,Yes,7,0.8451,Pass
+1676,17,New York,8,4,2,Lease,Approved,69,4,0,No,6,0.77815,Pass
+1677,17,New York,6,4,3,Loan,Approved,48,4,0,No,7,0.8451,Pass
+1678,17,New York,6,4,3,Lease,Approved,47,4,0,No,8,0.90309,Pass
+1679,17,New York,10,4,3,Lease,Approved,46,6,3,Yes,11,1.04139,Fail
+1680,17,New York,14,4,3,Lease,Disapproved,35,4,0,No,6,0.77815,Pass
+1681,17,New York,11,4,1,Lease,Approved,51,4,2,Yes,7,0.8451,Pass
+1682,17,New York,11,4,2,Lease,Approved,62,6,5,Yes,12,1.07918,Fail
+1683,17,New York,16,4,1,Lease,Disapproved,53,4,0,No,8,0.90309,Pass
+1684,17,Paris,6,4,2,Lease,Approved,54,4,0,No,6,0.77815,Pass
+1685,17,New York,8,4,2,Lease,Approved,55,6,2,Yes,11,1.04139,Fail
+1686,17,Sydney,13,3,2,Lease,Disapproved,89,6,3,Yes,12,1.07918,Fail
+1687,17,New York,9,3,2,Lease,Approved,78,2,0,No,4,0.60206,Pass
+1688,17,New York,13,3,2,Loan,Disapproved,47,4,0,No,8,0.90309,Pass
+1689,17,Paris,8,4,2,Lease,Approved,86,3,0,No,5,0.69897,Pass
+1690,17,New York,9,3,3,Lease,Approved,25,4,2,Yes,7,0.8451,Pass
+1691,17,New York,8,3,3,Lease,Approved,41,4,0,No,8,0.90309,Pass
+1692,17,New York,17,3,1,Lease,Disapproved,52,4,0,No,6,0.77815,Pass
+1693,17,Sydney,7,3,3,Loan,Approved,53,7,2,Yes,13,1.11394,Fail
+1694,17,Paris,8,4,3,Loan,Approved,64,2,0,No,4,0.60206,Pass
+1695,17,New York,8,3,1,Lease,Approved,55,7,2,Yes,12,1.07918,Fail
+1696,17,New York,12,4,3,Lease,Approved,59,4,2,Yes,7,0.8451,Pass
+1697,17,New York,9,4,2,Lease,Approved,28,4,2,Yes,7,0.8451,Pass
+1698,17,Sydney,11,2,2,Lease,Approved,47,7,2,Yes,13,1.11394,Fail
+1699,17,New York,7,5,2,Lease,Approved,36,4,1,Yes,6,0.77815,Pass
+1700,17,New York,7,2,3,Lease,Approved,85,5,0,No,9,0.95424,Fail
+1701,17,Sydney,8,3,1,Lease,Approved,81,9,3,Yes,17,1.23045,Fail
+1702,17,New York,7,4,2,Lease,Approved,32,5,0,No,10,1,Fail
+1703,17,Paris,13,4,2,Lease,Disapproved,33,3,0,No,5,0.69897,Pass
+1704,17,Paris,9,4,3,Lease,Approved,44,3,0,No,5,0.69897,Pass
+1705,17,New York,12,4,1,Loan,Approved,35,4,2,Yes,6,0.77815,Pass
+1706,17,Paris,13,4,2,Lease,Disapproved,39,2,0,No,4,0.60206,Pass
+1707,17,New York,9,5,1,Lease,Approved,68,4,0,No,8,0.90309,Pass
+1708,17,Paris,11,5,2,Lease,Approved,67,4,1,Yes,6,0.77815,Pass
+1709,17,Paris,12,5,3,Lease,Approved,26,4,1,Yes,6,0.77815,Pass
+1710,17,New York,11,5,3,Lease,Approved,25,6,2,Yes,12,1.07918,Fail
+1711,17,Paris,14,5,3,Loan,Disapproved,71,2,0,No,4,0.60206,Pass
+1712,17,New York,12,5,2,Loan,Approved,42,5,0,No,9,0.95424,Fail
+1713,17,New York,8,5,3,Lease,Approved,53,5,0,No,9,0.95424,Fail
+1714,17,New York,7,5,3,Lease,Approved,44,6,3,Yes,11,1.04139,Fail
+1715,17,Paris,8,5,1,Lease,Approved,45,2,0,No,4,0.60206,Pass
+1716,17,Paris,11,5,1,Lease,Approved,69,3,0,No,5,0.69897,Pass
+1717,17,Paris,7,5,2,Lease,Approved,68,4,1,Yes,6,0.77815,Pass
+1718,17,New York,10,5,1,Lease,Approved,27,4,1,Yes,6,0.77815,Pass
+1719,17,New York,7,5,1,Lease,Approved,46,5,0,No,9,0.95424,Fail
+1720,17,New York,11,5,1,Lease,Approved,45,4,0,No,8,0.90309,Pass
+1721,17,Sydney,6,5,3,Lease,Approved,51,11,4,Yes,21,1.32222,Fail
+1722,17,Sydney,13,5,2,Loan,Approved,42,7,5,Yes,13,1.11394,Fail
+1723,17,New York,8,5,1,Lease,Approved,53,2,0,No,4,0.60206,Pass
+1724,17,Paris,11,5,3,Loan,Approved,44,4,2,Yes,7,0.8451,Pass
+1725,17,New York,5,5,1,Lease,Approved,75,4,0,No,8,0.90309,Pass
+1726,17,Sydney,13,2,2,Lease,Approved,49,8,3,Yes,15,1.17609,Fail
+1727,17,Sydney,8,4,1,Loan,Approved,68,6,2,Yes,11,1.04139,Fail
+1728,17,New York,8,4,1,Lease,Approved,27,4,1,Yes,6,0.77815,Pass
+1729,17,New York,6,4,1,Lease,Approved,76,4,1,Yes,7,0.8451,Pass
+1730,17,Sydney,10,4,3,Lease,Approved,35,5,0,No,9,0.95424,Fail
+1731,17,Sydney,7,4,3,Lease,Approved,51,6,5,Yes,12,1.07918,Fail
+1732,17,New York,8,4,1,Lease,Approved,72,4,1,Yes,6,0.77815,Pass
+1733,17,Paris,10,4,3,Lease,Approved,53,3,0,No,5,0.69897,Pass
+1734,17,Sydney,11,4,3,Loan,Approved,34,5,0,No,10,1,Fail
+1735,17,Paris,8,4,2,Lease,Approved,65,4,1,Yes,6,0.77815,Pass
+1736,17,Paris,11,4,1,Lease,Approved,39,2,0,No,4,0.60206,Pass
+1737,17,Paris,12,4,2,Lease,Approved,88,4,1,Yes,7,0.8451,Pass
+1738,18,New York,11,4,3,Loan,Approved,67,5,0,No,9,0.95424,Fail
+1739,18,Paris,13,4,1,Lease,Approved,56,2,0,No,4,0.60206,Pass
+1740,18,Paris,9,4,1,Loan,Approved,55,4,2,Yes,7,0.8451,Pass
+1741,18,New York,13,3,3,Lease,Approved,51,4,2,Yes,7,0.8451,Pass
+1742,18,Paris,9,3,2,Lease,Approved,42,4,2,Yes,7,0.8451,Pass
+1743,18,New York,8,3,3,Loan,Approved,73,3,0,No,5,0.69897,Pass
+1744,18,New York,11,4,1,Lease,Approved,54,4,0,No,6,0.77815,Pass
+1745,18,New York,9,3,2,Loan,Approved,35,4,1,Yes,7,0.8451,Pass
+1746,18,Sydney,14,3,3,Loan,Disapproved,89,8,4,Yes,17,1.23045,Fail
+1747,18,Sydney,11,3,1,Lease,Approved,48,7,2,Yes,13,1.11394,Fail
+1748,18,Paris,10,4,3,Lease,Approved,27,3,0,No,5,0.69897,Pass
+1749,18,Paris,10,3,1,Loan,Approved,36,4,0,No,8,0.90309,Pass
+1750,18,New York,7,3,3,Loan,Approved,45,4,0,No,8,0.90309,Pass
+1751,18,Paris,5,5,2,Loan,Approved,31,3,0,No,5,0.69897,Pass
+1752,18,New York,8,4,1,Loan,Approved,32,5,0,No,10,1,Fail
+1753,18,Sydney,11,2,1,Lease,Approved,43,7,2,Yes,13,1.11394,Fail
+1754,18,New York,5,4,1,Loan,Approved,94,4,2,Yes,7,0.8451,Pass
+1755,18,Sydney,10,2,3,Lease,Approved,35,8,3,Yes,17,1.23045,Fail
+1756,18,Paris,11,5,2,Lease,Approved,19,4,1,Yes,7,0.8451,Pass
+1757,18,New York,12,5,2,Lease,Approved,28,2,0,No,4,0.60206,Pass
+1758,18,Paris,10,5,3,Lease,Approved,107,4,1,Yes,6,0.77815,Pass
+1759,18,New York,6,4,1,Loan,Approved,86,4,1,Yes,6,0.77815,Pass
+1760,18,New York,7,4,1,Loan,Approved,45,4,0,No,8,0.90309,Pass
+1761,18,Paris,11,5,3,Lease,Approved,111,4,1,Yes,6,0.77815,Pass
+1762,18,New York,7,5,2,Lease,Approved,62,5,0,No,9,0.95424,Fail
+1763,18,Paris,13,5,3,Loan,Disapproved,73,3,0,No,5,0.69897,Pass
+1764,18,Paris,9,5,3,Lease,Approved,34,3,0,No,5,0.69897,Pass
+1765,18,New York,16,4,3,Loan,Disapproved,45,4,1,Yes,6,0.77815,Pass
+1766,18,New York,13,4,1,Loan,Disapproved,49,4,0,No,8,0.90309,Pass
+1767,18,New York,5,5,2,Lease,Approved,38,5,0,No,9,0.95424,Fail
+1768,18,Paris,10,5,2,Lease,Approved,47,3,0,No,5,0.69897,Pass
+1769,18,New York,9,5,1,Lease,Approved,66,4,0,No,8,0.90309,Pass
+1770,18,Paris,6,5,3,Loan,Approved,15,2,0,No,4,0.60206,Pass
+1771,18,Paris,6,5,1,Lease,Approved,41,3,0,No,5,0.69897,Pass
+1772,18,Paris,16,4,1,Loan,Disapproved,92,4,0,No,6,0.77815,Pass
+1773,18,New York,10,5,3,Lease,Approved,53,5,0,No,9,0.95424,Fail
+1774,18,Sydney,8,5,3,Lease,Approved,34,6,3,Yes,12,1.07918,Fail
+1775,18,New York,5,5,1,Lease,Approved,45,4,1,Yes,6,0.77815,Pass
+1776,18,Sydney,8,1,3,Loan,Approved,39,8,3,Yes,15,1.17609,Fail
+1777,18,Sydney,11,5,3,Lease,Approved,58,6,2,Yes,11,1.04139,Fail
+1778,18,New York,10,5,2,Lease,Approved,57,4,1,Yes,7,0.8451,Pass
+1779,18,New York,15,3,1,Lease,Disapproved,46,5,0,No,10,1,Fail
+1780,18,Paris,9,5,3,Lease,Approved,55,4,2,Yes,6,0.77815,Pass
+1781,18,Sydney,5,4,3,Lease,Approved,51,4,0,No,8,0.90309,Pass
+1782,18,New York,11,4,2,Lease,Approved,42,3,0,No,5,0.69897,Pass
+1783,18,New York,9,4,2,Lease,Approved,53,6,2,Yes,11,1.04139,Fail
+1784,18,Sydney,7,4,3,Lease,Approved,44,6,1,Yes,12,1.07918,Fail
+1785,18,Paris,14,4,3,Lease,Disapproved,45,3,1,Yes,5,0.69897,Pass
+1786,18,New York,8,4,3,Lease,Approved,69,4,0,No,8,0.90309,Pass
+1787,18,Paris,10,4,1,Loan,Approved,48,2,0,No,4,0.60206,Pass
+1788,18,New York,7,4,1,Loan,Approved,47,5,0,No,9,0.95424,Fail
+1789,18,New York,17,4,2,Loan,Disapproved,46,5,0,No,10,1,Fail
+1790,18,Sydney,11,4,3,Lease,Approved,35,4,0,No,7,0.8451,Pass
+1791,18,New York,6,4,1,Loan,Approved,31,4,0,No,8,0.90309,Pass
+1792,18,New York,11,4,1,Loan,Approved,22,6,3,Yes,11,1.04139,Fail
+1793,18,Paris,11,4,3,Lease,Approved,33,4,0,No,8,0.90309,Pass
+1794,18,Paris,8,4,1,Lease,Approved,84,3,1,Yes,5,0.69897,Pass
+1795,18,Sydney,8,4,3,Lease,Approved,55,5,0,No,10,1,Fail
+1796,18,New York,8,3,2,Lease,Approved,49,4,0,No,7,0.8451,Pass
+1797,18,New York,6,3,2,Lease,Approved,78,4,0,No,7,0.8451,Pass
+1798,18,Paris,12,3,1,Lease,Approved,47,2,0,No,4,0.60206,Pass
+1799,18,New York,6,3,2,Lease,Approved,26,5,0,No,9,0.95424,Fail
+1800,18,New York,9,3,2,Loan,Approved,65,3,2,Yes,5,0.69897,Pass
+1801,18,New York,7,3,2,Loan,Approved,51,4,0,No,8,0.90309,Pass
+1802,18,Sydney,8,3,1,Loan,Approved,42,6,1,Yes,12,1.07918,Fail
+1803,18,New York,12,4,2,Loan,Approved,33,4,1,Yes,6,0.77815,Pass
+1804,18,New York,14,3,3,Lease,Disapproved,24,5,0,No,9,0.95424,Fail
+1805,18,Paris,14,5,2,Lease,Disapproved,25,3,1,Yes,5,0.69897,Pass
+1806,18,New York,11,4,2,Lease,Approved,79,4,0,No,8,0.90309,Pass
+1807,18,Paris,15,4,2,Lease,Disapproved,68,4,0,No,8,0.90309,Pass
+1808,18,New York,4,4,3,Lease,Approved,27,4,0,No,8,0.90309,Pass
+1809,18,Paris,12,4,3,Lease,Approved,16,3,0,No,5,0.69897,Pass
+1810,18,New York,8,5,2,Loan,Approved,45,4,0,No,7,0.8451,Pass
+1811,18,Sydney,7,2,1,Lease,Approved,31,10,4,Yes,19,1.27875,Fail
+1812,18,New York,8,3,3,Loan,Approved,42,5,0,No,9,0.95424,Fail
+1813,18,New York,9,4,3,Lease,Approved,43,4,0,No,7,0.8451,Pass
+1814,19,Paris,11,4,3,Lease,Approved,74,4,1,Yes,6,0.77815,Pass
+1815,19,New York,9,4,3,Loan,Approved,15,4,2,Yes,6,0.77815,Pass
+1816,19,New York,6,5,2,Loan,Approved,29,2,0,No,4,0.60206,Pass
+1817,19,Paris,9,5,3,Loan,Approved,98,3,0,No,5,0.69897,Pass
+1818,19,New York,5,5,1,Lease,Approved,27,3,0,No,5,0.69897,Pass
+1819,19,Paris,8,5,2,Lease,Approved,36,0,0,No,3,0.47712,Pass
+1820,19,Paris,10,5,1,Lease,Approved,15,4,1,Yes,6,0.77815,Pass
+1821,19,New York,6,5,2,Loan,Approved,91,4,0,No,8,0.90309,Pass
+1822,19,Paris,12,5,3,Lease,Approved,62,2,0,No,4,0.60206,Pass
+1823,19,New York,13,2,2,Lease,Disapproved,63,6,3,Yes,11,1.04139,Fail
+1824,19,New York,8,5,1,Lease,Approved,54,4,0,No,7,0.8451,Pass
+1825,19,Paris,10,5,3,Loan,Approved,25,4,2,Yes,6,0.77815,Pass
+1826,19,New York,12,5,2,Lease,Approved,99,4,0,No,8,0.90309,Pass
+1827,19,New York,11,5,2,Lease,Approved,78,5,0,No,9,0.95424,Fail
+1828,19,Sydney,9,2,2,Lease,Approved,37,8,3,Yes,16,1.20412,Fail
+1829,19,Paris,14,5,2,Lease,Disapproved,66,4,1,Yes,6,0.77815,Pass
+1830,19,New York,8,5,3,Lease,Approved,35,5,0,No,9,0.95424,Fail
+1831,19,Paris,4,5,1,Loan,Approved,71,2,0,No,4,0.60206,Pass
+1832,19,New York,11,5,2,Lease,Approved,32,4,0,No,7,0.8451,Pass
+1833,19,New York,8,5,2,Loan,Approved,73,4,0,No,8,0.90309,Pass
+1834,19,Paris,10,5,1,Loan,Approved,84,4,0,No,7,0.8451,Pass
+1835,19,New York,11,5,1,Lease,Approved,85,6,2,Yes,12,1.07918,Fail
+1836,19,New York,11,4,2,Loan,Approved,49,5,0,No,9,0.95424,Fail
+1837,19,Paris,9,4,2,Lease,Approved,73,4,2,Yes,6,0.77815,Pass
+1838,19,New York,8,4,1,Lease,Approved,37,4,2,Yes,6,0.77815,Pass
+1839,19,New York,16,4,1,Lease,Disapproved,56,5,0,No,9,0.95424,Fail
+1840,19,New York,7,4,3,Loan,Approved,35,6,1,Yes,11,1.04139,Fail
+1841,19,Sydney,10,4,3,Lease,Approved,51,5,0,No,9,0.95424,Fail
+1842,19,New York,15,4,1,Lease,Disapproved,82,5,0,No,9,0.95424,Fail
+1843,19,New York,12,4,2,Lease,Approved,53,4,2,Yes,6,0.77815,Pass
+1844,19,New York,12,4,2,Lease,Approved,148,4,0,No,8,0.90309,Pass
+1845,19,New York,11,4,3,Lease,Approved,35,6,1,Yes,12,1.07918,Fail
+1846,19,New York,10,4,3,Lease,Approved,19,5,0,No,10,1,Fail
+1847,19,New York,11,4,3,Loan,Approved,68,4,0,No,7,0.8451,Pass
+1848,19,New York,11,4,1,Loan,Approved,37,4,0,No,8,0.90309,Pass
+1849,19,Paris,7,4,3,Lease,Approved,76,5,0,No,10,1,Fail
+1850,19,Paris,12,4,3,Lease,Approved,35,3,0,No,5,0.69897,Pass
+1851,19,Paris,14,5,1,Lease,Disapproved,41,3,0,No,5,0.69897,Pass
+1852,19,Paris,11,4,1,Lease,Approved,42,3,0,No,5,0.69897,Pass
+1853,19,Paris,8,3,1,Lease,Approved,83,0,0,No,3,0.47712,Pass
+1854,19,New York,8,3,3,Lease,Approved,34,2,0,No,4,0.60206,Pass
+1855,19,Paris,4,5,3,Loan,Approved,55,3,0,No,5,0.69897,Pass
+1856,19,New York,5,3,3,Lease,Approved,69,4,0,No,7,0.8451,Pass
+1857,19,Sydney,10,3,3,Lease,Approved,48,8,3,Yes,16,1.20412,Fail
+1858,19,New York,7,3,3,Lease,Approved,27,4,0,No,7,0.8451,Pass
+1859,19,New York,8,3,3,Lease,Approved,36,3,2,Yes,5,0.69897,Pass
+1860,19,New York,9,3,3,Loan,Approved,65,4,0,No,7,0.8451,Pass
+1861,19,Paris,9,2,2,Loan,Approved,61,3,0,No,5,0.69897,Pass
+1862,19,New York,7,4,2,Lease,Approved,52,4,0,No,8,0.90309,Pass
+1863,19,New York,5,4,3,Lease,Approved,43,4,2,Yes,6,0.77815,Pass
+1864,19,Paris,13,4,3,Loan,Disapproved,84,4,1,Yes,6,0.77815,Pass
+1865,19,New York,8,4,1,Loan,Approved,85,4,2,Yes,6,0.77815,Pass
+1866,19,New York,3,2,3,Lease,Approved,39,5,0,No,9,0.95424,Fail
+1867,19,New York,16,5,2,Loan,Disapproved,38,5,0,No,10,1,Fail
+1868,19,New York,5,3,2,Lease,Approved,57,5,0,No,9,0.95424,Fail
+1869,19,New York,7,5,3,Lease,Approved,16,3,0,No,5,0.69897,Pass
+1870,19,Paris,12,3,2,Lease,Approved,35,3,0,No,5,0.69897,Pass
+1871,19,New York,16,3,1,Lease,Disapproved,51,6,1,Yes,11,1.04139,Fail
+1872,19,New York,8,5,3,Lease,Approved,42,3,0,No,5,0.69897,Pass
+1873,19,New York,12,5,3,Lease,Approved,83,5,0,No,9,0.95424,Fail
+1874,19,New York,14,4,2,Loan,Disapproved,74,4,0,No,8,0.90309,Pass
+1875,19,Paris,9,5,2,Lease,Approved,75,4,0,No,7,0.8451,Pass
+1876,19,Paris,10,5,1,Lease,Approved,49,3,0,No,5,0.69897,Pass
+1877,19,New York,6,5,3,Lease,Approved,48,4,1,Yes,7,0.8451,Pass
+1878,19,Paris,9,5,3,Lease,Approved,37,3,0,No,5,0.69897,Pass
+1879,19,Sydney,15,1,2,Lease,Disapproved,66,7,1,Yes,13,1.11394,Fail
+1880,19,Sydney,10,2,1,Loan,Approved,35,8,3,Yes,16,1.20412,Fail
+1881,19,New York,9,5,3,Lease,Approved,71,4,0,No,8,0.90309,Pass
+1882,19,Paris,8,5,2,Lease,Approved,52,4,2,Yes,6,0.77815,Pass
+1883,19,Paris,9,5,1,Lease,Approved,73,4,0,No,8,0.90309,Pass
+1884,19,New York,9,5,1,Lease,Approved,44,4,0,No,8,0.90309,Pass
+1885,19,Paris,11,5,3,Lease,Approved,45,4,1,Yes,6,0.77815,Pass
+1886,19,New York,13,3,1,Loan,Disapproved,19,3,0,No,5,0.69897,Pass
+1887,19,New York,11,5,2,Lease,Approved,28,5,0,No,9,0.95424,Fail
+1888,19,New York,12,5,2,Lease,Approved,67,4,1,Yes,6,0.77815,Pass
+1889,19,New York,11,5,2,Lease,Approved,76,4,0,No,8,0.90309,Pass
+1890,19,New York,14,5,1,Lease,Disapproved,25,5,0,No,10,1,Fail
+1891,19,New York,13,4,2,Lease,Disapproved,41,6,1,Yes,11,1.04139,Fail
+1892,19,Paris,7,4,1,Lease,Approved,22,3,0,No,5,0.69897,Pass
+1893,19,Sydney,7,4,1,Lease,Approved,53,7,3,Yes,14,1.14613,Fail
+1894,19,New York,11,4,3,Loan,Approved,44,6,1,Yes,11,1.04139,Fail
+1895,19,New York,7,4,2,Lease,Approved,65,2,0,No,4,0.60206,Pass
+1896,19,New York,7,4,3,Lease,Approved,59,6,1,Yes,11,1.04139,Fail
+1897,19,New York,9,4,2,Lease,Approved,58,4,1,Yes,7,0.8451,Pass
+1898,19,Paris,9,4,3,Lease,Approved,47,4,1,Yes,7,0.8451,Pass
+1899,20,New York,10,4,3,Lease,Approved,71,6,3,Yes,12,1.07918,Fail
+1900,20,New York,17,4,1,Lease,Disapproved,35,3,1,Yes,5,0.69897,Pass
+1901,20,New York,6,4,3,Lease,Approved,61,4,1,Yes,7,0.8451,Pass
+1902,20,New York,6,4,2,Lease,Approved,32,4,1,Yes,7,0.8451,Pass
+1903,20,New York,14,4,2,Lease,Disapproved,53,4,2,Yes,7,0.8451,Pass
+1904,20,Paris,5,4,1,Loan,Approved,44,2,0,No,4,0.60206,Pass
+1905,20,New York,7,4,3,Lease,Approved,65,4,1,Yes,6,0.77815,Pass
+1906,20,Paris,10,3,2,Loan,Approved,39,4,0,No,8,0.90309,Pass
+1907,20,New York,14,3,1,Lease,Disapproved,68,5,0,No,10,1,Fail
+1908,20,New York,6,3,1,Loan,Approved,47,3,1,Yes,5,0.69897,Pass
+1909,20,Paris,7,3,1,Loan,Approved,56,5,0,No,9,0.95424,Fail
+1910,20,New York,10,3,1,Lease,Approved,45,6,2,Yes,11,1.04139,Fail
+1911,20,Sydney,2,3,3,Loan,Approved,61,6,3,Yes,12,1.07918,Fail
+1912,20,New York,8,3,2,Loan,Approved,32,3,0,No,5,0.69897,Pass
+1913,20,New York,12,3,2,Loan,Approved,43,4,0,No,8,0.90309,Pass
+1914,20,Paris,13,5,2,Loan,Approved,34,3,1,Yes,5,0.69897,Pass
+1915,20,New York,8,3,2,Lease,Approved,65,3,0,No,5,0.69897,Pass
+1916,20,New York,10,2,1,Lease,Approved,79,6,1,Yes,11,1.04139,Fail
+1917,20,Sydney,9,2,3,Loan,Approved,28,11,6,Yes,23,1.36173,Fail
+1918,20,Paris,16,4,3,Lease,Disapproved,57,2,0,No,4,0.60206,Pass
+1919,20,New York,12,2,1,Loan,Approved,66,6,3,Yes,12,1.07918,Fail
+1920,20,New York,14,4,3,Lease,Disapproved,25,5,0,No,10,1,Fail
+1921,20,Paris,9,5,2,Loan,Approved,51,5,0,No,9,0.95424,Fail
+1922,20,New York,12,5,2,Lease,Approved,42,0,0,No,3,0.47712,Pass
+1923,20,Sydney,10,3,3,Lease,Approved,53,11,5,Yes,22,1.34242,Fail
+1924,20,New York,7,5,2,Lease,Approved,44,6,1,Yes,11,1.04139,Fail
+1925,20,Sydney,9,4,2,Loan,Approved,95,9,7,Yes,18,1.25527,Fail
+1926,20,Paris,9,5,1,Loan,Approved,44,4,0,No,8,0.90309,Pass
+1927,20,New York,10,5,2,Lease,Approved,98,5,0,No,9,0.95424,Fail
+1928,20,Sydney,8,3,2,Lease,Approved,57,7,3,Yes,14,1.14613,Fail
+1929,20,New York,10,5,1,Lease,Approved,46,5,2,Yes,10,1,Fail
+1930,20,Paris,9,5,2,Loan,Approved,30,4,1,Yes,6,0.77815,Pass
+1931,20,New York,6,5,3,Lease,Approved,81,5,0,No,10,1,Fail
+1932,20,Paris,7,5,3,Lease,Approved,32,4,1,Yes,7,0.8451,Pass
+1933,20,Paris,13,5,3,Loan,Approved,73,4,1,Yes,7,0.8451,Pass
+1934,20,New York,14,3,1,Loan,Disapproved,34,5,0,No,10,1,Fail
+1935,20,Sydney,13,1,2,Loan,Approved,75,9,7,Yes,18,1.25527,Fail
+1936,20,New York,9,5,3,Loan,Approved,39,5,0,No,9,0.95424,Fail
+1937,20,Sydney,8,1,1,Lease,Approved,28,8,3,Yes,16,1.20412,Fail
+1938,20,New York,11,5,2,Lease,Approved,17,4,0,No,6,0.77815,Pass
+1939,20,New York,10,5,1,Loan,Approved,56,4,1,Yes,7,0.8451,Pass
+1940,20,Sydney,7,1,2,Lease,Approved,35,10,4,Yes,19,1.27875,Fail
+1941,20,Sydney,7,5,1,Lease,Approved,31,5,0,No,10,1,Fail
+1942,20,Paris,11,5,3,Lease,Approved,82,0,0,No,3,0.47712,Pass
+1943,20,Paris,8,5,1,Lease,Approved,83,4,1,Yes,7,0.8451,Pass
+1944,20,Paris,14,5,1,Loan,Disapproved,94,2,0,No,4,0.60206,Pass
+1945,20,New York,13,1,2,Lease,Disapproved,65,5,0,No,9,0.95424,Fail
+1946,20,Sydney,13,4,1,Lease,Disapproved,39,7,2,Yes,13,1.11394,Fail
+1947,20,New York,12,4,1,Lease,Approved,88,3,1,Yes,5,0.69897,Pass
+1948,20,Sydney,6,4,3,Lease,Approved,57,7,5,Yes,13,1.11394,Fail
+1949,20,Paris,6,4,1,Lease,Approved,46,3,1,Yes,5,0.69897,Pass
+1950,20,Paris,9,4,2,Lease,Approved,25,3,0,No,5,0.69897,Pass
+1951,20,Sydney,10,4,2,Loan,Approved,71,8,6,Yes,15,1.17609,Fail
+1952,20,Sydney,7,2,2,Lease,Approved,52,14,3,Yes,28,1.44716,Fail
+1953,20,New York,10,4,3,Lease,Approved,53,4,1,Yes,7,0.8451,Pass
+1954,20,New York,12,4,3,Loan,Approved,34,5,0,No,9,0.95424,Fail
+1955,20,Sydney,5,4,1,Lease,Approved,75,4,0,No,8,0.90309,Pass
+1956,20,New York,15,4,1,Lease,Disapproved,39,4,0,No,8,0.90309,Pass
+1957,20,Paris,9,5,3,Loan,Approved,48,0,0,No,3,0.47712,Pass
+1958,20,Paris,12,4,2,Lease,Approved,37,2,0,No,4,0.60206,Pass
+1959,20,New York,8,4,2,Lease,Approved,86,3,1,Yes,5,0.69897,Pass
+1960,20,New York,4,4,2,Lease,Approved,45,5,0,No,9,0.95424,Fail
+1961,20,Sydney,9,3,1,Loan,Approved,61,10,4,Yes,20,1.30103,Fail
+1962,20,New York,14,3,1,Loan,Disapproved,32,4,0,No,8,0.90309,Pass
+1963,20,Paris,9,5,2,Lease,Approved,33,3,1,Yes,5,0.69897,Pass
+1964,20,New York,11,3,2,Lease,Approved,89,5,0,No,9,0.95424,Fail
+1965,20,Sydney,13,3,3,Lease,Disapproved,25,8,3,Yes,16,1.20412,Fail
+1966,20,New York,12,3,3,Lease,Approved,59,4,2,Yes,7,0.8451,Pass
+1967,20,Sydney,15,3,3,Lease,Disapproved,38,8,3,Yes,15,1.17609,Fail
+1968,20,Sydney,12,3,3,Lease,Approved,57,12,3,Yes,26,1.41497,Fail
+1969,20,New York,9,3,3,Lease,Approved,46,3,0,No,5,0.69897,Pass
+1970,20,Sydney,5,3,3,Lease,Approved,65,7,3,Yes,14,1.14613,Fail
+1971,20,Paris,12,4,2,Lease,Approved,61,4,2,Yes,6,0.77815,Pass
+1972,20,Sydney,7,2,1,Lease,Approved,22,8,3,Yes,16,1.20412,Fail
+1973,20,New York,8,2,3,Lease,Approved,53,6,2,Yes,11,1.04139,Fail
+1974,20,New York,17,4,1,Loan,Disapproved,74,5,2,Yes,10,1,Fail
+1975,20,New York,11,2,3,Loan,Approved,65,5,0,No,9,0.95424,Fail
+1976,20,Paris,14,4,2,Loan,Disapproved,49,2,0,No,4,0.60206,Pass
+1977,20,Paris,8,4,2,Lease,Approved,48,2,0,No,4,0.60206,Pass
+1978,20,Paris,10,5,3,Lease,Approved,135,2,0,No,4,0.60206,Pass
+1979,20,Sydney,11,5,3,Lease,Approved,56,6,1,Yes,12,1.07918,Fail
+1980,20,New York,4,3,1,Lease,Approved,35,5,0,No,9,0.95424,Fail
+1981,20,Sydney,8,1,1,Lease,Approved,41,12,3,Yes,26,1.41497,Fail
+1982,20,Paris,9,5,2,Lease,Approved,72,3,1,Yes,5,0.69897,Pass
+1983,20,Sydney,10,3,3,Lease,Approved,43,8,6,Yes,15,1.17609,Fail
+1984,20,New York,14,2,3,Lease,Disapproved,94,7,1,Yes,13,1.11394,Fail
+1985,20,Sydney,10,5,1,Lease,Approved,55,7,2,Yes,12,1.07918,Fail
+1986,20,Sydney,13,2,1,Loan,Disapproved,29,7,2,Yes,13,1.11394,Fail
+1987,20,New York,10,5,2,Lease,Approved,38,5,0,No,10,1,Fail
+1988,20,New York,11,1,3,Lease,Approved,27,8,3,Yes,16,1.20412,Fail
+1989,20,Sydney,8,1,2,Lease,Approved,36,14,3,Yes,30,1.47712,Fail
+1990,20,New York,10,5,1,Lease,Approved,25,3,1,Yes,5,0.69897,Pass
+1991,20,New York,12,5,2,Lease,Approved,81,4,0,No,8,0.90309,Pass
+1992,20,Paris,12,5,2,Lease,Approved,32,4,1,Yes,6,0.77815,Pass
+1993,20,Sydney,10,4,1,Loan,Approved,63,7,1,Yes,13,1.11394,Fail
+1994,20,New York,11,5,1,Lease,Approved,54,4,0,No,7,0.8451,Pass
+1995,20,New York,8,5,3,Loan,Approved,35,4,0,No,8,0.90309,Pass
+1996,20,Sydney,11,5,3,Lease,Approved,69,7,3,Yes,14,1.14613,Fail
+1997,20,Paris,13,4,1,Lease,Disapproved,68,2,0,No,4,0.60206,Pass
+1998,20,Sydney,9,2,1,Loan,Approved,37,8,3,Yes,15,1.17609,Fail
+1999,20,Sydney,13,4,2,Lease,Disapproved,56,8,3,Yes,15,1.17609,Fail
+2000,20,New York,11,5,3,Lease,Approved,25,6,2,Yes,12,1.07918,Fail
+2001,20,Sydney,6,4,3,Lease,Approved,71,5,2,Yes,10,1,Fail
+2002,20,New York,11,4,1,Loan,Approved,42,5,0,No,9,0.95424,Fail
+2003,20,Sydney,6,4,2,Lease,Approved,33,9,8,Yes,18,1.25527,Fail
+2004,20,New York,11,4,1,Lease,Approved,84,4,1,Yes,7,0.8451,Pass
+2005,20,Sydney,13,4,1,Lease,Disapproved,25,11,5,Yes,22,1.34242,Fail
+2006,20,Sydney,12,4,1,Lease,Approved,39,7,3,Yes,14,1.14613,Fail
+2007,20,Sydney,13,4,3,Loan,Disapproved,38,7,3,Yes,14,1.14613,Fail
+2008,20,New York,11,4,2,Loan,Approved,67,3,1,Yes,5,0.69897,Pass
+2009,20,Paris,7,4,1,Lease,Approved,76,4,1,Yes,7,0.8451,Pass
+2010,20,New York,10,4,1,Lease,Approved,55,5,0,No,9,0.95424,Fail
+2011,20,New York,5,4,2,Lease,Approved,71,4,0,No,8,0.90309,Pass
+2012,20,Sydney,15,4,2,Lease,Disapproved,42,6,2,Yes,11,1.04139,Fail
+2013,20,New York,9,4,1,Lease,Approved,53,6,3,Yes,12,1.07918,Fail
+2014,20,Sydney,9,4,3,Lease,Approved,64,12,2,Yes,26,1.41497,Fail
+2015,20,Sydney,13,4,1,Lease,Disapproved,65,12,3,Yes,26,1.41497,Fail
+2016,20,Sydney,7,3,1,Lease,Approved,39,10,4,Yes,19,1.27875,Fail
+2017,20,New York,14,3,1,Lease,Disapproved,38,3,0,No,5,0.69897,Pass
+2018,20,New York,12,3,1,Lease,Approved,67,3,1,Yes,5,0.69897,Pass
+2019,20,New York,5,3,2,Loan,Approved,16,6,2,Yes,12,1.07918,Fail
+2020,20,New York,15,3,3,Loan,Disapproved,35,3,0,No,5,0.69897,Pass
